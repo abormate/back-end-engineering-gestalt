@@ -1,5 +1,5 @@
 * {
-  font-family: Verdana;
+  border: 1px solid red;
 }
 
 p {
@@ -8,4 +8,8 @@ p {
 
 h1 {
   color: maroon;
+}
+
+h1.title {
+  color: teal;
 }
