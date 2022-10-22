@@ -9,15 +9,12 @@ body {
   padding: 0;
 }
 
-h1, h2 {
-  font-family: Georgia;
-}
-
 h1 {
   color: #FFF;
   font-size: 2em;
   padding-top: 100px;
   width: 100%;
+  font-family: Georgia;
 }
 
 h2 {
@@ -29,6 +26,7 @@ h2 {
   padding-bottom: 30px;
   text-align: left;
   width: 70%;
+  font-family: Georgia;
 }
 
 p {
@@ -36,6 +34,7 @@ p {
   line-height: 1.3em;
   text-align: left;
   width: 100%;
+  font-size: 18px;
   font-family: Helvetica;
 }
 
