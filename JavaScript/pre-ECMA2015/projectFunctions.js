@@ -9,3 +9,11 @@ function canIVote(age) {
     return false;
   }
 };
+
+function agreeOrDisagree(string1, string2) {
+  if (string1 === string2) {
+    return 'You agree!';
+  } else {
+    return 'You disagree!';
+  }
+};
