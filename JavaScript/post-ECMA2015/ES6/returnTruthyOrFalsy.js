@@ -5,3 +5,5 @@ let truthyOrFalsy = value => {
     return false
   }
 };
+
+// Outputs if the input value is true or false
