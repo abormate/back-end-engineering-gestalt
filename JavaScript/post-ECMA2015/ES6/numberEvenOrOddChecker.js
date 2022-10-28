@@ -7,3 +7,6 @@ const isEven = num => {
 }
 
 console.log(isEven(4));
+
+
+// Checks if the input number is even or odd
