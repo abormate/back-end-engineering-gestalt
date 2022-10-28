@@ -9,3 +9,5 @@ const numberDigits = x => {
 }
 
 console.log(numberDigits(7));
+
+// Identifies if a number has one or two digits. If more digits, this program returns the number input back to you
