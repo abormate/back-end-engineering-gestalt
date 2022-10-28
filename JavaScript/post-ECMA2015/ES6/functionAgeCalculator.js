@@ -14,3 +14,5 @@ const howOld = (age, year) => {
         return `You were ${newAge} in the year ${year}`
     }
 }
+
+// Calculates your age after the input number of years
