@@ -11,3 +11,5 @@ const tipCalculator = (quality, total) => {
     return total*0.18
   }
 }
+
+// Calculates the recommended tip based on the cost of food and quality of service
