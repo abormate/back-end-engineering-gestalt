@@ -14,3 +14,5 @@ let calculateWeight = (earthWeight, planet) => {
       return 'Invalid Planet Entry. Try: Mercury, Venus, Mars, Jupiter, or Saturn.'
   }
 };
+
+// Calculates equivalent weights based on Earth weight on different planets
