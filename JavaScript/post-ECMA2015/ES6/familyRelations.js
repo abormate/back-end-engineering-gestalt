@@ -27,3 +27,6 @@ console.log(whatRelation(34))
 
 console.log(whatRelation(3))
 // Should print 'You are likely 2nd cousins.'
+
+
+// Program outputs your relation with others based on your DNA test results
