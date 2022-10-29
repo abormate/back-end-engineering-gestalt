@@ -14,3 +14,5 @@ function finalGrade(score1, score2, score3) {
     return 'A'
   }
 };
+
+// assigns final grade based on test scores
