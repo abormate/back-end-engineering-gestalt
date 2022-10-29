@@ -8,3 +8,5 @@ const rollTheDice = () => {
 }
 
 console.log(rollTheDice());
+
+// Output possible values given by a dice roll
