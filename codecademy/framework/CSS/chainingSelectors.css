@@ -61,3 +61,5 @@ h5 {
 h2.destination {
   font-family: Tahoma;
 }
+
+/* chaining multiple selectors so you can be more specific with your code declaration/css rule set */
