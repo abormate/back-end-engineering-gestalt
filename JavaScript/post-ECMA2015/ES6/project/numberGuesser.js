@@ -6,3 +6,15 @@ let currentRoundNumber = 1;
 const generateTarget = () => {
   return Math.floor(Math.random() * 9);
 };
+
+const compareGuesses = (humanGuess, computerGuess, secretTarget) => {
+  diffHuman = Math.abs(secretTarget - humanGuess);
+  diffComputer = Math.abs(secretTarget - computerGuess);
+  if (diffHuman < diffComputer) {
+    return true
+  } else if (diffHuman > diffComputer) {
+    return false
+  } else {
+    return true
+  }
+};
