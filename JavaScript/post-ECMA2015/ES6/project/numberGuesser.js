@@ -6,7 +6,6 @@ let currentRoundNumber = 1;
 const generateTarget = () => {
   return Math.floor(Math.random() * 9);
 };
-
 const compareGuesses = (humanGuess, computerGuess, secretTarget) => {
   diffHuman = Math.abs(secretTarget - humanGuess);
   diffComputer = Math.abs(secretTarget - computerGuess);
@@ -18,3 +17,18 @@ const compareGuesses = (humanGuess, computerGuess, secretTarget) => {
     return true
   }
 };
+
+const updateScore = (stringWinner) => {
+  if (stringWinner === 'human') {
+    humanScore +=1;
+  } else {
+    computerScore +=1;
+  }
+};
+
+const advanceRound = () => {
+  currentRoundNumber +=1;
+};
+
+
+
