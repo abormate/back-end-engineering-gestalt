@@ -21,3 +21,5 @@ let honorRoll = Object.values(students).filter(student => {
   return student.gpa >= GPA_BENCHMARK;
 });
 console.log(honorRoll);
+
+// looks for and finds students' names based on their GPA
