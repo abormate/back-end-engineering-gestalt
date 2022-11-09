@@ -7,3 +7,5 @@ const coolStuff = ['gameboys', 'skateboards', 'backwards hats', 'fruit-by-the-fo
 const myStuff = [ 'rules', 'fruit-by-the-foot', 'wedgies', 'sweaters', 'skateboards', 'family-night', 'my room', 'braces', 'the information superhighway']; 
 
 console.log(justCoolStuff(myStuff, coolStuff))
+
+// Outputs an array and filters words inside array1 based on what is common with words inside array2
