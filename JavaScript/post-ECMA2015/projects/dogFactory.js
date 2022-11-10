@@ -29,3 +29,5 @@ onst dogFactory = (name, breed, weight) => {
         }
     }
 }
+
+// Outputs
