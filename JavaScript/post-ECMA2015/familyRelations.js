@@ -1,3 +1,4 @@
+---
 const whatRelation = percentSharedDNA => {
     if (percentSharedDNA === 100) {
         return 'You are likely identical twins.'
