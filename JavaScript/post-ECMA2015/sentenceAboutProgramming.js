@@ -4,3 +4,4 @@ const sillySentence = (adjective, verb, noun) => {
 }
 
 // Outputs a sentence string based on input strings that is joined via literal concatenation
+---
