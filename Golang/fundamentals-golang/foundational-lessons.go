@@ -34,3 +34,13 @@ Instructions are basic math operations like addition, subtraction, multiplicatio
 For example, an ARM processor uses the ADD instruction when supplied with the number 0100 in binary.
 */
 
+// ------------------------------------
+//
+// Go, C, Rust, etceterra 
+//
+// ------------------------------------
+
+/*
+Go, C, and Rust are all languages where the code is first converted to machine code by the compiler before it's executed.
+
+*/
