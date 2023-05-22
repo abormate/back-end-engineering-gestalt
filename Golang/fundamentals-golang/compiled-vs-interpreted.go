@@ -38,3 +38,16 @@ our server we don't need to include any runtime language dependencies like Node 
 just add the pre-compiled binary to the server and start it up!
 */
 
+// ------------------------------
+//
+// Question for Practice
+//
+// ------------------------------
+
+/*
+DO users of compile programs need access to source code?
+*/
+
+// Initial
+// No 
+
