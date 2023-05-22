@@ -44,3 +44,17 @@ For example, an ARM processor uses the ADD instruction when supplied with the nu
 Go, C, and Rust are all languages where the code is first converted to machine code by the compiler before it's executed.
 
 */
+
+// ----------------------------------
+// 
+// Question for Go Practice
+//
+// ----------------------------------
+
+// Do computer processors understand English instructions like 'open the browser'?
+
+// Initial
+// No
+
+// Result
+// Correct
