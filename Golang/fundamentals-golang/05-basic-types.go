@@ -47,3 +47,12 @@ you would write:
 
 var number int
 
+/*
+To declare a variable called pi to be of type float64 with a value of 3.14159, you would write:
+
+*/
+
+var pi float64 = 3.14159
+
+
+
