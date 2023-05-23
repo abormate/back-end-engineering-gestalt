@@ -66,3 +66,12 @@ Initialize the given variables to int, float64, bool, string respectively with t
 
 */
 
+package main
+
+import "fmt"
+
+func main() {
+	// initialize variables here
+
+	fmt.Printf("%v %f %v %q\n", smsSendingLimit, costPerSMS, hasPermission, username)
+}
