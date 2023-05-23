@@ -32,3 +32,18 @@ to more precisely store more digits. Don't worry too much about the intricacies 
 We will cover some of them in more detail as the course progresses.
 
 */
+
+// ---------------------------------
+//
+// Declaring a Variable
+//
+// ---------------------------------
+
+/*
+Variables are declared using the var keyword. For example, to declare a variable called number of type int, 
+you would write:
+
+*/
+
+var number int
+
