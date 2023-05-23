@@ -55,4 +55,14 @@ To declare a variable called pi to be of type float64 with a value of 3.14159, y
 var pi float64 = 3.14159
 
 
+// --------------------------------
+//
+// Initialize some Variables
+//
+// --------------------------------
+
+/*
+Initialize the given variables to int, float64, bool, string respectively with their zero values
+
+*/
 
