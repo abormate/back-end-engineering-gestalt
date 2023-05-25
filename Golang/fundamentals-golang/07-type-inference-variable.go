@@ -39,3 +39,12 @@ be a fraction of a penny, so we should use a float64 to store this value.
 Edit the penniesPerText declaration so that it's inferred by the compiler to be a float64.
 
 */
+
+package main
+
+import "fmt"
+
+func main() {
+	penniesPerText := 0.2
+	fmt.Printf("The type of penniesPerText is %T\n", penniesPerText)
+}
