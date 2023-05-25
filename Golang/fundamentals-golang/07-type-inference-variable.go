@@ -32,3 +32,10 @@ g := 0.867 + 0.5i // complex128
 //
 // -------------------------------
 
+/*
+Our current price to send a text message is 2 cents. However, it's likely that in the future the price will 
+be a fraction of a penny, so we should use a float64 to store this value.
+
+Edit the penniesPerText declaration so that it's inferred by the compiler to be a float64.
+
+*/
