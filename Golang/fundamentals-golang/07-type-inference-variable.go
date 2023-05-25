@@ -20,3 +20,7 @@ However, when the right hand side is a literal value (an untyped numeric constan
 variable will be an int, float64, or complex128 depending on its precision:
 
 */
+
+i := 42           // int
+f := 3.14         // float64
+g := 0.867 + 0.5i // complex128
