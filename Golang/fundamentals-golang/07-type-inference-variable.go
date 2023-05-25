@@ -14,3 +14,8 @@ When the right hand side of the declaration is typed, the new variable is of tha
 
 var i int
 j := i // j is also an int
+
+/*
+
+
+*/
