@@ -12,3 +12,6 @@ assuming they are in order.
 func add(x, y int) int {
 	return x + y
   }
+
+// If they are not (arguments) in order they need to be defined separately.
+
