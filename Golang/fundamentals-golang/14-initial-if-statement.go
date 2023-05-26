@@ -31,3 +31,10 @@ if length := getLength(email); length < 1 {
     fmt.Println("Email is invalid")
 }
 
+/*
+Not only is this code a bit shorter, but it also removes length from the parent scope, which is convenient 
+because we don't need it there - we only need access to it while checking a condition.
+
+*/
+
+// Generally, Initial statements for IF loops are there -- to keep the code concise and the scope limited.
