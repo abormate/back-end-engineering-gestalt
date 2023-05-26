@@ -9,3 +9,6 @@ When multiple arguments are of the same type, the type only needs to be declared
 assuming they are in order.
 */
 
+func add(x, y int) int {
+	return x + y
+  }
