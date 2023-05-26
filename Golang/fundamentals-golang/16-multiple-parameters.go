@@ -15,3 +15,12 @@ func add(x, y int) int {
 
 // If they are not (arguments) in order they need to be defined separately.
 
+// --------------------------- //
+//
+// Assignment -- Practice
+//
+// --------------------------- //
+
+// Which of the following is the most succinct way to write a function signature?
+
+func createUser(firstName, lastName, string, age int)
