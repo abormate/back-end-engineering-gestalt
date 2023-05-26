@@ -20,3 +20,24 @@ if height > 6 {
     fmt.Println("You are not tall enough!")
 }
 
+// ------------------------------- //
+//
+// Assignment -- Practice
+//
+// ------------------------------- //
+
+/*
+Fix the bug on line 12. The if statement should print "Message sent" if the messageLen is less than or equal to the maxMessageLen, or "Message not sent" otherwise.
+
+TIPS
+Here are some of the comparison operators in Go:
+
+== equal to
+!= not equal to
+< less than
+> greater than
+<= less than or equal to
+>= greater than or equal to
+
+*/
+
