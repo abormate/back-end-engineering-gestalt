@@ -49,8 +49,26 @@ f func(func(int,int) int, int) int
 // -------------------------- //
 
 /*
+1.
 What are we talking about when we discuss declaration syntax?
 */
 
 // The style of language used to create new variables, types, functions, et ceterra...
+
+/*
+2.
+Which language's declaration syntax read like English from left to right?
+*/
+
+// Golang
+
+/* 
+3.
+What is 'f func(func(int,int) int, int) int'?
+*/
+
+// A function named 'f' that takes a function and an int as arguments and returns an int
+
+
+
 
