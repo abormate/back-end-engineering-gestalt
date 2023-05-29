@@ -12,3 +12,9 @@ For example:
 
 */
 
+func getPoint() (x int, y int) {
+	return 3, 4
+  }
+  
+  // ignore y value
+  x, _ := getPoint()
