@@ -11,3 +11,16 @@ unable to mutate the caller's original data
 
 */
 
+func main(){
+    x := 5
+    increment(x)
+
+    fmt.Println(x)
+    // still prints 5,
+    // because the increment function
+    // received a copy of x
+}
+
+func increment(x int){
+    x++
+}
