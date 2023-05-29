@@ -23,3 +23,9 @@ func getCoords() (x, y int){
 	return // implicitly returns x and y
   }
 
+// -------------------------- //
+//  Assignment -- Practice
+// -------------------------- //
+
+// Fix the function to return the named values implicitly.
+
