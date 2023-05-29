@@ -21,9 +21,9 @@ func getPoint() (x int, y int) {
 
   // Even though getPoint() returns two values, we can capture the first one and ignore the second.
 
-// ------------------------- //
+// ----------------------------- //
 //  Why -- Ignoring a return value?
-// ------------------------- //
+// ----------------------------- //
 
 /*
 There could be many reasons. For example, maybe a function called getCircle returns the center point and the 
@@ -34,3 +34,24 @@ This is crucial to understand because the Go compiler will throw an error if you
 declarations in your code, so you need to ignore anything you don't intend to use.
 
 */
+
+// ---------------------------- //
+//  Assignment -- Practice
+// ---------------------------- //
+
+// In this code snippet, we only need our customer's first name. Ignore the last name so that the code compiles.
+
+package main
+
+import "fmt"
+
+func main() {
+	firstName, _ := getNames()
+	fmt.Println("Welcome to Textio,", firstName)
+}
+
+// don't edit below this line
+
+func getNames() (string, string) {
+	return "John", "Doe"
+}
