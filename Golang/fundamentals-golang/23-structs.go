@@ -22,3 +22,9 @@ This creates a new struct type called car. All cars have a Make, Model, Height a
 
 */
 
+/*
+In Go, you will often use a struct to represent information that you would have used a dictionary for in Python, 
+or an object literal for in JavaScript.
+
+*/
+
