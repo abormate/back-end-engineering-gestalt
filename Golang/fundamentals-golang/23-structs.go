@@ -17,3 +17,8 @@ type car struct {
 	Width int
   }
 
+/*
+This creates a new struct type called car. All cars have a Make, Model, Height and Width.
+
+*/
+
