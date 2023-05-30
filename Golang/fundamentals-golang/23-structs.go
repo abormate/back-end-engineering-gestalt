@@ -28,3 +28,15 @@ or an object literal for in JavaScript.
 
 */
 
+// ----------------------- //
+//  Assignment -- Practice
+// ----------------------- //
+
+/*
+Complete the messageToSend struct definition. It needs two fields:
+
+phoneNumber - an integer
+message - a string.
+
+*/
+
