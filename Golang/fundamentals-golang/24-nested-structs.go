@@ -20,4 +20,5 @@ type car struct {
 	Material string
   }
 
-  
+// The fields of a struct can be accessed using the dot . operator.
+
