@@ -22,3 +22,5 @@ type car struct {
 
 // The fields of a struct can be accessed using the dot . operator.
 
+myCar := car{}
+myCar.FrontWheel.Radius = 5
