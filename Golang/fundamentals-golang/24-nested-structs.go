@@ -24,3 +24,8 @@ type car struct {
 
 myCar := car{}
 myCar.FrontWheel.Radius = 5
+
+// ------------------------- //
+// Assignment -- Practice
+// ------------------------- //
+
