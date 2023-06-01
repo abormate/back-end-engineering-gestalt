@@ -22,3 +22,6 @@ myCar := struct {
 	Make: "tesla",
 	Model: "model 3"
   }
+
+// You can even nest anonymous structs as fields within other structs:
+
