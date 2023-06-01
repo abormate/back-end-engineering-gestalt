@@ -41,4 +41,13 @@ type car struct {
   //  When should you use anonymous Structs
   // ----------------------- //
 
-  
+/*
+In general, prefer named structs. Named structs make it easier to read and understand your code, and they have the nice side-effect 
+of being reusable. I sometimes use anonymous structs when I know I won't ever need to use a struct again. For example, sometimes I'll 
+use one to create the shape of some JSON data in HTTP handlers.
+
+If a struct is only meant to be used once, then it makes sense to declare it in such a way that developers down the road wont be 
+tempted to accidentally use it again.
+
+*/
+
