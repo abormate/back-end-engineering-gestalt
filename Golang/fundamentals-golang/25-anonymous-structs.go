@@ -36,3 +36,9 @@ type car struct {
 	  Material string
 	}
   }
+
+  // ----------------------- //
+  //  When should you use anonymous Structs
+  // ----------------------- //
+
+  
