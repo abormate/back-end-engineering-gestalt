@@ -23,3 +23,27 @@ type car struct {
 	car
 	bedSize int
   }
+
+// ------------------------ //
+//  Embedded vs Nested
+// ------------------------ //
+
+/*
+An embedded struct's fields are accessed at the top level, unlike nested structs.
+Promoted fields can be accessed like normal fields except that they can't be used in composite literals
+*/
+
+lanesTruck := truck{
+	bedSize: 10,
+	car: car{
+	  make: "toyota",
+	  model: "camry",
+	},
+  }
+  
+  fmt.Println(lanesTruck.bedSize)
+  
+  // embedded fields promoted to the top-level
+  // instead of lanesTruck.car.make
+  fmt.Println(lanesTruck.make)
+  fmt.Println(lanesTruck.model)
