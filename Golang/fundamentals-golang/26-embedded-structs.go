@@ -47,3 +47,9 @@ lanesTruck := truck{
   // instead of lanesTruck.car.make
   fmt.Println(lanesTruck.make)
   fmt.Println(lanesTruck.model)
+
+  // --------------------- //
+  // Assignment -- Practice
+  // --------------------- //
+
+  /*
