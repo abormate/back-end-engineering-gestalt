@@ -36,3 +36,7 @@ type shape interface {
   func (c circle) perimeter() float64 {
 	  return 2 * math.Pi * c.radius
   }
+
+  // When a type implements an interface, it can then be used as the interface type.
+
+  
