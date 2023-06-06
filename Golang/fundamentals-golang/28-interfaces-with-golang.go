@@ -39,6 +39,10 @@ type shape interface {
 
 // When a type implements an interface, it can then be used as the interface type.
 
+// ------------------------ //
+//  Assignment -- Practice
+// ------------------------ //
+
 /*
 The birthdayMessage and sendingReport structs have already implemented the getMessage methods. The getMessage method simply returns 
 a string, and any type that implements the method can be considered a message.
