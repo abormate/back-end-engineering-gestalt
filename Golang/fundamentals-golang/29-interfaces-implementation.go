@@ -47,7 +47,9 @@ func (c contractor) getName() string {
 	return c.name
 }
 
-// ?
+func (gs contractor) getSalary() int {
+	return gs.hourlyPay * gs.hoursPerYear
+} 
 
 // don't touch below this line
 
