@@ -103,3 +103,11 @@ Implicit interfaces decouple the definition of an interface from its implementat
 process be unknowingly implementing various interfaces, and that's okay.
 
 */
+
+// ------------------------ //
+// Can a type fulfill multiple interfaces?
+// ------------------------ //
+
+// Initial
+// Yes, why not?
+
