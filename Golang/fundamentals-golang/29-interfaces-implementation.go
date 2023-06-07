@@ -87,3 +87,10 @@ func main() {
 		hoursPerYear: 982,
 	})
 }
+
+// ------------------------- //
+// How is an interface fulfilled?
+// ------------------------- //
+
+// Initial
+// A type has all the required interface's methods defined on it
