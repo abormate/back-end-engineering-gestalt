@@ -36,5 +36,6 @@ This is different from most other languages, where you have to explicitly assign
 class Circle implements Shape
 
 // ------------------------- //
-//
+// In the example given, the _____ type implements the ________ interface
 // ------------------------- //
+
