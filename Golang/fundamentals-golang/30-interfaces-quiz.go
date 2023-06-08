@@ -39,3 +39,6 @@ class Circle implements Shape
 // In the example given, the _____ type implements the ________ interface
 // ------------------------- //
 
+// Initial 
+// circle, shape
+
