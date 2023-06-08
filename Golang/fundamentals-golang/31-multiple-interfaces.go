@@ -23,6 +23,16 @@ Add the required methods so that the email type implements both the expense and 
 
 If the email is not "subscribed", then the cost is 0.05 for each character in the body. If it is, then the cost is 0.01 per character.
 
+
+// ------------------------- //
+// Print()
+// ------------------------- //
+The print method should print to standard out the email's body text.
+
+
+// ------------------------- //
 */
+
+
 
 
