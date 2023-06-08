@@ -97,6 +97,3 @@ func main() {
 	}
 	test(e, e)
 }
-
-
-
