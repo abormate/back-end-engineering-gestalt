@@ -19,3 +19,7 @@ what the heck is that int that's being returned?
 Let's add some named arguments and return data to make it more clear.
 
 */
+
+type Copier interface {
+	Copy(sourceFile string, destinationFile string) (bytesCopied int)
+  }
