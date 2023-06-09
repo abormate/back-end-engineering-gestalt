@@ -23,3 +23,9 @@ Let's add some named arguments and return data to make it more clear.
 type Copier interface {
 	Copy(sourceFile string, destinationFile string) (bytesCopied int)
   }
+
+/*
+Much better. We can see what the expectations are now. The first argument is the sourceFile, the second argument is the 
+destinationFile, and bytesCopied, an integer, is returned.
+
+*/
