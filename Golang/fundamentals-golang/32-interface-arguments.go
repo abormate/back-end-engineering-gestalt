@@ -29,3 +29,14 @@ Much better. We can see what the expectations are now. The first argument is the
 destinationFile, and bytesCopied, an integer, is returned.
 
 */
+
+// ---------------------- //
+//  Assignment -- Practice
+// ---------------------- //
+
+/*
+Why would you name your interface's method parameters?
+
+*/
+
+// Readability and clarity
