@@ -10,3 +10,22 @@ You can cast an interface to its underlying type using a type assertion.
 
 */
 
+type shape interface {
+	area() float64
+}
+
+type circle struct {
+	radius float64
+}
+
+// "c" is a new circle cast from "s"
+// which is an instance of a shape.
+// "ok" is a bool that is true if s was a circle
+// or false if s isn't a circle
+c, ok := s.(circle)
+if !ok {
+	// s wasn't a circle
+	log.Fatal("s is not a circle")
+}
+
+radius := c.radius
