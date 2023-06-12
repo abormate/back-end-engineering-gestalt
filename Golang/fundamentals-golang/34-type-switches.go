@@ -145,5 +145,3 @@ func main() {
 	})
 	test(invalid{})
 }
-
-
