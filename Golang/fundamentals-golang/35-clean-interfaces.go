@@ -24,3 +24,11 @@ Here is an example from the standard HTTP package of a larger interface thats a 
 
 */
 
+type File interface {
+    io.Closer
+    io.Reader
+    io.Seeker
+    Readdir(count int) ([]os.FileInfo, error)
+    Stat() (os.FileInfo, error)
+}
+
