@@ -10,7 +10,7 @@ very quickly if you’re not careful. Let’s go over some rules of thumb for ke
 
 */
 
-
+// ---------------------------------- //
 
 // 1.
 /*
@@ -18,3 +18,9 @@ If there is only one piece of advice that you take away from this article, make 
 meant to define the minimal behavior necessary to accurately represent an idea or concept.
 
 */
+
+/*
+Here is an example from the standard HTTP package of a larger interface thats a good example of defining minimal behavior:
+
+*/
+
