@@ -32,3 +32,9 @@ type File interface {
     Stat() (os.FileInfo, error)
 }
 
+/*
+Any type that satisfies the interface’s behaviors can be considered by the HTTP package as a File. This is convenient because the 
+HTTP package doesn’t need to know if it’s dealing with a file on disk, a network buffer, or a simple []byte
+
+*/
+
