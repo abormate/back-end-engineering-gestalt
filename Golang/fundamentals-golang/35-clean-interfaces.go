@@ -47,3 +47,8 @@ of any types that happen to satisfy the interface at design time.
 
 */
 
+/*
+For example, let’s assume we are building an interface to describe the components necessary to define a car.
+
+*/
+
