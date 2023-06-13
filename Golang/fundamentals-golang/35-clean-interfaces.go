@@ -38,3 +38,12 @@ HTTP package doesn’t need to know if it’s dealing with a file on disk, a net
 
 */
 
+// ----------------------------------- //
+
+// 2.
+/*
+An interface should define what is necessary for other types to classify as a member of that interface. They shouldn’t be aware 
+of any types that happen to satisfy the interface at design time.
+
+*/
+
