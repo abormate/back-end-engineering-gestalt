@@ -10,3 +10,11 @@ very quickly if you’re not careful. Let’s go over some rules of thumb for ke
 
 */
 
+
+
+// 1.
+/*
+If there is only one piece of advice that you take away from this article, make it this: keep interfaces small! Interfaces are 
+meant to define the minimal behavior necessary to accurately represent an idea or concept.
+
+*/
