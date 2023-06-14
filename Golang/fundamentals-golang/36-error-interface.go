@@ -31,3 +31,6 @@ if err != nil {
 }
 // if we get here, then
 // i was converted successfully
+
+// A nil error denotes success; a non-nil error denotes failure.
+
