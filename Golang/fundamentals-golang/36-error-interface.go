@@ -12,3 +12,8 @@ Go programs express errors with error values. An Error is any type that implemen
 type error interface {
     Error() string
 }
+
+/*
+
+
+*/
