@@ -23,3 +23,10 @@ const age = 22
 s = `${name} is ${age} years old.`
 // s = "Kim is 22 years old."
 
+// Rounding Float values
+fmt.Printf("I am %f years old", 10.523)
+// I am 10.523000 years old
+
+// The ".2" rounds the number to 2 decimal places
+fmt.Printf("I am %.2f years old", 10.523)
+// I am 10.53 years old
