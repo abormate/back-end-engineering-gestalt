@@ -17,3 +17,9 @@ const age = 22
 s := fmt.Sprintf("%v is %v years old.", name, age)
 // s = "Kim is 22 years old."
 
+// Equivalent in JavaScript code:
+const name = 'Kim'
+const age = 22
+s = `${name} is ${age} years old.`
+// s = "Kim is 22 years old."
+
