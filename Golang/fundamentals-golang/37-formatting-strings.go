@@ -11,3 +11,9 @@ what you want.
 
 */
 
+// Default Values
+const name = "Kim"
+const age = 22
+s := fmt.Sprintf("%v is %v years old.", name, age)
+// s = "Kim is 22 years old."
+
