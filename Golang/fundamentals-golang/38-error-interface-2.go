@@ -19,3 +19,10 @@ func (e userError) Error() string {
 }
 
 // It can then be used as an error:
+
+func sendSMS(msg, userName string) error {
+    if !canSendToUser(userName) {
+        return userError{name: userName}
+    }
+    ...
+}
