@@ -12,3 +12,10 @@ For example, Python raises exception types and JavaScript throws and catches err
 handle like any other value - however, we want! There aren't any special keywords for dealing with them.
 
 */
+
+// ----------------- //
+// What is the underlying type of an error?
+// ----------------- //
+
+// Interface
+
