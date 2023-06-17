@@ -13,9 +13,16 @@ handle like any other value - however, we want! There aren't any special keyword
 
 */
 
-// ----------------- //
+// ------------------------- //
 // What is the underlying type of an error?
-// ----------------- //
+// ------------------------- //
 
 // Interface
 
+
+
+// ------------------------- //
+// Can a type be an error and also fulfill another interface?
+// ------------------------- //
+
+// Yes
