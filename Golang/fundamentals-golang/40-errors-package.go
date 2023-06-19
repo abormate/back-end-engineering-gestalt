@@ -12,3 +12,12 @@ Read the godoc for the errors.New() function, but here's a simple example:
 */
 
 var err error = errors.New("something went wrong")
+
+// -------------------------- //
+//  Assignment -- Practice
+// -------------------------- //
+
+/*
+
+
+*/
