@@ -12,4 +12,7 @@ Named return values are best thought of as a way to document the purpose of the 
 
 According to the tour of go:
 
+"A return statement without arguments returns the named return values. This is known as a "naked" return. 
+Naked return statements should be used only in short functions. They can harm readability in longer functions."
+
 */
