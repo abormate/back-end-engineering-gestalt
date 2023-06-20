@@ -16,3 +16,9 @@ According to the tour of go:
 Naked return statements should be used only in short functions. They can harm readability in longer functions."
 
 */
+
+func getCoords() (x, y int){
+	// x and y are initialized with zero values
+  
+	return // automatically returns x and y
+  }
