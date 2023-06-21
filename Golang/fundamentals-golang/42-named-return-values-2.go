@@ -11,3 +11,8 @@ func getCoords() (x, y int){
   }
 
 // Using this explicit pattern we can even overwrite the return values:
+
+func getCoords() (x, y int){
+	return 5, 6 // this is explicit, x and y are NOT returned
+  }
+
