@@ -16,3 +16,5 @@ func getCoords() (x, y int){
 	return 5, 6 // this is explicit, x and y are NOT returned
   }
 
+// Otherwise, if we want to return the values defined in the function signature we can just use a naked return (blank return):
+
