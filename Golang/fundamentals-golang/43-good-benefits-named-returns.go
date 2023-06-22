@@ -40,3 +40,8 @@ func calculator(a, b int) (int, int, error) {
 We know the meaning of each return value just by looking at the function signature: func calculator(a, b int) (mul, div int, err error)
 
 */
+
+// ------------------------- //
+// Writing Less Code (Sometimes)
+// ------------------------- //
+
