@@ -24,3 +24,6 @@ func calculator(a, b int) (mul, div int, err error) {
     div = a / b
     return mul, div, nil
 }
+
+// Which is easier to understand than:
+
