@@ -46,7 +46,12 @@ We know the meaning of each return value just by looking at the function signatu
 // ------------------------- //
 
 /*
+If there are multiple return statements in a function, you don’t need to write all the return values each time, though you probably 
+should.
 
+When you choose to omit return values, it's called a naked return. Naked returns should only be used in short and simple functions.
 
 */
+
+
 
