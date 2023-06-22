@@ -35,3 +35,8 @@ func calculator(a, b int) (int, int, error) {
   div := a / b
   return mul, div, nil
 }
+
+/*
+We know the meaning of each return value just by looking at the function signature: func calculator(a, b int) (mul, div int, err error)
+
+*/
