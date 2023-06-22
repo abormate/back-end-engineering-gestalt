@@ -53,5 +53,19 @@ When you choose to omit return values, it's called a naked return. Naked returns
 
 */
 
+// -------------------------- //
+// When should naked returns be put to work?
+// -------------------------- //
+
+// For small functions
+
+
+// -------------------------- //
+// When should named returned be put to work?
+// -------------------------- //
+
+// When there are many values being returned
+
+
 
 
