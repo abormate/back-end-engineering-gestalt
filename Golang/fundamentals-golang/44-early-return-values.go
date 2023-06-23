@@ -20,3 +20,11 @@ func divide(dividend, divisor int) (int, error) {
 	return dividend/divisor, nil
 }
 
+/*
+Error handling in Go naturally encourages developers to make use of guard clauses. When I started writing more JavaScript, 
+I was disappointed to see how many nested conditionals existed in the code I was working on.
+
+Lets take a look at an exaggerated example of nested conditional logic:
+
+*/
+
