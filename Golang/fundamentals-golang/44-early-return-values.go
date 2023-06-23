@@ -12,3 +12,11 @@ Guard Clauses leverage the ability to return early from a function (or continue 
 one-dimensional. Instead of using if/else chains, we just return early from the function at the end of each conditional block.
 
 */
+
+func divide(dividend, divisor int) (int, error) {
+	if divisor == 0 {
+		return 0, errors.New("Can't divide by zero")
+	}
+	return dividend/divisor, nil
+}
+
