@@ -48,3 +48,5 @@ func getInsuranceAmount(status insuranceStatus) int {
 	}
 	return amount
   }
+
+  // This could be written with guard clauses instead:
