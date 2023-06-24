@@ -23,3 +23,14 @@ for plantHeight < 5 {
 }
 fmt.Println("plant has grown to ", plantHeight, "inches")
 
+// Which prints:
+
+/*
+still growing! current height: 1
+still growing! current height: 2
+still growing! current height: 3
+still growing! current height: 4
+plant has grown to 5 inches
+
+*/
+
