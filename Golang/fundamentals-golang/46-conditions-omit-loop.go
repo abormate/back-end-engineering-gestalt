@@ -10,3 +10,7 @@ which causes the loop to run forever.
 
 */
 
+for INITIAL; ; AFTER {
+	// do something forever
+  }
+
