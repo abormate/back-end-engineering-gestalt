@@ -37,14 +37,13 @@ import (
 )
 
 func maxMessages(thresh float64) int {
-	maxSent := 0
 	totalCost := 0.0
-	for i := 0; float64(i) < thresh; i++ {
+	for i := 0; ; i++ {
 		totalCost += 1 + (float64(i) * 0.01)
-		maxSent = int(totalCost - thresh)
+		if totalCost > thresh {
+			return i
+		}
 	}
-	return maxSent
-}
 }
 
 // don't edit below this line
