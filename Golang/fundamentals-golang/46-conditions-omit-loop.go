@@ -14,3 +14,6 @@ for INITIAL; ; AFTER {
 	// do something forever
   }
 
+// ------------------------ //
+// Assignment -- Practice
+// ------------------------ //
