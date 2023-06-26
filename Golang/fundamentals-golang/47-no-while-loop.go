@@ -21,16 +21,60 @@ for plantHeight < 5 {
   fmt.Println("still growing! current height:", plantHeight)
   plantHeight++
 }
-fmt.Println("plant has grown to ", plantHeight, "inches")
+fmt.Println("plant has grown to ", plantHeight, "")
 
-// Which prints:
+
+
+// --------------------- //
+// Assignment -- Practice
+// --------------------- //
 
 /*
-still growing! current height: 1
-still growing! current height: 2
-still growing! current height: 3
-still growing! current height: 4
-plant has grown to 5 inches
+We have an interesting new cost structure from our SMS vendor. They charge exponentially more money for each consecutive text we send! 
+Let's write a function that can calculate how many messages we can send in a given batch given a costMultiplier and a maxCostInPennies.
+
+In a nutshell, the first message costs a penny, and each message after that costs the same as the previous message multiplied by 
+the costMultiplier. That gets expensive!
+
+There is an infinite loop in the code! Let's add a condition to fix the bug. The loop should exit before incrementing 
+maxMessagesToSend if the cost of the next message would go over the max cost.
 
 */
 
+package main
+
+import (
+	"fmt"
+)
+
+func getMaxMessagesToSend(costMultiplier float64, maxCostInPennies int) int {
+	actualCostInPennies := 1.0
+	maxMessagesToSend := 0
+	for {
+		maxMessagesToSend++
+		actualCostInPennies *= costMultiplier
+	}
+	return maxMessagesToSend
+}
+
+// don't touch below this line
+
+func test(costMultiplier float64, maxCostInPennies int) {
+	maxMessagesToSend := getMaxMessagesToSend(costMultiplier, maxCostInPennies)
+	fmt.Printf("Multiplier: %v\n",
+		costMultiplier,
+	)
+	fmt.Printf("Max cost: %v\n",
+		maxCostInPennies,
+	)
+	fmt.Printf("Max messages you can send: %v\n",
+		maxMessagesToSend,
+	)
+	fmt.Println("====================================")
+}
+
+func main() {
+	test(1.1, 5)
+	test(1.3, 10)
+	test(1.35, 25)
+}
