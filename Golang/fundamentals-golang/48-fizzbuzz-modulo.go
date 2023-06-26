@@ -31,4 +31,15 @@ for the text fizz and multiples of 5 for buzz. For multiples of 3 AND 5 print in
 
 */
 
+package main
+
+func fizzbuzz() {
+	// ?
+}
+
+// don't touch below this line
+
+func main() {
+	fizzbuzz()
+}
 
