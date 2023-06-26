@@ -10,3 +10,6 @@
 
 // Logical AND operator
 
+true && false // false
+true && true // true
+
