@@ -15,3 +15,5 @@ true && true // true
 
 // Logical OR operator
 
+true || false // true
+false || false // false
