@@ -21,3 +21,24 @@ for i := 0; i < 10; i++ {
   // 5
   // 7
   // 9
+
+// ------------------- //
+// Break
+// ------------------- //
+
+/*
+The break keyword stops the current iteration of a loop and exits the loop.
+
+*/
+
+for i := 0; i < 10; i++ {
+	if i == 5 {
+	  break
+	}
+	fmt.Println(i)
+  }
+  // 0
+  // 1
+  // 2
+  // 3
+  // 4
