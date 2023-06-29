@@ -10,3 +10,14 @@ to use the "guard clause" pattern within loops.
 
 */
 
+for i := 0; i < 10; i++ {
+	if i % 2 == 0 {
+	  continue
+	}
+	fmt.Println(i)
+  }
+  // 1
+  // 3
+  // 5
+  // 7
+  // 9
