@@ -13,3 +13,5 @@ you put inside its parentheses.
 
 """
 
+print("example text to print into console")
+
