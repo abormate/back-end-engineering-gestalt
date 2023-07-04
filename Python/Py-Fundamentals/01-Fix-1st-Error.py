@@ -15,7 +15,7 @@ Fix the math bug on line 3.
 
 sword_damage = 10
 player_health = 100
-health_after_attack = player_health + sword_damage
+health_after_attack = player_health - sword_damage
 
 # Don't touch below this line
 print(f"Lollilfred's health is: {player_health}")
