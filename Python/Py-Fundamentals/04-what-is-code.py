@@ -13,3 +13,16 @@ Addition is one of the most common instructions in coding.
 
 
 """
+
+"""
+print() can print text using quotes:
+
+print("some text here")
+but it can also print numbers without quotes:
+
+print(1)
+and you can do math directly inside the parentheses:
+
+print(1 + 2)
+
+"""
