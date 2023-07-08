@@ -26,3 +26,8 @@ and you can do math directly inside the parentheses:
 print(1 + 2)
 
 """
+
+# -------------------------- #
+# Assignment -- Practice
+# -------------------------- #
+
