@@ -13,6 +13,15 @@ SQL can perform various operations such as creating, updating, reading, and dele
 
 */
 
+---------------------------- //
+-- Assignment -- Practice 
+---------------------------- //
+
+/*
+
+
+*/
+
 SELECT * from people;
 
 
