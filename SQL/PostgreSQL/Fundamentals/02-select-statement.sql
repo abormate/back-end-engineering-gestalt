@@ -55,3 +55,24 @@ balance
 And finally, all statements end with a semi-colon ;
 
 */
+
+------------------------- //
+-- Assignment -- Practice
+------------------------- //
+
+/*
+The state of our CashPal users table is as follows:
+
+ID	NAME	AGE	BALANCE	IS ADMIN
+1	John Smith	28	450	1
+2	Darren Walker	27	200	1
+2	Jane Morris	33	496.24	0
+
+
+It's very common to write queries that only return specific portions of data from a table. Our HR team has requested a report asking for all the names and balances of all of our users.
+
+Write a query that retrieves all of the user's names and balances.
+
+*/
+
+SELECT name, balance from users;
