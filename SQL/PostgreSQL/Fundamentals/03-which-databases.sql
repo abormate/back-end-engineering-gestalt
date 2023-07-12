@@ -13,3 +13,10 @@ MySQL
 Oracle
 
 */
+
+/*
+Although many different databases use the SQL language, but most of them will have their own dialect. It's very important 
+to understand that not all databases are created equal. Just because one relational database does things a certain way, 
+doesn't mean every relational database will follow those same patterns.
+
+*/
