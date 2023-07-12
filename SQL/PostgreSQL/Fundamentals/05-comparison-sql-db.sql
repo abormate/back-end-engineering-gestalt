@@ -16,4 +16,8 @@ SQLite
 Microsoft Access
 And many others
 
+While all of these Databases use SQL, each database defines specific rules, practices, and strategies that separate 
+them from their competitors.
+
 */
+
