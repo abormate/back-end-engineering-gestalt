@@ -51,3 +51,9 @@ ElasticSearch
 
 -- Yes
 
+---------------------------- //
+-- Which type of database always uses table structures?
+---------------------------- //
+
+-- SQL
+
