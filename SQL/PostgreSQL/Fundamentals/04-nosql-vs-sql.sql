@@ -40,6 +40,10 @@ ElasticSearch
 */
 
 ---------------------------- //
+-- Assignment -- Practice
+---------------------------- //
+
+---------------------------- //
 -- Are all NoSQL databases similar in their functionality?
 ---------------------------- //
 
