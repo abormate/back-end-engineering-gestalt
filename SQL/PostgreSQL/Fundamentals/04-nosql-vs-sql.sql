@@ -36,4 +36,12 @@ Cassandra
 CouchDB
 DynamoDB
 ElasticSearch
+
 */
+
+---------------------------- //
+-- Are all NoSQL databases similar in their functionality?
+---------------------------- //
+
+-- No
+
