@@ -19,3 +19,15 @@ purposes. Some of the main differences between a SQL and NoSQL databases are:
 -- 3. SQL databases are table-based, NoSQL databases have a variety of different storage methods, such as document, key-value, graph, wide-column, and more.
 
 */
+
+/*
+TYPES OF NOSQL DATABASES
+
+Document Database
+Key-Value Store
+Wide-Column
+Graph
+
+
+
+*/
