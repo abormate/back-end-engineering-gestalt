@@ -25,3 +25,11 @@ doesn't mean every relational database will follow those same patterns.
 -- What we're using -- SQLite
 --------------------------- //
 
+/*
+In this course we'll be using SQLite specifically. SQLite is great for embedded projects, web browsers, and toy projects. 
+It's very lightweight, but has limited functionality compared to the likes of PostgresQL or MySQL - two of the more 
+common production SQL technologies.
+
+We'll point out to you whenever some functionality we're working with is unique to SQLite!
+
+*/
