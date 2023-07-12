@@ -33,3 +33,8 @@ common production SQL technologies.
 We'll point out to you whenever some functionality we're working with is unique to SQLite!
 
 */
+
+-------------------------- //
+-- Assignment -- Practice
+-------------------------- //
+
