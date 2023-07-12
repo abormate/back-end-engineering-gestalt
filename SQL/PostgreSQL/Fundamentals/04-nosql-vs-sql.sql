@@ -45,3 +45,9 @@ ElasticSearch
 
 -- No
 
+---------------------------- //
+-- Are all SQL databases similar in their functionality?
+---------------------------- //
+
+-- Yes
+
