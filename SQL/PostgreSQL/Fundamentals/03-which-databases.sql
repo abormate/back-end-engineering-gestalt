@@ -47,3 +47,5 @@ One way in which SQLite is a bit different is that it stores Boolean values as i
 Select all of the user's ids, names, and is_admin flags.
 
 */
+
+SELECT id, name, is_admin FROM users;
