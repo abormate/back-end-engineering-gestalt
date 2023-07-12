@@ -38,3 +38,12 @@ We'll point out to you whenever some functionality we're working with is unique 
 -- Assignment -- Practice
 -------------------------- //
 
+/*
+One way in which SQLite is a bit different is that it stores Boolean values as integers - the integers 0 and 1.
+
+0 = false
+1 = true
+
+Select all of the user's ids, names, and is_admin flags.
+
+*/
