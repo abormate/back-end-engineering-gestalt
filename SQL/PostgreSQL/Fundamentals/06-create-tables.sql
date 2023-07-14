@@ -19,3 +19,11 @@ CREATE TABLE employees (id INTEGER, name TEXT, age INTEGER, is_manager BOOLEAN, 
 It's also acceptable and common to break up the CREATE TABLE statement with some whitespace like this:
 
 */
+
+CREATE TABLE employees(
+    id INTEGER,
+    name TEXT,
+    age INTEGER,
+    is_manager BOOLEAN,
+    salary INTEGER
+);
