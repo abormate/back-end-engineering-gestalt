@@ -1,6 +1,6 @@
 ---------------------------------------- //
 --
--- SQL LearnSpace -- Creating a Table
+-- SQL LearnSpace -- Creating a Table --
 --
 ---------------------------------------- //
 
