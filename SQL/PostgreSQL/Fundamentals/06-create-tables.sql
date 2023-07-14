@@ -10,3 +10,6 @@
 To create a table, use the CREATE TABLE statement followed by the name of the table and the fields you want in the table.
 
 */
+
+CREATE TABLE employees (id INTEGER, name TEXT, age INTEGER, is_manager BOOLEAN, salary INTEGER);
+
