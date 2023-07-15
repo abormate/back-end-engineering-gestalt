@@ -33,3 +33,26 @@ ADD COLUMN job_title TEXT;
 
 ALTER TABLE contractors
 DROP COLUMN is_manager;
+
+-------------------------- //
+-- Assignment -- Practice --
+-------------------------- //
+
+/*
+We need to make some changes to the people table! At the moment, we have these five columns (shown as rows so we can 
+display datatypes):
+
+CID	NAME	TYPE	NOTNULL	DFLT VALUE	PK
+0	id	    INTEGER	0		             0
+1	handle	TEXT	0		             0
+2	name	TEXT	0		             0
+3	age	    INTEGER	0		             0
+4	balance	INTEGER	0		             0
+5	is_admin	BOOLEAN	0	             0
+
+
+Rename the table to users
+Rename the handle column to username.
+Add the password (TEXT) column.
+
+*/
