@@ -56,3 +56,16 @@ Rename the handle column to username.
 Add the password (TEXT) column.
 
 */
+
+alter table people
+rename to users;
+
+alter table users
+rename column handle to username;
+
+alter table users
+add column password TEXT;
+
+-- TEST SUITE, DON'T TOUCH BELOW THIS LINE --
+
+pragma table_info('users');
