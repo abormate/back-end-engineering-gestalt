@@ -41,3 +41,12 @@ SELECT * FROM users;
 And we would deploy that code to production immediately following the migration.
 
 */
+
+---------------------------- //
+-- Which of the following statements about migrations is false?
+---------------------------- //
+
+/*
+You can be fast and loose when writing migrations - a bad migration is easy to fix (-- this is false)
+
+*/
