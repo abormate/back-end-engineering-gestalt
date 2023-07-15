@@ -50,3 +50,18 @@ And we would deploy that code to production immediately following the migration.
 You can be fast and loose when writing migrations - a bad migration is easy to fix (-- this is false)
 
 */
+
+---------------------------- //
+-- Will database migrations often be coupled with app code updates?
+---------------------------- //
+
+-- Yes
+
+---------------------------- //
+-- Why are good migrations written in a reversible manner?
+---------------------------- //
+
+/*
+So that if something goes wrong, changes done can be rolled back
+
+*/
