@@ -14,3 +14,12 @@ Instead, we can use use the ALTER TABLE statement to make changes in place witho
 
 -- With SQLite an ALTER TABE statement allows you to:
 
+--------------------------- //
+-- Rename a Table or Column
+--------------------------- //
+
+ALTER TABLE employees
+RENAME TO contractors;
+
+ALTER TABLE contractors
+RENAME COLUMN salary TO invoice;
