@@ -23,3 +23,13 @@ RENAME TO contractors;
 
 ALTER TABLE contractors
 RENAME COLUMN salary TO invoice;
+
+-------------------------- //
+-- Add or Drop a Column
+-------------------------- //
+
+ALTER TABLE contractors
+ADD COLUMN job_title TEXT;
+
+ALTER TABLE contractors
+DROP COLUMN is_manager;
