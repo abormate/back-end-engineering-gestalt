@@ -40,3 +40,13 @@ Add the boolean was_successful column to the transactions table.
 Add the TEXT transaction_type column to the transactions table.
 
 */
+
+ALTER TABLE transactions
+ADD COLUMN was_successful boolean;
+
+ALTER TABLE transactions
+ADD COLUMN transaction_type TEXT; 
+
+-- TEST SUITE, DON'T TOUCH BELOW THIS LINE --
+
+pragma table_info('transactions');
