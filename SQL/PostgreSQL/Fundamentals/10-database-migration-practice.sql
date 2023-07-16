@@ -23,3 +23,12 @@ Our transactions table looks like this at the moment:
 
 */
 
+/*
+CID	NAME	         TYPE	NOTNULL	DFLT VALUE	PK
+0	id	             INTEGER	0		        0
+1	recipient_id	 INTEGER	0		        0
+2	sender_id	     INTEGER	0		        0
+3	note	         TEXT	    0		        0
+4	amount	         INTEGER	0		        0
+
+*/
