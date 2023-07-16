@@ -11,3 +11,6 @@ the changes that would revert any of the "up" migration's changes.
 
 */
 
+---------------------------- //
+-- Assignment -- Practice --
+---------------------------- //
