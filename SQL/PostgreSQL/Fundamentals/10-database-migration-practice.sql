@@ -32,3 +32,11 @@ CID	NAME	         TYPE	NOTNULL	DFLT VALUE	PK
 4	amount	         INTEGER	0		        0
 
 */
+
+/*
+Complete the following up migration:
+
+Add the boolean was_successful column to the transactions table.
+Add the TEXT transaction_type column to the transactions table.
+
+*/
