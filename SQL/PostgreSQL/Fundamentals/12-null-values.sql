@@ -15,5 +15,12 @@ fields.
 -- Constraints
 ---------------------------- //
 
+/*
+When creating a table we can define whether or not a field can or cannot be NULL, and that's a kind of constraint.
+
+We will cover constraints in more detail soon, for now, let's focus on NULL values.
+
+*/
+
 
 
