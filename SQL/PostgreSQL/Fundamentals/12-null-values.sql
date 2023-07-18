@@ -43,3 +43,5 @@ Notice that both the transaction_type and was_successful fields have NULL values
 That's because we ran our migration in the previous exercise after the 3 records were created!
 
 */
+
+SELECT * FROM transactions;
