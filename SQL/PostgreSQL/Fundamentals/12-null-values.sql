@@ -26,7 +26,11 @@ We will cover constraints in more detail soon, for now, let's focus on NULL valu
 -- Assignment -- Practice --
 ---------------------------- //
 
+/*
+We didn't force any constraints on our tables when we created them and it has allowed for NULL entries to make their way 
+into our table! Let's take a look at our transactions table to see what those NULL values look like.
 
+Complete the SELECT statement on the transactions table to return all columns and rows.
 
-
+*/
 
