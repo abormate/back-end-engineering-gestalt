@@ -22,5 +22,11 @@ We will cover constraints in more detail soon, for now, let's focus on NULL valu
 
 */
 
+---------------------------- //
+-- Assignment -- Practice --
+---------------------------- //
+
+
+
 
 
