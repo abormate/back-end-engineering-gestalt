@@ -34,3 +34,12 @@ Complete the SELECT statement on the transactions table to return all columns an
 
 */
 
+---------------------------- //
+-- Observe --
+---------------------------- //
+
+/*
+Notice that both the transaction_type and was_successful fields have NULL values in all 3 records in the table. 
+That's because we ran our migration in the previous exercise after the 3 records were created!
+
+*/
