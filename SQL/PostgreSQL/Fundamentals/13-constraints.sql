@@ -12,3 +12,8 @@ If we try to insert a NULL value into a column with the NOT NULL constraint, the
 Constraints are extremely useful when we need to ensure that certain kinds of data exist within our database.
 
 */
+
+--------------------------- //
+-- Defining a Not Null Constraint
+--------------------------- //
+
