@@ -13,9 +13,9 @@ Constraints are extremely useful when we need to ensure that certain kinds of da
 
 */
 
---------------------------- //
+------------------------------ //
 -- Defining a Not Null Constraint
---------------------------- //
+------------------------------ //
 
 -- The NOT NULL constraint can be added directly to the CREATE TABLE statement.
 
@@ -24,4 +24,10 @@ CREATE TABLE employees(
     name UNIQUE,
     title TEXT NOT NULL
 )
+
+------------------------------ //
+-- Constraint Limitations with SQLite
+------------------------------ //
+
+
 
