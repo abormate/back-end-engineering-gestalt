@@ -29,5 +29,10 @@ CREATE TABLE employees(
 -- Constraint Limitations with SQLite
 ------------------------------ //
 
+/*
+In other dialects of SQL you can ADD CONSTRAINT within an ALTER TABLE statement. SQLite does not support this feature so 
+when we create our tables we need to make sure we specify all the constraints we want!
+
+*/
 
 
