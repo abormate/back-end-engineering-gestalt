@@ -18,3 +18,10 @@ Constraints are extremely useful when we need to ensure that certain kinds of da
 --------------------------- //
 
 -- The NOT NULL constraint can be added directly to the CREATE TABLE statement.
+
+CREATE TABLE employees(
+    id INTEGER PRIMARY KEY,
+    name UNIQUE,
+    title TEXT NOT NULL
+)
+
