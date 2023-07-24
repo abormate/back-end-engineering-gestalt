@@ -27,5 +27,46 @@ to create a duplicate ID.
 -- Assignment -- Practice
 ------------------------------ //
 
+/*
+Run the code. Notice that there's a bug - there is a violation of a PRIMARY KEY constraint on the id column. Fix the data that's 
+being inserted.
 
+When working with integer ids, it's best practice to increment the id by 1 for each successive insert. Follow this convention 
+when fixing the bug.
+
+*/
+
+INSERT into users (
+    id,
+    name,
+    age,
+    username,
+    password,
+    is_admin
+) values (
+    0,
+    "Rudolf",
+    33,
+    "rudolf1234",
+    "thisisnotsecure",
+    false
+);
+
+INSERT into users (
+    id,
+    name,
+    age,
+    username,
+    password,
+    is_admin
+) values (
+    1, --fixed id value
+    "Jerry",
+    25,
+    "jerrysmith",
+    "mypasswordis1234",
+    true
+);
+
+select * from users;
 
