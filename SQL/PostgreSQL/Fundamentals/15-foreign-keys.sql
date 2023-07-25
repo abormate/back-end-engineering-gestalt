@@ -35,3 +35,10 @@ CREATE TABLE employees (
     FOREIGN KEY (department_id)
     REFERENCES departments(id)
 );
+
+-- Note! --
+/*
+In this example, an employee has a department_id. The department_id must be the same as the id field of a record from the 
+departments table.
+
+*/
