@@ -19,3 +19,19 @@ Creating a FOREIGN KEY in SQLite happens at table creation! After we define the 
 additional CONSTRAINT where we define the FOREIGN KEY and its REFERENCES.
 
 */
+
+-- Here's an example ...
+
+CREATE TABLE departments (
+    id INTEGER PRIMARY KEY,
+    department_name TEXT NOT NULL
+);
+
+CREATE TABLE employees (
+    id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    department_id INTEGER,
+    CONSTRAINT fk_departments
+    FOREIGN KEY (department_id)
+    REFERENCES departments(id)
+);
