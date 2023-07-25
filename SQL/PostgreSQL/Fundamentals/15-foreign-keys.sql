@@ -47,6 +47,17 @@ departments table.
 -- Assignment -- Practice --
 ---------------------------- //
 
+/*
+Our users table stores the country our users are from in a country_code field. We need some additional data about countries 
+like their name, but we don't want to bloat our users table with all that country data.
+
+The "locations" team at CashPal has created a "countries" table, and we can link a user to their country by setting a foreign 
+key in the users table.
+
+Take a look at the code. There's an issue with the INSERT statements again! Fix up the data so no foreign key constraints are 
+violated. You'll need to reference the setup code below.
+
+*/
 
 
 
