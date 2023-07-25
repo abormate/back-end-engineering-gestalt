@@ -11,7 +11,7 @@ a FOREIGN KEY is a field in one table that references another table's PRIMARY KE
 */
 
 ----------------------------- //
--- Creating of Foreign Key
+-- Creating a Foreign Key
 ----------------------------- //
 
 /*
@@ -42,3 +42,11 @@ In this example, an employee has a department_id. The department_id must be the 
 departments table.
 
 */
+
+---------------------------- //
+-- Assignment -- Practice --
+---------------------------- //
+
+
+
+
