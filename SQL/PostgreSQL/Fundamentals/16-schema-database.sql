@@ -28,3 +28,10 @@ come with different tradeoffs.
 -- How do we architecture Schema
 ---------------------------- //
 
+/*
+Let's use CashPal as an example. One very important decision that needs to be made is to decide which table will store a user's 
+balance! As you can imagine, ensuring our data is accurate when dealing with money is super important. 
+
+We want to be able to:
+
+*/
