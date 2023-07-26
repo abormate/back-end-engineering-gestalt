@@ -62,3 +62,16 @@ amount - INTEGER - NOT NULL
 balance - INTEGER - NOT NULL
 
 */
+
+CREATE TABLE transactions (
+  id integer primary key,
+  sender_id integer,
+  recipient_id integer,
+  memo text not null,
+  amount integer not null,
+  balance integer not null
+);
+
+/* -- TEST SUITE. DON'T TOUCH BELOW THIS LINE -- */
+
+pragma table_info('transactions');
