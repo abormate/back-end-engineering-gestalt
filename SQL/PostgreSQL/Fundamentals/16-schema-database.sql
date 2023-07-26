@@ -42,3 +42,23 @@ There are many ways to approach this problem. For our first attempt, let's try t
 project's needs.
 
 */
+
+----------------------------- //
+-- Assignment -- Practice
+----------------------------- //
+
+/*
+The architecture team at CashPal has decided on a single transactions table. The transactions table stores individual 
+transactions, and we can keep track of the "current balance" on each transaction record. If we want the current balance, 
+we can just look at the most recent transaction!
+
+Create the transactions table with the following fields and constraints:
+
+id - INTEGER PRIMARY KEY
+sender_id - INTEGER
+recipient_id - INTEGER
+memo - TEXT - NOT NULL
+amount - INTEGER - NOT NULL
+balance - INTEGER - NOT NULL
+
+*/
