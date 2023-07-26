@@ -34,4 +34,8 @@ balance! As you can imagine, ensuring our data is accurate when dealing with mon
 
 We want to be able to:
 
+-- Keep track of a user's current balance
+-- See the historical balance at any point in the past
+-- See a log of which transactions changed the balance over time
+
 */
