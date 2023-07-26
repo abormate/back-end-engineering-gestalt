@@ -17,3 +17,9 @@ schema.
 -- Architecting a Database Schema
 --------------------------- //
 
+/*
+When designing a database schema there typically isn't a "correct" solution. We do our best to choose a sane set of tables, 
+fields, constraints, etc that will accomplish our project's goals. Like many things in programming, different schema designs 
+come with different tradeoffs.
+
+*/
