@@ -12,3 +12,8 @@ Data types, table names, field names, constraints, and the relationships between
 schema.
 
 */
+
+--------------------------- //
+-- Architecting a Database Schema
+--------------------------- //
+
