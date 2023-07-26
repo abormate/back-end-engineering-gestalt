@@ -23,3 +23,8 @@ fields, constraints, etc that will accomplish our project's goals. Like many thi
 come with different tradeoffs.
 
 */
+
+---------------------------- //
+-- How do we architecture Schema
+---------------------------- //
+
