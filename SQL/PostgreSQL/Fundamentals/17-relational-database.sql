@@ -30,9 +30,9 @@ The StudentCourses table manages the relationship between the Students and the C
 
 https://prnt.sc/CSbR7mjrBG_3
 
--- Example 1: Samantha
+-- Example 1: Sam
 
-1. Samantha has an Id of 1
+1. Sam has an Id of 1
 2. We can find Sam's courses by looking in the StudentCourses for the records that match his StudentId.
 
 -- Example 2: MongoDB
