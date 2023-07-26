@@ -20,3 +20,6 @@ In a relational database:
 4. Typically, each record has a unique Id called the primary key.
 
 */
+
+-- Example relational database --> https://prnt.sc/CSbR7mjrBG_3
+
