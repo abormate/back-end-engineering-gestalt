@@ -23,3 +23,12 @@ In a relational database:
 
 -- Example relational database --> https://prnt.sc/CSbR7mjrBG_3
 
+/*
+
+Here is an example of a small relational database. This database has 3 tables, Students, Courses, and StudentCourses. 
+The StudentCourses table manages the relationship between the Students and the Courses tables.
+
+https://prnt.sc/CSbR7mjrBG_3
+
+*/
+
