@@ -38,4 +38,7 @@ We want to be able to:
 -- See the historical balance at any point in the past
 -- See a log of which transactions changed the balance over time
 
+There are many ways to approach this problem. For our first attempt, let's try the simplest schema that fulfills our 
+project's needs.
+
 */
