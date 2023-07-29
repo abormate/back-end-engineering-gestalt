@@ -57,3 +57,10 @@ that we'll talk about later in the course.
 -- Assignment -- Practice
 --------------------------- //
 
+/*
+Relational databases typically ____ duplicate data, while non-relational databases more often ____ duplicate data.
+
+--> relational databases often do not duplicate data 
+--> non relational databases often do -- duplicate data 
+
+*/
