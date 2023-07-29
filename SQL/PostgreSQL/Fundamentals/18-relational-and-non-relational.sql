@@ -41,9 +41,15 @@ that we'll talk about later in the course.
 
 */
 
+--------------------------- //
+-- Diagrams -- Examples -- Explainer
+--------------------------- //
+
 -- Relational DB
 -- https://prnt.sc/IkpBYPrHzK26
 
 
 -- Non Relational DB
 -- https://prnt.sc/sOmpxImOe-cg
+
+--------------------------
