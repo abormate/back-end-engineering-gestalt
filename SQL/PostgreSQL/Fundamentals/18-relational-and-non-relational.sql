@@ -41,3 +41,6 @@ that we'll talk about later in the course.
 
 */
 
+-- Relational DB
+-- https://prnt.sc/IkpBYPrHzK26
+
