@@ -10,3 +10,9 @@ Instead of keeping records on separate tables, they store records within other r
 
 */
 
+/*
+To over-simplify it, you can think of non-relational databases as giant JSON blobs. If a user can have multiple courses, 
+you might just add all the courses to the user record.
+
+*/
+
