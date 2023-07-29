@@ -46,10 +46,11 @@ that we'll talk about later in the course.
 --------------------------- //
 
 -- Relational DB
--- https://prnt.sc/IkpBYPrHzK26
+-- Diagram capture --> https://prnt.sc/IkpBYPrHzK26
 
 
 -- Non Relational DB
--- https://prnt.sc/sOmpxImOe-cg
+-- Diagram capture --> https://prnt.sc/sOmpxImOe-cg
+
 
 --------------------------
