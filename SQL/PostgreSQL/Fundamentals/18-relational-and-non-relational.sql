@@ -34,3 +34,10 @@ you might just add all the courses to the user record.
         }
     ]
 }
+
+/*
+This often results in duplicate data within the database. That's obviously less than ideal, but it does have some benefits 
+that we'll talk about later in the course.
+
+*/
+
