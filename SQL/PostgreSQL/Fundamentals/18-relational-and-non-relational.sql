@@ -16,3 +16,21 @@ you might just add all the courses to the user record.
 
 */
 
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Elon",
+            "courses": [
+                {
+                    "name": "Biology",
+                    "id": 0
+                },
+                {
+                    "name": "Biology",
+                    "id": 0
+                }
+            ]
+        }
+    ]
+}
