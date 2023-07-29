@@ -23,11 +23,11 @@ you might just add all the courses to the user record.
             "name": "Elon",
             "courses": [
                 {
-                    "name": "Biology",
+                    "name": "Business",
                     "id": 0
                 },
                 {
-                    "name": "Biology",
+                    "name": "Math",
                     "id": 0
                 }
             ]
