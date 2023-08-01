@@ -28,3 +28,16 @@ insert the following records into the table:
 
 */
 
+/*
+RECORD 1
+id: 1
+name: David
+age: 34
+country_code: US
+username: DavidDev
+password: insertPractice
+is_admin: false
+
+
+
+*/
