@@ -11,3 +11,5 @@ that table we want to add VALUES to.
 
 */
 
+-- Example INSERT INTO statement
+
