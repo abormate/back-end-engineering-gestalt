@@ -17,3 +17,8 @@ every database you will create.
 ----------------------------- //
 -- HTTP and CRUD
 ----------------------------- //
+
+/*
+The CRUD operations correlate nicely with the HTTP methods we learned in the Learn HTTP course.
+
+*/
