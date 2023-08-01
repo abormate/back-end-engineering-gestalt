@@ -35,3 +35,10 @@ HTTP DELETE - DELETE
 -- Assignment -- Practice --
 ---------------------------- //
 
+/*
+We've created a table for you called crud, it's a toy table we're using for interview practice at CashPal.
+
+Determine which SQL command can be used for a READ operation and use it to read all the fields in all the records in the crud 
+table!
+
+*/
