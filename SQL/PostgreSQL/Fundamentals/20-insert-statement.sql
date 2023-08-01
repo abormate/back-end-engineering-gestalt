@@ -39,5 +39,14 @@ password: insertPractice
 is_admin: false
 
 
+RECORD 2
+id: 2
+name: Samantha
+age: 29
+country_code: BR
+username: Sammy93
+password: addingRecords!
+is_admin: false
+
 
 */
