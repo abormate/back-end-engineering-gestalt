@@ -20,3 +20,11 @@ VALUES (1, 'Allan', 'Engineer');
 -- Assignment -- Practice
 -------------------------- //
 
+/*
+Let's start manually adding some of the records to our users table!
+
+Take a look at the CREATE TABLE statement in the setup code below for the users table structure, and use that information to 
+insert the following records into the table:
+
+*/
+
