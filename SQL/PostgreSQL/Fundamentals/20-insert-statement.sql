@@ -15,3 +15,8 @@ that table we want to add VALUES to.
 
 INSERT INTO employees(id, name, title)
 VALUES (1, 'Allan', 'Engineer');
+
+-------------------------- //
+-- Assignment -- Practice
+-------------------------- //
+
