@@ -13,3 +13,7 @@ CRUD is an acronym that stands for CREATE, READ, UPDATE, and DELETE. These four 
 every database you will create.
 
 */
+
+----------------------------- //
+-- HTTP and CRUD
+----------------------------- //
