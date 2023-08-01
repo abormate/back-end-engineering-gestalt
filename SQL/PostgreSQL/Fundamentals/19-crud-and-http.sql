@@ -22,3 +22,11 @@ every database you will create.
 The CRUD operations correlate nicely with the HTTP methods we learned in the Learn HTTP course.
 
 */
+
+/*
+HTTP POST - CREATE
+HTTP GET - READ
+HTTP PUT - UPDATE
+HTTP DELETE - DELETE
+
+*/
