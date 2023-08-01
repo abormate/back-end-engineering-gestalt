@@ -42,3 +42,5 @@ Determine which SQL command can be used for a READ operation and use it to read 
 table!
 
 */
+
+SELECT * FROM crud;
