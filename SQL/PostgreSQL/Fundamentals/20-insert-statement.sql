@@ -13,3 +13,5 @@ that table we want to add VALUES to.
 
 -- Example INSERT INTO statement
 
+INSERT INTO employees(id, name, title)
+VALUES (1, 'Allan', 'Engineer');
