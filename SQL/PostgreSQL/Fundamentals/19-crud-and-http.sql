@@ -30,3 +30,8 @@ HTTP PUT - UPDATE
 HTTP DELETE - DELETE
 
 */
+
+---------------------------- //
+-- Assignment -- Practice --
+---------------------------- //
+
