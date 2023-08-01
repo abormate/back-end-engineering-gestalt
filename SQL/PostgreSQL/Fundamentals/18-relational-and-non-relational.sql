@@ -64,3 +64,11 @@ Relational databases typically ____ duplicate data, while non-relational databas
 --> non relational databases often do -- duplicate data 
 
 */
+
+/*
+Non relational databases connect similar entities by using ____
+
+--> Nested data 
+
+
+*/
