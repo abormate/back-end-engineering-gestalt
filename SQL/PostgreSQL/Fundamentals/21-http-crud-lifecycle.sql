@@ -16,3 +16,8 @@ Once the server has processed that the database query was successful, it respond
 Hopefully a 200-level code (success)!
 
 */
+
+-------------------------- //
+-- Assignment -- Practice
+-------------------------- //
+
