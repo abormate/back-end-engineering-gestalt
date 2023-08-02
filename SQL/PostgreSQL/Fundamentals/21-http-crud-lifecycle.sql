@@ -21,3 +21,7 @@ Hopefully a 200-level code (success)!
 -- Assignment -- Practice
 -------------------------- //
 
+/*
+The 'Create' in CRUD maps to which SQL statement and HTTP Method?
+
+*/
