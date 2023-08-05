@@ -19,3 +19,8 @@ The * in this case refers to a column name. We don't care about the count of a s
 know the number of total records so we can use the wildcard (*).
 
 */
+
+----------------------------- //
+-- Assignment -- Practice -- 
+----------------------------- //
+
