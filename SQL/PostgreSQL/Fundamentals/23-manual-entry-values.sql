@@ -22,3 +22,10 @@ VALUES ('%s', %v, %s);
 --------------------------- //
 -- SQL Injection
 --------------------------- //
+
+/*
+The example above is an oversimplification of what really happens when you access a database using Go code. 
+In essence, it's correct. String interpolation is how production systems access databases. That said, it 
+must be done carefully to not be a security vulnerability. We'll talk more about that later!
+
+*/
