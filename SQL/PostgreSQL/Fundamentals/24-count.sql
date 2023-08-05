@@ -10,3 +10,4 @@ need to know how many records there are, but we don't particularly care what's i
 
 */
 
+SELECT count(*) from employees;
