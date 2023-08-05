@@ -43,3 +43,4 @@ We can't use the id number to calculate the count because user accounts can be d
 
 */
 
+SELECT count(*) from users;
