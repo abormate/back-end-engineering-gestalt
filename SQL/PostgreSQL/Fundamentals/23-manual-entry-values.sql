@@ -18,3 +18,7 @@ sqlQuery := fmt.Sprintf(`
 INSERT INTO users(name, age, country_code)
 VALUES ('%s', %v, %s);
 `, user.Name, user.Age, user.CountryCode)
+
+--------------------------- //
+-- SQL Injection
+--------------------------- //
