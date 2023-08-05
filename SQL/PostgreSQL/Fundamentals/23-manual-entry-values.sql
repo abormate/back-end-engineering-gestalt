@@ -14,3 +14,7 @@ concatenation to dynamically create SQL statements, and that's usually how it's 
 
 */
 
+sqlQuery := fmt.Sprintf(`
+INSERT INTO users(name, age, country_code)
+VALUES ('%s', %v, %s);
+`, user.Name, user.Age, user.CountryCode)
