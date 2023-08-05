@@ -42,6 +42,13 @@ by hand-writing a SQL query
 
 -- >> Answer --> False 
 
+/*
+Question No. 2 -- Within backend systems, SQL queries are typically ... 
+
+*/
+
+
+
 
 
 
