@@ -34,3 +34,18 @@ must be done carefully to not be a security vulnerability. We'll talk more about
 -- Assignment -- Practice --
 ***************************/
 
+/*
+Question No. 1 -- Every time someone creates an account on boot.dev Allan or Lane has to manually add them to the database 
+by hand-writing a SQL query
+
+*/
+
+-- >> Answer --> False 
+
+
+
+
+
+
+
+
