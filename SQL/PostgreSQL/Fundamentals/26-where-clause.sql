@@ -13,3 +13,7 @@ If we were unable to specify the specific record we wanted to READ, UPDATE, or D
 database would be very frustrating, and very inefficient.
 
 */
+
+---------------------------- //
+-- WHERE Clause
+---------------------------- //
