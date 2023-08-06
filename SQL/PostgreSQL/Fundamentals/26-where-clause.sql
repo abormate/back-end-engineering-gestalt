@@ -17,3 +17,11 @@ database would be very frustrating, and very inefficient.
 ---------------------------- //
 -- WHERE Clause
 ---------------------------- //
+
+/*
+Say we had over 9000 records in our users table. We often want to look at specific user data within that table 
+without retrieving all the other records in the table. We can use a SELECT statement followed by a WHERE 
+clause to specify which records to retrieve. The SELECT statement stays the same, we just add the WHERE 
+clause to the end of the SELECT. Here's an example:
+
+*/
