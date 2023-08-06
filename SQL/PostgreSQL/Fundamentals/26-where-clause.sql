@@ -25,3 +25,5 @@ clause to specify which records to retrieve. The SELECT statement stays the same
 clause to the end of the SELECT. Here's an example:
 
 */
+
+SELECT name FROM users WHERE whatsup >= 7;
