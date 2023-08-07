@@ -28,4 +28,9 @@ clause to the end of the SELECT. Here's an example:
 
 SELECT name FROM users WHERE power_level >= 9000;
 
-kee
+/*
+This will select only the name field of any user within the users table WHERE the power_level 
+field is greater than or equal to 9000.
+
+*/
+
