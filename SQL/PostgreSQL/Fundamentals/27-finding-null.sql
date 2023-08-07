@@ -30,3 +30,4 @@ Select all the rows from the transactions table where the owner of the transacti
 
 */
 
+SELECT * FROM transactions WHERE recipient_id is NULL;
