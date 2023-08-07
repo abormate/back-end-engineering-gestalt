@@ -8,3 +8,6 @@
 
 -- // Is Null
 SELECT name FROM users WHERE first_name IS NULL;
+
+-- // Is NOT Null
+SELECT name FROM users WHERE first_name IS NOT NULL;
