@@ -26,4 +26,6 @@ clause to the end of the SELECT. Here's an example:
 
 */
 
-SELECT name FROM users WHERE whatsup >= 7;
+SELECT name FROM users WHERE power_level >= 9000;
+
+kee
