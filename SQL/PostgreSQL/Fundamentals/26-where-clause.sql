@@ -38,3 +38,7 @@ field is greater than or equal to 9000.
 -- Assignment -- Practice
 --------------------------- //
 
+/*
+We need to know the username of all the users in our users table that have admin privileges! Retrieve them.
+
+*/
