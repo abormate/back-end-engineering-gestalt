@@ -23,6 +23,6 @@ DELETE from employees
     WHERE id = 251;
 
 /*
-
+This DELETE statement removes all records from the employees table that have an id of 251!
 
 */
