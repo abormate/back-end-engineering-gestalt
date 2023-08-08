@@ -14,3 +14,8 @@ removed from its respective database.
 -- Delete Statement 
 --------------------------- //
 
+/*
+A DELETE statement removes a record from a table that match the WHERE clause. As an example:
+
+*/
+
