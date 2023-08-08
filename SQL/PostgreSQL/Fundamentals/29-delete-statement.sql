@@ -53,3 +53,9 @@ ID	NAME	AGE	country_code	USERNAME	PASSWORD	is_admin
 9	Lane	27	US	wagslane	update_me	0
 
 */
+
+DELETE from users WHERE id = 2;
+
+-- TEST SUITE, DON'T TOUCH BELOW THIS LINE --
+
+SELECT * from users;
