@@ -10,3 +10,7 @@ removed from its respective database.
 
 */
 
+--------------------------- //
+-- Delete Statement 
+--------------------------- //
+
