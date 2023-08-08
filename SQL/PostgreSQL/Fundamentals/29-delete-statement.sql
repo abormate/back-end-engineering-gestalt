@@ -19,3 +19,10 @@ A DELETE statement removes a record from a table that match the WHERE clause. As
 
 */
 
+DELETE from employees
+    WHERE id = 251;
+
+/*
+
+
+*/
