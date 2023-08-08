@@ -43,3 +43,17 @@ You should ___________ have automated backups being taken of a production databa
 
 -- Answer --> Almost always
 
+
+
+/*
+A soft-delete is where you ____
+
+*/
+
+
+/*
+Answer --
+
+Mark a row as deleted instead of actually removing the data
+
+*/
