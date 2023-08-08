@@ -31,3 +31,11 @@ This DELETE statement removes all records from the employees table that have an 
 -- Assignment -- Practice
 ------------------------------ //
 
+/*
+Samantha, one of our CashPal users, has opted to delete her account and stop using our app... 
+which makes us sad. Anyways, we need to remove her record from the database!
+
+Delete Samantha's record from the user table.
+
+*/
+
