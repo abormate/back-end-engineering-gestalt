@@ -32,3 +32,14 @@ You should probably only soft-delete if you have a specific reason to do so. Aut
 
 */
 
+---------------------------- //
+-- Assignment -- Practice
+---------------------------- //
+
+/*
+You should ___________ have automated backups being taken of a production database.
+
+*/
+
+-- Answer --> Almost always
+
