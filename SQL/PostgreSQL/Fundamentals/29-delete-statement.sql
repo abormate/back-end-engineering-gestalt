@@ -26,3 +26,8 @@ DELETE from employees
 This DELETE statement removes all records from the employees table that have an id of 251!
 
 */
+
+------------------------------ //
+-- Assignment -- Practice
+------------------------------ //
+
