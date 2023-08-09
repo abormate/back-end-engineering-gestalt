@@ -17,3 +17,11 @@ delete the entire tweet and post a new one instead of just editing it...
 -- Update Statement
 -------------------------- //
 
+/*
+The UPDATE statement in SQL allows us to update the fields of a record. We can even update many records 
+depending on how we write the statement.
+
+An UPDATE statement specifies the table that needs to be updated, followed by the fields and their new values 
+by using the SET keyword. Lastly a WHERE clause indicates the record(s) to update.
+
+*/
