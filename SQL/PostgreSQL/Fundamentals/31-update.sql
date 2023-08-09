@@ -1,6 +1,6 @@
 ---------------------------------------- //
 --
--- Update SQL
+-- Update SQL statement
 --
 ---------------------------------------- //
 
@@ -12,3 +12,8 @@ delete the entire tweet and post a new one instead of just editing it...
 ...Well, that's a bad example.
 
 */
+
+-------------------------- //
+-- Update Statement
+-------------------------- //
+
