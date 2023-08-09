@@ -27,7 +27,7 @@ by using the SET keyword. Lastly a WHERE clause indicates the record(s) to updat
 */
 
 UPDATE employees
-SET job_title = 'Backend Engineer', salary = 15000
+SET job_title = 'Backend Engineer', salary = 150000
 WHERE id = 251;
 
 
@@ -56,3 +56,10 @@ id	name	age	country_code	username	password	is_admin
 
 */
 
+UPDATE users
+SET is_admin = 1
+WHERE id = 9;
+
+-- TEST SUITE, DON'T TOUCH BELOW THIS LINE --
+
+SELECT * from users WHERE id = 9;
