@@ -14,3 +14,8 @@ in Go we might have a struct that we use in our code:
 
 */
 
+type User struct {
+    ID int
+    Name string
+    IsAdmin bool
+}
