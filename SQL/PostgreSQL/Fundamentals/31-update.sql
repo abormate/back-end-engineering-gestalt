@@ -34,3 +34,12 @@ WHERE id = 251;
 ---------------------------- //
 -- Assignment -- Practice --
 ---------------------------- //
+
+/*
+We need to update Lane's record in our user table, he founded CashPal but he's not even recognized as an admin!
+
+UPDATE Lane's record within the users table so that the is_admin field is set to true!
+
+Here is the current state of the USERS table for reference!
+
+*/
