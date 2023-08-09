@@ -29,3 +29,8 @@ by using the SET keyword. Lastly a WHERE clause indicates the record(s) to updat
 UPDATE employees
 SET job_title = 'Backend Engineer', salary = 15000
 WHERE id = 251;
+
+
+---------------------------- //
+-- Assignment -- Practice --
+---------------------------- //
