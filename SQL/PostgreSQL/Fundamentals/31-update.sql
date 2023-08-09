@@ -25,3 +25,7 @@ An UPDATE statement specifies the table that needs to be updated, followed by th
 by using the SET keyword. Lastly a WHERE clause indicates the record(s) to update.
 
 */
+
+UPDATE employees
+SET job_title = 'Backend Engineer', salary = 15000
+WHERE id = 251;
