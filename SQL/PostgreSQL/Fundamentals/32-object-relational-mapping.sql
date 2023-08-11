@@ -33,3 +33,13 @@ represents a row in the table.
 
 -- Using an ORM we might be able to write simple code like this:
 
+user := User{
+    ID: 10,
+    Name: "Lane",
+    IsAdmin: false,
+}
+
+// generates a SQL statement and runs it,
+// creating a new record in the users table
+db.Create(user)
+
