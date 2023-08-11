@@ -58,3 +58,11 @@ user := User{
 db.Exec("INSERT INTO users (id, name, is_admin) VALUES (?, ?, ?);",
     user.ID, user.Name, user.IsAdmin)
 
+--------------------------- //
+-- Should you use an ORM?
+--------------------------- //
+
+/*
+
+
+*/
