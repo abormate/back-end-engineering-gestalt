@@ -80,3 +80,10 @@ you're working on a team of developers it will be a team decision.
 ---------------------------- //
 
 -- Call methods and functions made available via the ORM's API
+
+
+---------------------------- //
+-- One advantage of an ORM is that it...
+---------------------------- //
+
+-- Makes your code less verbose
