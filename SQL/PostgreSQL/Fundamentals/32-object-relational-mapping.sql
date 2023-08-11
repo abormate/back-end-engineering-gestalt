@@ -47,3 +47,4 @@ db.Create(user)
 -- Example -- Using straight SQL
 ---------------------------- //
 
+-- Using straight SQL we might have to do something a bit more manual:
