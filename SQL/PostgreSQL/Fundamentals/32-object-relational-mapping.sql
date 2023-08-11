@@ -63,6 +63,20 @@ db.Exec("INSERT INTO users (id, name, is_admin) VALUES (?, ?, ?);",
 --------------------------- //
 
 /*
+That depends! An ORM typically trades simplicity for control.
 
+Using straight SQL you can take full advantage of the power of the SQL language. Using an ORM, you're limited 
+by whatever functionality the ORM has. If you run into issues with a specific query, it can be harder to 
+debug with an ORM because you have to dig through the framework's code and documentation to figure out how 
+the underlying queries are being generated.
+
+I recommend doing projects both ways so that you can learn about the tradeoffs. At the end of the day, when 
+you're working on a team of developers it will be a team decision.
 
 */
+
+---------------------------- //
+-- Question -- When using an ORM, you ____________ .
+---------------------------- //
+
+-- Call methods and functions made available via the ORM's API
