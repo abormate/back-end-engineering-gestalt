@@ -31,3 +31,5 @@ represents a row in the table.
 -- Example -- Using an ORM
 ----------------------------- //
 
+-- Using an ORM we might be able to write simple code like this:
+
