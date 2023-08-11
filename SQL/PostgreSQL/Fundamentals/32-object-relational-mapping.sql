@@ -43,3 +43,7 @@ user := User{
 // creating a new record in the users table
 db.Create(user)
 
+---------------------------- //
+-- Example -- Using straight SQL
+---------------------------- //
+
