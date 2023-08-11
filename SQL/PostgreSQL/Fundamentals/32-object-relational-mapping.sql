@@ -48,3 +48,13 @@ db.Create(user)
 ---------------------------- //
 
 -- Using straight SQL we might have to do something a bit more manual:
+
+user := User{
+    ID: 10,
+    Name: "Lane",
+    IsAdmin: false,
+}
+
+db.Exec("INSERT INTO users (id, name, is_admin) VALUES (?, ?, ?);",
+    user.ID, user.Name, user.IsAdmin)
+
