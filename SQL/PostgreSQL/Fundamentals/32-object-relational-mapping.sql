@@ -19,3 +19,15 @@ type User struct {
     Name string
     IsAdmin bool
 }
+
+/*
+This struct definition conveniently represents a database table called users, and an instance of the struct 
+represents a row in the table.
+
+
+*/
+
+----------------------------- //
+-- Example -- Using an ORM
+----------------------------- //
+
