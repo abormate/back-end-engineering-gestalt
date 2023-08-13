@@ -18,3 +18,6 @@ us to "alias" a piece of data in our query. The alias only exists for the durati
 
 SELECT employee_id AS id, employee_name AS name
 FROM employees;
+
+SELECT employee_id, employee_name
+FROM employees;
