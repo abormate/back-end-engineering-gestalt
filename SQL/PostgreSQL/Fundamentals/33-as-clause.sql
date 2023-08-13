@@ -14,3 +14,7 @@ us to "alias" a piece of data in our query. The alias only exists for the durati
 -- As Keyword
 ---------------------------- //
 
+-- The following queries return the same data:
+
+SELECT employee_id AS id, employee_name AS name
+FROM employees;
