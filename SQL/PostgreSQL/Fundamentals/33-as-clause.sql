@@ -10,3 +10,7 @@ us to "alias" a piece of data in our query. The alias only exists for the durati
 
 */
 
+---------------------------- //
+-- As Keyword
+---------------------------- //
+
