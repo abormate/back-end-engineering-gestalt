@@ -38,3 +38,5 @@ because we noticed all the transactions from grandma are birthday messages.
 Return the amount and the note field (renamed to birthday_message) from the transactions table where the sender_id is 10 (grandma).
 
 */
+
+SELECT amount, note AS birthday_message FROM transactions WHERE sender_id is 10;
