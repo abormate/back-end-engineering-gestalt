@@ -22,3 +22,8 @@ FROM employees;
 SELECT employee_id, employee_name
 FROM employees;
 
+/*
+The difference is that the results from the aliased query would have column names id and name instead of employee_id and employee_name.
+
+*/
+
