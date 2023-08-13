@@ -27,3 +27,7 @@ The difference is that the results from the aliased query would have column name
 
 */
 
+-------------------------- //
+-- Assignment -- Practice
+-------------------------- //
+
