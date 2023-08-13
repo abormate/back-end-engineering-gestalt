@@ -31,3 +31,10 @@ The difference is that the results from the aliased query would have column name
 -- Assignment -- Practice
 -------------------------- //
 
+/*
+A user has asked us to find all the transactions on their account from their grandma. We thought it would be fun to rename the note field to birthday_message 
+because we noticed all the transactions from grandma are birthday messages.
+
+Return the amount and the note field (renamed to birthday_message) from the transactions table where the sender_id is 10 (grandma).
+
+*/
