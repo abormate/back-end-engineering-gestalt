@@ -18,4 +18,10 @@ in a query. This is similar to how you might use formulas in excel.
 
 IIF(carA > carB, "Car a is bigger", "Car b is bigger")
 
+/*
+If a is greater than b, this statement evaluates to the string "Car a is bigger". Otherwise, it evaluates to "Car b is bigger".
+
+Here's how we can use IIF() and a directive alias to add a new calculated column to our result set:
+
+*/
 
