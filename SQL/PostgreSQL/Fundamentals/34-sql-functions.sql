@@ -25,3 +25,7 @@ Here's how we can use IIF() and a directive alias to add a new calculated column
 
 */
 
+SELECT quantity,
+    IIF(quantity < 10, "Order more", "In Stock") AS directive
+    from products
+
