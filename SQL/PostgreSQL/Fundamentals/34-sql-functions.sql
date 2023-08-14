@@ -16,4 +16,6 @@ in a query. This is similar to how you might use formulas in excel.
 
 -- In SQLite, the IIF function works like a ternary. For example,
 
+IIF(carA > carB, "Car a is bigger", "Car b is bigger")
+
 
