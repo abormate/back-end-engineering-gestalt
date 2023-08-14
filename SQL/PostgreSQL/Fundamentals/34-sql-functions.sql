@@ -10,3 +10,10 @@ in a query. This is similar to how you might use formulas in excel.
 
 */
 
+--------------------------- //
+-- IIF Function
+--------------------------- //
+
+-- In SQLite, the IIF function works like a ternary. For example,
+
+
