@@ -12,3 +12,11 @@ times in the report.
 
 */
 
+--------------------------- //
+-- SELECT Distinct
+--------------------------- //
+
+/*
+SQL offers us the DISTINCT keyword that removes duplicate records from the resulting query.
+
+*/
