@@ -24,3 +24,9 @@ SELECT product_name, quantity
 FROM products
 WHERE quantity NOT BETWEEN 20 and 100;
 
+/*
+This query returns all the product names where the quantity was not between 20 and 100. We can use conditionals to make the results of our query as 
+specific as we need them to be.
+
+*/
+
