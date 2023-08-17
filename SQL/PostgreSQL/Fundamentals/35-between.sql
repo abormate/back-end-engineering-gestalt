@@ -34,3 +34,10 @@ specific as we need them to be.
 -- Assignment -- Practice
 ------------------------ //
 
+/*
+We need to see how many young adults are using CashPal!
+
+Query our users table to find all the name and age fields of users BETWEEN the age of 18 and 30.
+
+*/
+
