@@ -51,4 +51,4 @@ Some equality operators in SQL:
 
 */
 
-SELECT *, IIF(was_successful is true, "No action required", "Perform an audit") AS audit FROM transactions;
+SELECT *, IIF(was_successful is true, "No action required", "Perform an audit") AS audit FROM transactions;ING 
