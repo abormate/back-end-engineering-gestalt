@@ -41,3 +41,4 @@ Query our users table to find all the name and age fields of users BETWEEN the a
 
 */
 
+SELECT name, age FROM users WHERE age BETWEEN 18 AND 30;
