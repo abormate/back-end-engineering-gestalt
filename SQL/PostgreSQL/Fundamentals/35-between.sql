@@ -20,3 +20,7 @@ are NOT BETWEEN two specified values.
 
 */
 
+SELECT product_name, quantity
+FROM products
+WHERE quantity NOT BETWEEN 20 and 100;
+
