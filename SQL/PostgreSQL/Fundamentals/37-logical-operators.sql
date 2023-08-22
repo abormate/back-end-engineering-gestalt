@@ -16,3 +16,7 @@ The logical AND operator can be used to narrow down our result sets even more!
 -- AND operator
 -------------------------- //
 
+SELECT product_name, quantity, shipment_status
+    FROM products
+    WHERE shipment_status = 'pending'
+    AND quantity BETWEEN 0 and 10;
