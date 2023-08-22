@@ -30,4 +30,13 @@ This only retrieves records where both the shipment_status is "pending" AND the 
 -- Equality and inequality operators
 ------------------------- //
 
+/*
+All of the following operators are supported in SQL. The = is the main one to watch out for, it's not == like in many other languages!
 
+=
+<
+>
+<=
+>=
+
+*/
