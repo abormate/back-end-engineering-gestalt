@@ -12,3 +12,7 @@ The logical AND operator can be used to narrow down our result sets even more!
 
 */
 
+-------------------------- //
+-- AND operator
+-------------------------- //
+
