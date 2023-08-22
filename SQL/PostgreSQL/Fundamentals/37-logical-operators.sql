@@ -53,4 +53,4 @@ Write a query that retrieves all of the fields from the users table who are from
 
 */
 
-
+SELECT * FROM users WHERE country_code IS 'CA' AND age < 18;
