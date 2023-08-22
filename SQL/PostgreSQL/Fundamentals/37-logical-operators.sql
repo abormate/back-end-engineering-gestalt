@@ -20,3 +20,14 @@ SELECT product_name, quantity, shipment_status
     FROM products
     WHERE shipment_status = 'pending'
     AND quantity BETWEEN 0 and 10;
+
+/*
+This only retrieves records where both the shipment_status is "pending" AND the quantity is between 0 and 10
+
+*/
+
+------------------------- //
+-- Equality and inequality operators
+------------------------- //
+
+
