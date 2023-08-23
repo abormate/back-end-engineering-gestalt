@@ -14,3 +14,7 @@ SELECT product_name, quantity, shipment_status
     WHERE shipment_status = 'out of stock'
     OR quantity BETWEEN 10 and 100;
 
+/*
+This query retrieves records where either the shipment_status condition OR the quantity condition are met.
+
+*/
