@@ -24,3 +24,6 @@ This query retrieves records where either the shipment_status condition OR the q
 ----------------------------- //
 
 -- You can group logical operations with parentheses to specify the order of operations
+
+(this AND that) OR the_other
+
