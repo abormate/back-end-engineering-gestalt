@@ -18,3 +18,8 @@ SELECT product_name, quantity, shipment_status
 This query retrieves records where either the shipment_status condition OR the quantity condition are met.
 
 */
+
+----------------------------- //
+-- Order of Ops
+----------------------------- //
+
