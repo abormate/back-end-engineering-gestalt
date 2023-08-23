@@ -23,3 +23,4 @@ This query retrieves records where either the shipment_status condition OR the q
 -- Order of Ops
 ----------------------------- //
 
+-- You can group logical operations with parentheses to specify the order of operations
