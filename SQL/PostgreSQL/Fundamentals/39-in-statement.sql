@@ -21,3 +21,9 @@ SELECT product_name, shipment_status
     WHERE shipment_status = 'shipped'
         OR shipment_status = 'preparing'
         OR shipment_status = 'out of stock';
+
+/*
+Hopefully, you're starting to see how querying specific data using fine-tuned SQL clauses helps reveal important insights! The larger a table becomes the 
+harder it becomes to analyze without proper queries.
+
+*/
