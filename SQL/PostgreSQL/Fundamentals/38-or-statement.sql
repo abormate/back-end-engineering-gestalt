@@ -39,3 +39,8 @@ The laws have changed again! Now we need to see how many affected users meet thi
 
 Write a query that retrieves the count of every user that matches the conditions above.
 */
+
+SELECT count(*)
+FROM users
+WHERE (country_code = ('US') OR country_code = ('CA'))
+    AND age < 18;
