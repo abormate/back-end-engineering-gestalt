@@ -16,6 +16,11 @@ The LIKE keyword allows for the use of the % and _ wildcard operators. Let's foc
 -- % Operator
 ---------------------------- //
 
+/*
+The % operator will match zero or more characters. We can use this operator within our query string to find more than just exact matches depending on 
+where we place it.
+
+*/
 
 -- Product that begins with apple
 
