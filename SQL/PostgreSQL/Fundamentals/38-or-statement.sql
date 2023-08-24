@@ -32,3 +32,10 @@ This query retrieves records where either the shipment_status condition OR the q
 -- Assignment -- Practice
 ----------------------------- //
 
+/*
+The laws have changed again! Now we need to see how many affected users meet this criteria:
+
+ >>-->> Users who are from the United States or Canada, and are under 18
+
+Write a query that retrieves the count of every user that matches the conditions above.
+*/
