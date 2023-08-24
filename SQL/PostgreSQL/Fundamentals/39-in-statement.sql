@@ -27,3 +27,8 @@ Hopefully, you're starting to see how querying specific data using fine-tuned SQ
 harder it becomes to analyze without proper queries.
 
 */
+
+----------------------------- //
+-- Assignment -- Practice
+----------------------------- //
+
