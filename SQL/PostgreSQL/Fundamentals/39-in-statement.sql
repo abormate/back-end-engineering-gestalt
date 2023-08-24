@@ -12,3 +12,6 @@ These two queries are equivalent:
 
 */
 
+SELECT product_name, shipment_status
+    FROM products
+    WHERE shipment_status IN ('shipped', 'preparing', 'out of stock');
