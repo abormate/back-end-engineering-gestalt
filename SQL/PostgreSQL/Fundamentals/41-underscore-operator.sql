@@ -9,3 +9,5 @@ As discussed, the % wildcard operator matches zero or more characters. Meanwhile
 
 */
 
+SELECT * FROM products
+    WHERE product_name LIKE '_oot';
