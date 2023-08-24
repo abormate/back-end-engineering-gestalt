@@ -27,3 +27,8 @@ This query retrieves records where either the shipment_status condition OR the q
 
 (this AND that) OR the_other
 
+
+----------------------------- //
+-- Assignment -- Practice
+----------------------------- //
+
