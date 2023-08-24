@@ -16,6 +16,19 @@ The LIKE keyword allows for the use of the % and _ wildcard operators. Let's foc
 -- % Operator
 ---------------------------- //
 
+
+-- Product that begins with apple
+
 SELECT * FROM products
-WHERE product_name LIKE 'banana%';
+WHERE product_name LIKE 'apple%';
+
+-- Product that ends with apple
+
+SELECT * from products
+WHERE product_name LIKE '%apple';
+
+-- Product that contains orange
+
+SELECT * from products
+WHERE product_name LIKE '%orange%';
 
