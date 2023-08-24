@@ -32,3 +32,9 @@ harder it becomes to analyze without proper queries.
 -- Assignment -- Practice
 ----------------------------- //
 
+/*
+We want to know which of our users are from North America. Write a SELECT statement that returns the name age and country_code fields for every user 
+within the US, CA or MX.
+
+*/
+
