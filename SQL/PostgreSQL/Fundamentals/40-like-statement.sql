@@ -50,4 +50,4 @@ Write a query that returns all the fields for records where the user's name star
 
 */
 
-
+SELECT * FROM users WHERE name LIKE 'Al%';
