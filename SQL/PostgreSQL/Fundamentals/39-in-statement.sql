@@ -15,3 +15,9 @@ These two queries are equivalent:
 SELECT product_name, shipment_status
     FROM products
     WHERE shipment_status IN ('shipped', 'preparing', 'out of stock');
+
+SELECT product_name, shipment_status
+    FROM products
+    WHERE shipment_status = 'shipped'
+        OR shipment_status = 'preparing'
+        OR shipment_status = 'out of stock';
