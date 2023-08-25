@@ -13,8 +13,7 @@ SELECT * FROM products
     WHERE product_name LIKE '_oot';
 
 /*
-The query above matches products like:
-
+The query above matches products like:Basic 
 boot
 root
 foot
