@@ -10,3 +10,9 @@ SELECT * from users
 
 SELECT * from users
     WHERE name LIKE '__ing';
+
+
+----------------------------- //
+-- Assignment -- Practice
+----------------------------- //
+
