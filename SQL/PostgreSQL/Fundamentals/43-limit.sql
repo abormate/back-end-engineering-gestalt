@@ -10,3 +10,5 @@ and SELECTing all of them might crash your system! The LIMIT keyword has entered
 
 */
 
+-- The LIMIT keyword can be used at the end of a select statement to reduce the number of records returned.
+
