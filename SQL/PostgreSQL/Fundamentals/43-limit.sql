@@ -16,3 +16,9 @@ SELECT * FROM products
     WHERE product_name LIKE '%berry%'
     LIMIT 50;
 
+/*
+The query above retrieves all the records from the products table where the name contains the word berry. If we ran this query on the Facebook database, 
+it would almost certainly return a lot of records.
+
+*/
+
