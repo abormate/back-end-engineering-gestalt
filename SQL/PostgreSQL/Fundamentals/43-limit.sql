@@ -28,3 +28,7 @@ the query, the LIMIT statement will not have an effect.
 
 */
 
+---------------------------- //
+-- Assignment -- Practice
+---------------------------- //
+
