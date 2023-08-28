@@ -22,3 +22,9 @@ it would almost certainly return a lot of records.
 
 */
 
+/*
+The LIMIT statement only allows the database to return up to 50 records matching the query. This means that if there aren't that many records matching 
+the query, the LIMIT statement will not have an effect.
+
+*/
+
