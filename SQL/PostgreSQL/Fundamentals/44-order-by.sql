@@ -9,3 +9,7 @@ SQL also offers us the ability to sort the results of a query using ORDER BY. By
 ascending order, or ASC for short. However, ORDER BY does support descending order as well with the keyword DESC.
 
 */
+
+--------------------------- //
+-- Examples
+--------------------------- //
