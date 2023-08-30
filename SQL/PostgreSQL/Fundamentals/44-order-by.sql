@@ -22,3 +22,8 @@ This query returns the name, price, and quantity fields from the products table 
 SELECT name, price, quantity FROM products
     ORDER BY price;
 
+/*
+This query returns the name, price, and quantity of the products ordered by the quantity in descending order:
+
+*/
+
