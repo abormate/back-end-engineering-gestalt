@@ -35,3 +35,11 @@ SELECT name, price, quantity FROM products
 -- Assignment -- Practice
 -------------------------- //
 
+/*
+Write a query that lists all the records in the transactions table where:
+
+amount is BETWEEN 10 and 80 dollars.
+The results are sorted by amount in descending order.
+
+*/
+
