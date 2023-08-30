@@ -13,3 +13,8 @@ ascending order, or ASC for short. However, ORDER BY does support descending ord
 --------------------------- //
 -- Examples
 --------------------------- //
+
+/*
+This query returns the name, price, and quantity fields from the products table sorted by price in ascending order:
+
+*/
