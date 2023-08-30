@@ -27,3 +27,5 @@ This query returns the name, price, and quantity of the products ordered by the 
 
 */
 
+SELECT name, price, quantity FROM products
+    ORDER BY quantity desc;
