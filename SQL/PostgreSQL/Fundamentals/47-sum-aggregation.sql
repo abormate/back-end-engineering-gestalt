@@ -12,3 +12,6 @@ employees in the employees table.
 
 */
 
+SELECT sum(salary)
+FROM employees;
+
