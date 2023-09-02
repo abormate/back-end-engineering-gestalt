@@ -46,3 +46,5 @@ The front-end team is building a dashboard page in CashPal. We need to be able t
 Return the number of transactions where the user_id is 7, and was_successful is true.
 
 */
+
+SELECT COUNT(*) FROM transactions WHERE user_id IS 7 AND was_successful is TRUE;
