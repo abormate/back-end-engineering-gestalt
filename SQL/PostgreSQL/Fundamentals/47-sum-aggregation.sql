@@ -15,3 +15,10 @@ employees in the employees table.
 SELECT sum(salary)
 FROM employees;
 
+/*
+Which returns:
+
+SUM(SALARY)
+2483
+
+*/
