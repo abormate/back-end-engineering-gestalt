@@ -16,7 +16,9 @@ to count the number of records in a table.
 --------------------------- //
 
 /*
+Data stored in a database should generally be stored raw. When we need to calculate some additional data from the raw data, we can use an aggregation.
 
+Take the following count aggregation as an example:
 
 */
 
