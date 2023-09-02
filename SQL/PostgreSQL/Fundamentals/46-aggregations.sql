@@ -40,4 +40,9 @@ additional information from the raw data.
 -- Assignment -- Practice
 ------------------------- //
 
+/*
+The front-end team is building a dashboard page in CashPal. We need to be able to provide them the number of successful transactions for a given user.
 
+Return the number of transactions where the user_id is 7, and was_successful is true.
+
+*/
