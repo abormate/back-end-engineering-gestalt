@@ -26,3 +26,13 @@ Take the following count aggregation as an example:
 SELECT COUNT(*)
 FROM products
 WHERE quantity = 0;
+
+/*
+This query returns the number of products that have a quantity of 0. We could store a count of the products in a separate database table, and 
+increment/decrement it whenever we make changes to the products table - but that would be redundant.
+
+It's much simpler to store the products in a single place (we call this a single source of truth) and run an aggregation when we need to derive 
+additional information from the raw data.
+
+*/
+
