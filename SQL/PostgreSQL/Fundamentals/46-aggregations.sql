@@ -12,7 +12,7 @@ to count the number of records in a table.
 */
 
 --------------------------- //
---
+-- Why Aggregations
 --------------------------- //
 
 /*
