@@ -23,3 +23,6 @@ Take the following count aggregation as an example:
 */
 
 
+SELECT COUNT(*)
+FROM products
+WHERE quantity = 0;
