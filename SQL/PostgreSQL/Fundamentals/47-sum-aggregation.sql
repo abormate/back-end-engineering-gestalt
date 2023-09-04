@@ -26,3 +26,10 @@ SUM(SALARY)
 -------------------------- //
 -- Assignment -- Practice
 -------------------------- //
+
+/*
+We need to be able to calculate the current balance for a given user because we don't (yet) store the running balance on each individual transaction record.
+
+Write a query that returns the sum aggregation of the amounts for all of Bob's transactions (user_id is 9).
+
+*/
