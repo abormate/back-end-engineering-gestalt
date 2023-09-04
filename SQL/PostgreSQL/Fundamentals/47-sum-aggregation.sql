@@ -33,3 +33,5 @@ We need to be able to calculate the current balance for a given user because we 
 Write a query that returns the sum aggregation of the amounts for all of Bob's transactions (user_id is 9).
 
 */
+
+SELECT SUM(amount) FROM transactions WHERE user_id is 9;
