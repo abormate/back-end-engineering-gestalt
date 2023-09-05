@@ -50,3 +50,5 @@ This user_id, recipient_id, sender_id schema we've designed is only one way to d
 It's the one we're using, and later we'll talk more about the tradeoffs in different database design options.
 
 */
+
+SELECT max(amount), user_id FROM transactions WHERE user_id is 4;
