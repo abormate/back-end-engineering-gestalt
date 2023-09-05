@@ -18,3 +18,21 @@ not the rest of the record! You always need to specify each field you want a que
 --------------------------- //
 -- Assignment -- Practice
 --------------------------- //
+
+/*
+Use a max aggregation to find the largest amount of money received by a Jill (user_id of 4). Return her user_id and that amount.
+
+Table name: transactions
+
+Column names:
+
+id
+user_id
+recipient_id
+sender_id
+note
+amount
+was_successful
+
+*/
+
