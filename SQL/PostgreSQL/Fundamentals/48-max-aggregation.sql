@@ -40,3 +40,13 @@ was_successful
 -- A Note on Schema 
 -------------------------- //
 
+/*
+The sender_id will be present for any transactions where the user in question (user_id) is receiving money (from the sender).
+The recipient_id will be present for any transactions where the user in question (user_id) is sending money (to the recipient).
+In other words, a transaction can only have a sender_id or a recipient_id - not both. The presence of one or the other indicates whether money is 
+going into or out of the user's account.
+
+This user_id, recipient_id, sender_id schema we've designed is only one way to design a transactions database - there are other valid ways to do it! 
+It's the one we're using, and later we'll talk more about the tradeoffs in different database design options.
+
+*/
