@@ -12,3 +12,12 @@ that each group can have an aggregate function applied to it that operates only 
 
 */
 
+---------------------------- //
+-- Group by example
+---------------------------- //
+
+/*
+Imagine that we have a database with songs and albums, and we want to see how many songs are on each album. We can use a query like this:
+
+*/
+
