@@ -29,3 +29,15 @@ GROUP BY album_id;
 This query retrieves a count of all the songs on each album. One record is returned per album, and they each have their own count.
 
 */
+
+---------------------------- //
+-- Assignment -- Practice
+---------------------------- //
+
+/*
+Let's get the balance of every user now, all in a single query! Use a combination of the sum aggregation and the GROUP BY clause to return a single row 
+for each user.
+
+The row for each user should contain the user_id and their balance (a sum of their amounts) called balance.
+
+*/
