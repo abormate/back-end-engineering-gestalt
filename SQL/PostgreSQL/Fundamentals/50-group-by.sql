@@ -41,3 +41,5 @@ for each user.
 The row for each user should contain the user_id and their balance (a sum of their amounts) called balance.
 
 */
+
+SELECT user_id, sum(amount) AS balance FROM transactions GROUP BY user_id;
