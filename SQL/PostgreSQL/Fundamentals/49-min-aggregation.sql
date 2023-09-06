@@ -29,3 +29,5 @@ USERS TABLE
 The country_code of the United States is US.
 
 */
+
+SELECT min(age) FROM users WHERE country_code is 'US';
