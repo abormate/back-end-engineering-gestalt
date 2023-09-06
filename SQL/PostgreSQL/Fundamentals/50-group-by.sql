@@ -21,3 +21,6 @@ Imagine that we have a database with songs and albums, and we want to see how ma
 
 */
 
+SELECT album_id, count(song_id)
+FROM songs
+GROUP BY album_id;
