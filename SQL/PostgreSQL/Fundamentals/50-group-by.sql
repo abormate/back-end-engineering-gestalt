@@ -24,3 +24,8 @@ Imagine that we have a database with songs and albums, and we want to see how ma
 SELECT album_id, count(song_id)
 FROM songs
 GROUP BY album_id;
+
+/*
+This query retrieves a count of all the songs on each album. One record is returned per album, and they each have their own count.
+
+*/
