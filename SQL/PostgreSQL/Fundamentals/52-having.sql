@@ -21,3 +21,7 @@ This query returns the album_id and count of its songs, but only for albums with
 
 */
 
+--------------------------- //
+-- Assignment -- Practice
+--------------------------- //
+
