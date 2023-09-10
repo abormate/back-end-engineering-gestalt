@@ -15,3 +15,9 @@ select song_name, avg(song_length)
 from songs
 
 -- This query returns the average song_length in the songs table!
+
+
+------------------------------ //
+-- Assignment -- Practice
+------------------------------ //
+
