@@ -25,3 +25,8 @@ This query returns the album_id and count of its songs, but only for albums with
 -- Assignment -- Practice
 --------------------------- //
 
+/*
+A new page in the CashPal app allows users to see how much money they've spent on a specific kind of transaction, and alerts them if that amount is fairly 
+large. Let's write a query that returns the total amount spent by each user on lunch when that balance is greater than 20
+
+*/
