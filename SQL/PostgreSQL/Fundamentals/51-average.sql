@@ -13,3 +13,5 @@ SQL offers us the AVG() function. Similar to MAX(), AVG() calculates the average
 
 select song_name, avg(song_length)
 from songs
+
+-- This query returns the average song_length in the songs table!
