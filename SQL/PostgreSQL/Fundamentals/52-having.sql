@@ -10,3 +10,9 @@ When we need to filter the results of a GROUP BY query even further, we can use 
 The HAVING clause is similar to the WHERE clause, but it operates on groups after they've been grouped, rather than rows before they've been grouped.
 
 */
+
+/*
+This query returns the album_id and count of its songs, but only for albums with more than 5 songs.
+
+*/
+
