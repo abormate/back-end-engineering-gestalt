@@ -40,3 +40,10 @@ The aggregated balance must be greater than 20.
 Order the results by the balance in ascending order.
 
 */
+
+SELECT sender_id, sum(amount) AS balance
+FROM transactions
+WHERE sender_id IS NOT NULL AND note LIKE '%lunch%'
+GROUP BY sender_id
+HAVING balance > 20 
+ORDER BY balance ASC;
