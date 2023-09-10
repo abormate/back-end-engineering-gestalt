@@ -29,3 +29,4 @@ Return a single value representing the average age of all users where the countr
 
 */
 
+SELECT avg(age) FROM users WHERE country_code is 'US';
