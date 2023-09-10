@@ -11,6 +11,11 @@ The HAVING clause is similar to the WHERE clause, but it operates on groups afte
 
 */
 
+SELECT album_id, count(id) as count
+FROM songs
+GROUP BY album_id
+HAVING count > 5;
+
 /*
 This query returns the album_id and count of its songs, but only for albums with more than 5 songs.
 
