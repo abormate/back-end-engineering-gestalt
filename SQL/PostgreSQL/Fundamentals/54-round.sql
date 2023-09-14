@@ -22,3 +22,7 @@ from songs
 This query returns the average song_length from the songs table, rounded to a single decimal point.
 
 */
+
+---------------------------- //
+-- Assignment -- Practice
+--------------------------- //
