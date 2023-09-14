@@ -15,3 +15,6 @@ round(value, precision)
 
 -- If no precision is given, SQL will round the value to the nearest whole value:
 
+select song_name, round(avg(song_length), 1)
+from songs
+
