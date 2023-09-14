@@ -7,4 +7,6 @@
 /*
 Sometimes we need to round some numbers, particularly when working with the results of an aggregation. We can use the ROUND() function to get the job done.
 
+The SQL round() function allows you to specify both the value you wish to round and the precision to which you wish to round it:
+
 */
