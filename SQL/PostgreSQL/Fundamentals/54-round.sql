@@ -12,3 +12,6 @@ The SQL round() function allows you to specify both the value you wish to round 
 */
 
 round(value, precision)
+
+-- If no precision is given, SQL will round the value to the nearest whole value:
+
