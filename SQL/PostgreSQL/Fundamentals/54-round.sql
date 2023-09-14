@@ -33,6 +33,6 @@ This query returns the average song_length from the songs table, rounded to a si
 
 */
 
-SELECT avg(age)
+SELECT round(avg(age)) AS round_age
 FROM users
 WHERE country_code = 'US';
