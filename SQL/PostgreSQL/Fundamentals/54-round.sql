@@ -18,3 +18,7 @@ round(value, precision)
 select song_name, round(avg(song_length), 1)
 from songs
 
+/*
+This query returns the average song_length from the songs table, rounded to a single decimal point.
+
+*/
