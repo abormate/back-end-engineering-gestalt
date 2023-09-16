@@ -37,3 +37,9 @@ whose name starts with "Rick". Notice that the subquery allows us to use informa
 -- Subquery Syntax
 --------------------------- //
 
+/*
+The only syntax unique to a subquery is the parentheses surrounding the nested query. The IN operator could be different, for example, we could use 
+the = operator if we expect a single value to be returned.
+
+*/
+
