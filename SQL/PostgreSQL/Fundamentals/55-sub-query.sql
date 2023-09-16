@@ -47,3 +47,9 @@ the = operator if we expect a single value to be returned.
 -- Assignment -- Practice
 --------------------------- //
 
+/*
+One of CashPal's customer service representatives needs us to pull all the transactions for a specific user. Trouble is, they only know the user's name, 
+not their id.
+
+*/
+
