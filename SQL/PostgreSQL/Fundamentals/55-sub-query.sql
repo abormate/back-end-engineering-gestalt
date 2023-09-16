@@ -70,3 +70,4 @@ WHERE user_id IN (
   FROM users
   WHERE name LIKE 'David%'
 );
+
