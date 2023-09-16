@@ -63,3 +63,10 @@ id	name	age	country_code	username	password	is_admin
 
 */
 
+SELECT *
+FROM transactions
+WHERE user_id IN (
+  SELECT id
+  FROM users
+  WHERE name LIKE 'David%'
+);
