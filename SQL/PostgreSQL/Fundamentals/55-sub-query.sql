@@ -32,3 +32,8 @@ In this hypothetical database, the query above selects all of the song_ids, song
 whose name starts with "Rick". Notice that the subquery allows us to use information from a different table - in this case the artists table.
 
 */
+
+--------------------------- //
+-- Subquery Syntax
+--------------------------- //
+
