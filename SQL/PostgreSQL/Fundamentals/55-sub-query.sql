@@ -51,5 +51,15 @@ the = operator if we expect a single value to be returned.
 One of CashPal's customer service representatives needs us to pull all the transactions for a specific user. Trouble is, they only know the user's name, 
 not their id.
 
+
+Use a subquery to get all of "David"s transactions.
+
+TRANSACTIONS TABLE SCHEMA
+id	user_id	recipient_id	sender_id	note	amount	was_successful
+
+
+USERS TABLE SCHEMA
+id	name	age	country_code	username	password	is_admin
+
 */
 
