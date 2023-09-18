@@ -20,3 +20,8 @@ A one-to-one relationship most often manifests as a field or set of fields on a 
 Settings fields might be another example of a one-to-one relationship. A user will have exactly one email_preference and exactly one birthday.
 
 */
+
+---------------------------- //
+-- Types of Relationships
+---------------------------- //
+
