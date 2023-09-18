@@ -25,3 +25,6 @@ are more than 40 years old. Unfortunately, this table awkwardly stores age in da
 Use a subquery to convert years -> days and filter on that. Assume every year has 365 days.
 
 */
+
+SELECT *
+FROM users
