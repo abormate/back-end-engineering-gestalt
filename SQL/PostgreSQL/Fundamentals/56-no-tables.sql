@@ -17,3 +17,9 @@ SELECT 5 + 10 as sum;
 --------------------------- //
 -- Assignment -- Practice
 --------------------------- //
+
+/*
+Finance has found that people who have lived longer than 40 years need to start thinking about retirement. Write a query that returns all the users who 
+are more than 40 years old. Unfortunately, this table awkwardly stores age in days in the age_in_days field.
+
+*/
