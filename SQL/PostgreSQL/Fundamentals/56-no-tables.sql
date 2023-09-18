@@ -11,3 +11,5 @@ We usually use it to interact with data stored in tables, but it's quite flexibl
 For example, you can SELECT information that's simply calculated, with no tables necessary.
 
 */
+
+SELECT 5 + 10 as sum;
