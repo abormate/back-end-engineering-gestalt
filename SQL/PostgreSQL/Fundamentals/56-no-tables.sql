@@ -13,3 +13,7 @@ For example, you can SELECT information that's simply calculated, with no tables
 */
 
 SELECT 5 + 10 as sum;
+
+--------------------------- //
+-- Assignment -- Practice
+--------------------------- //
