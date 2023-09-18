@@ -25,3 +25,12 @@ Settings fields might be another example of a one-to-one relationship. A user wi
 -- Types of Relationships
 ---------------------------- //
 
+/*
+There are 3 primary types of relationships in a relational database:
+
+One-to-one
+One-to-many
+Many-to-many
+
+*/
+
