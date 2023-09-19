@@ -28,4 +28,8 @@ A users table and a transactions table. Each user has 0, 1, or many transactions
 -- Assignment -- Practice --
 ---------------------------- //
 
+/*
+It turns out that when we originally designed the CashPal database schema we assumed that users would only have a single country they lived in. 
+With digital nomads becoming a thing, it turns out many users have dual citizenship.
 
+*/
