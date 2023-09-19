@@ -23,3 +23,9 @@ A users table and a transactions table. Each user has 0, 1, or many transactions
 
 */
 
+
+---------------------------- //
+-- Assignment -- Practice --
+---------------------------- //
+
+
