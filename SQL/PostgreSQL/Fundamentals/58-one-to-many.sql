@@ -17,3 +17,9 @@ Note that the one->many relation only goes one way, a record in the second table
 -- Examples of one to many relationships
 ---------------------------- //
 
+/*
+A customers table and a orders table. Each customer has 0, 1, or many orders that they've placed.
+A users table and a transactions table. Each user has 0, 1, or many transactions that taken part in.
+
+*/
+
