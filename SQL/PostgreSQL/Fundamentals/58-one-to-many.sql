@@ -32,4 +32,14 @@ A users table and a transactions table. Each user has 0, 1, or many transactions
 It turns out that when we originally designed the CashPal database schema we assumed that users would only have a single country they lived in. 
 With digital nomads becoming a thing, it turns out many users have dual citizenship.
 
+Instead of a single users table where each user has a single country_code, do the following:
+
+-- Remove the country_code field from the users table
+-- Create a new table called countries with 4 fields:
+
+---- id: an integer
+---- country_code: a string
+---- name: a string
+---- user_id: an integer foreign key to the users table's id field
+
 */
