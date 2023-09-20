@@ -23,3 +23,9 @@ A many-to-many relationship occurs when multiple records in one table can be rel
 -- Joining Table
 ---------------------------- //
 
+/*
+Joining tables help define many-to-many relationships between data in a database. As an example when defining the relationship above between products and 
+suppliers, we would define a joining table called products_suppliers that contains the primary keys from the tables to be joined.
+
+*/
+
