@@ -38,4 +38,18 @@ Then, when we want to see if a supplier supplies a specific product, we can look
 /*
 When enforcing specific schema constraints we may need to enforce the UNIQUE constraint across two different fields.
 
+For an example, for a joining table product_suppliers
 */
+
+CREATE TABLE product_suppliers (
+  product_id INTEGER,
+  supplier_id INTEGER,
+  UNIQUE(product_id, supplier_id)
+);
+
+/*
+This ensures that we can have multiple rows with the same product_id or supplier_id, but we can't have two rows where both the product_id and 
+supplier_id are the same.
+
+*/
+
