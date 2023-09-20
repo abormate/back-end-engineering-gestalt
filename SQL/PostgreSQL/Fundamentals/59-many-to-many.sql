@@ -9,3 +9,7 @@ A many-to-many relationship occurs when multiple records in one table can be rel
 
 */
 
+---------------------------- //
+-- Examples of Many to Many relationships
+---------------------------- //
+
