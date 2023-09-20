@@ -31,3 +31,7 @@ Then, when we want to see if a supplier supplies a specific product, we can look
 
 */
 
+---------------------------- //
+-- Unique Constraint across 2 Fields
+---------------------------- //
+
