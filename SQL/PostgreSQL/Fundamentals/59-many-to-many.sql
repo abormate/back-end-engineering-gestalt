@@ -18,3 +18,8 @@ A many-to-many relationship occurs when multiple records in one table can be rel
 -- A classes table and a students table - Students can take potentially many classes and classes can have many students enrolled.
 
 */
+
+---------------------------- //
+-- Joining Table
+---------------------------- //
+
