@@ -35,3 +35,7 @@ Then, when we want to see if a supplier supplies a specific product, we can look
 -- Unique Constraint across 2 Fields
 ---------------------------- //
 
+/*
+When enforcing specific schema constraints we may need to enforce the UNIQUE constraint across two different fields.
+
+*/
