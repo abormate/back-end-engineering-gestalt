@@ -4,3 +4,8 @@
 --
 ---------------------------------------- //
 
+/*
+A many-to-many relationship occurs when multiple records in one table can be related to multiple records in another table.
+
+*/
+
