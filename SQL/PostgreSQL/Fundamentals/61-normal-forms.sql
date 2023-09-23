@@ -27,3 +27,13 @@ The more normalized a database, the better its data integrity, and the less dupl
 ------------------------- //
 -- Primary Keys in the context of Normal Forms are different
 ------------------------- //
+
+/*
+In the context of database normalization, we're going to use the term "primary key" slightly differently. When we're talking about SQLite, a "primary key" 
+is a single column that uniquely identifies a row.
+
+When we're talking more generally about data normalization, the term "primary key" means the collection of columns that uniquely identify a row. That can be 
+a single column, but it can actually be any number of columns. A primary key is the minimum number of columns needed to uniquely identify a row in a table.
+
+*/
+
