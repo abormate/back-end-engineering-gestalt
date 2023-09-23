@@ -22,3 +22,8 @@ The more normalized a database, the better its data integrity, and the less dupl
 
 
 */
+
+
+------------------------- //
+-- Primary Keys in the context of Normal Forms are different
+------------------------- //
