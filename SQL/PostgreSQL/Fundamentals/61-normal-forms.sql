@@ -14,3 +14,11 @@ Boyce-Codd normal form (BCNF)
 
 
 */
+
+/*
+In short, 1st normal form is the least "normalized" form, and Boyce-Codd is the most "normalized" form.
+
+The more normalized a database, the better its data integrity, and the less duplicate data you'll have.
+
+
+*/
