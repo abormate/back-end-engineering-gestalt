@@ -35,5 +35,8 @@ is a single column that uniquely identifies a row.
 When we're talking more generally about data normalization, the term "primary key" means the collection of columns that uniquely identify a row. That can be 
 a single column, but it can actually be any number of columns. A primary key is the minimum number of columns needed to uniquely identify a row in a table.
 
+If you think back to the many-to-many joining table product_suppliers, that table's "primary key" was actually a combination of the 2 ids, product_id and 
+supplier_id:
+
 */
 
