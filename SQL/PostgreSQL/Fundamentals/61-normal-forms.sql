@@ -40,3 +40,8 @@ supplier_id:
 
 */
 
+CREATE TABLE product_suppliers (
+    product_id INTEGER,
+    supplier_id INTEGER,
+    UNIQUE(product_id, supplier_id)
+);
