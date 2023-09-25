@@ -13,5 +13,6 @@ To be compliant with first normal form, a database table simply needs to follow 
 */
 
 ---------------------------- //
---
+-- Example of NOT 1st Normal Form
 ---------------------------- //
+
