@@ -41,6 +41,6 @@ id	name	age	email
 3	Allan	27	allan@boot.dev
 
 
-
+It's worth noting that if you create a "primary key" by ensuring that two columns are always "unique together" that works too.
 
 */
