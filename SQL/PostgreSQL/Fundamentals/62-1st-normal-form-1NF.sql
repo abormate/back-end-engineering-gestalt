@@ -24,4 +24,7 @@ Lane	27	lane@boot.dev
 Allan	27	allan@boot.dev
 
 
+This table does not adhere to 1NF. It has two identical rows, so there isn't a unique primary key for each row.
+
 */
+
