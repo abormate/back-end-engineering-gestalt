@@ -16,3 +16,12 @@ To be compliant with first normal form, a database table simply needs to follow 
 -- Example of NOT 1st Normal Form
 ---------------------------- //
 
+/*
+
+name	age	email
+Lane	27	lane@boot.dev
+Lane	27	lane@boot.dev
+Allan	27	allan@boot.dev
+
+
+*/
