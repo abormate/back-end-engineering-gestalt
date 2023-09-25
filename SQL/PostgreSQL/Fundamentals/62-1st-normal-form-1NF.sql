@@ -35,5 +35,12 @@ This table does not adhere to 1NF. It has two identical rows, so there isn't a u
 /*
 The simplest way (but not the only way) to get into first normal form is to add a unique id column.
 
+id	name	age	email
+1	Lane	27	lane@boot.dev
+2	Lane	27	lane@boot.dev
+3	Allan	27	allan@boot.dev
+
+
+
 
 */
