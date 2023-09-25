@@ -44,3 +44,8 @@ id	name	age	email
 It's worth noting that if you create a "primary key" by ensuring that two columns are always "unique together" that works too.
 
 */
+
+------------------------- //
+-- You should almost NEVER design a table that does not adhere to 1NF
+------------------------- //
+
