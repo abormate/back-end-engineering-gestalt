@@ -28,3 +28,12 @@ This table does not adhere to 1NF. It has two identical rows, so there isn't a u
 
 */
 
+--------------------------- //
+-- Example of 1st Normal Form
+--------------------------- //
+
+/*
+
+
+
+*/
