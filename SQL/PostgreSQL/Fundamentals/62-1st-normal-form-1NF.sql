@@ -53,3 +53,9 @@ It's worth noting that if you create a "primary key" by ensuring that two column
 First normal form is simply a good idea. I've never built a database schema where each table isn't at least in first normal form.
 
 */
+
+
+------------------------ //
+-- Assignment -- Practice
+------------------------ //
+
