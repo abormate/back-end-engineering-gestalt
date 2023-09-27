@@ -81,7 +81,7 @@ Move the column that's out of place to its proper table. Be sure to add it as th
 */
 
 CREATE TABLE users (
-  id INTEGER PRIMARY KEY,
+  id INTEGER PRIMARY KEY,ELea
   name TEXT NOT NULL,
   age INTEGER NOT NULL
 );
