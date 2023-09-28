@@ -13,3 +13,8 @@ This only comes into play when there are multiple possible primary key combinati
 Only in rare cases does a table in third normal form not meet the requirements of Boyce-Codd normal form!
 
 */
+
+---------------------------- //
+-- Example of 3rd NF -- but NOT Boyce-Codd NF
+---------------------------- //
+
