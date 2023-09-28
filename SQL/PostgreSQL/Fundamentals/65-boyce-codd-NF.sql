@@ -60,5 +60,6 @@ release_year	release_day_and_month	sales	name
 /*
 The same exact rule of thumb applies to the 2nd, 3rd and Boyce-Codd normal forms. That said, it's unlikely you'll see BCNF-specific issues in practice.
 
+!important! --> Optimize for data integrity and data de-duplication first by adhering to Boyce-Codd normal form. If you have speed issues, de-normalize accordingly.
 
 */
