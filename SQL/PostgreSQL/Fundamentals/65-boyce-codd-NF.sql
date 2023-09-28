@@ -42,3 +42,9 @@ This table is not in Boyce-Codd's normal form because release_year is entirely d
 -- Example of Boyce-Codd NF
 ---------------------------- //
 
+/*
+The easiest way to fix the table in our example is to simply remove the duplicate data from release_date. Let's make that column release_day_and_month.
+
+
+
+*/
