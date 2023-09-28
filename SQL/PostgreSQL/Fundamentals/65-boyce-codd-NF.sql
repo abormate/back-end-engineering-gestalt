@@ -57,3 +57,8 @@ release_year	release_day_and_month	sales	name
 -- BCNF is usually a good idea
 ---------------------------- //
 
+/*
+The same exact rule of thumb applies to the 2nd, 3rd and Boyce-Codd normal forms. That said, it's unlikely you'll see BCNF-specific issues in practice.
+
+
+*/
