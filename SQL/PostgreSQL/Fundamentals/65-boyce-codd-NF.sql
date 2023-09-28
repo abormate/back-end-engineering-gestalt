@@ -31,4 +31,9 @@ The interesting thing here is that there are 3 possible primary keys:
 -- release_date + sales
 -- name
 
+This means that by definition this table is in 2nd and 3rd normal form because those forms only restrict how dependent a column that is not part of a 
+primary key can be.
+
+This table is not in Boyce-Codd's normal form because release_year is entirely dependent on release_date.
+
 */
