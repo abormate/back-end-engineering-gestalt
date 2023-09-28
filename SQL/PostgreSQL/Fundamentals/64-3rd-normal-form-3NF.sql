@@ -31,3 +31,7 @@ it doesn't adhere to 3rd normal form.
 
 */
 
+------------------------- //
+-- 3NF is usually a good idea
+------------------------ //
+
