@@ -72,3 +72,12 @@ The same exact rule of thumb applies to the 2nd, 3rd and Boyce-Codd normal forms
 It has multiple possible primary key combinations, and one of the columns in a possible primary key is dependent on a column outside of the primary key 
 
 */
+
+---------------------------- //
+-- Which should you optimize for first?
+---------------------------- //
+
+/*
+Reducing duplicate data
+
+*/
