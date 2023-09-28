@@ -37,3 +37,8 @@ primary key can be.
 This table is not in Boyce-Codd's normal form because release_year is entirely dependent on release_date.
 
 */
+
+---------------------------- //
+-- Example of Boyce-Codd NF
+---------------------------- //
+
