@@ -18,3 +18,11 @@ Only in rare cases does a table in third normal form not meet the requirements o
 -- Example of 3rd NF -- but NOT Boyce-Codd NF
 ---------------------------- //
 
+/*
+release_year	release_date	sales	name
+2001	        2001-01-02	    100	    Kiss me tender
+2001	        2001-02-04	    200	    Bloody Mary
+2002	        2002-04-14	    100	    I wanna be them
+2002	        2002-06-24	    200	    He got me
+
+*/
