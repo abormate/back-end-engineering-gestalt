@@ -26,5 +26,8 @@ id	name	first_initial	email
 2	Breanna	b	            breanna@example.com
 3	Lane	l	            lane.right@example.com
 
+This table is in 2nd normal form because first_initial is not dependent on a part of the primary key. However, because it is dependent on the name column 
+it doesn't adhere to 3rd normal form.
 
 */
+
