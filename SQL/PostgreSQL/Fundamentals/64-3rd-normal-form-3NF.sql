@@ -55,4 +55,7 @@ If a company has more than 100 employees, we consider it "large", otherwise we c
 Remove the size column from the companies table and alter the SELECT statement to calculate a size field in the result set that works the same way. 
 Return the other fields as normal.
 
+TIP
+Remember the IIF function and the AS clause.
+
 */
