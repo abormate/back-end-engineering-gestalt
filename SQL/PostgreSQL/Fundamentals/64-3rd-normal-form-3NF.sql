@@ -46,3 +46,13 @@ The same exact rule of thumb applies to the second and third normal forms.
 -- Assignment -- Practice
 ------------------------- //
 
+/*
+This rollout of business accounts is really causing some headaches for our development team. The companies table has been a disaster. Our database architect 
+pointed out that the idea behind the size field is redundant.
+
+If a company has more than 100 employees, we consider it "large", otherwise we consider its size "small".
+
+Remove the size column from the companies table and alter the SELECT statement to calculate a size field in the result set that works the same way. 
+Return the other fields as normal.
+
+*/
