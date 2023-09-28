@@ -63,3 +63,12 @@ The same exact rule of thumb applies to the 2nd, 3rd and Boyce-Codd normal forms
 !important! --> Optimize for data integrity and data de-duplication first by adhering to Boyce-Codd normal form. If you have speed issues, de-normalize accordingly.
 
 */
+
+---------------------------- //
+-- When can a table be in 3NF -- but not in BCNF?
+---------------------------- //
+
+/*
+It has multiple possible primary key combinations, and one of the columns in a possible primary key is dependent on a column outside of the primary key 
+
+*/
