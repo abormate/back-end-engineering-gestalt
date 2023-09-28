@@ -18,3 +18,13 @@ primary key, and in third normal form we can't have a column that is entirely de
 -- Example of 2NF -- but not 3NF
 ------------------------- //
 
+/*
+In this table, the primary key is simply the id column.
+
+id	name	first_initial	email
+1	Lane	l	            lane.works@example.com
+2	Breanna	b	            breanna@example.com
+3	Lane	l	            lane.right@example.com
+
+
+*/
