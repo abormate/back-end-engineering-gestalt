@@ -45,6 +45,10 @@ This table is not in Boyce-Codd's normal form because release_year is entirely d
 /*
 The easiest way to fix the table in our example is to simply remove the duplicate data from release_date. Let's make that column release_day_and_month.
 
-
+release_year	release_day_and_month	sales	name
+2001	        01-02	                100	    Kiss me tender
+2001	        02-04	                200	    Bloody Mary
+2002	        04-14	                100	    I wanna be them
+2002	        06-24	                200	    He got me
 
 */
