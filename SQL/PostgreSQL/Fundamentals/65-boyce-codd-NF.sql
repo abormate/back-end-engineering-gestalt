@@ -52,3 +52,8 @@ release_year	release_day_and_month	sales	name
 2002	        06-24	                200	    He got me
 
 */
+
+---------------------------- //
+-- BCNF is usually a good idea
+---------------------------- //
+
