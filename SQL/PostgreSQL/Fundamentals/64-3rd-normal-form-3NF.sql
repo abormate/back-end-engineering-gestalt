@@ -13,3 +13,8 @@ Notice that this is only slightly different from second normal form. In second n
 primary key, and in third normal form we can't have a column that is entirely dependent on anything that isn't the entire primary key.
 
 */
+
+------------------------- //
+-- Example of 2NF -- but not 3NF
+------------------------- //
+
