@@ -25,4 +25,10 @@ release_year	release_date	sales	name
 2002	        2002-04-14	    100	    I wanna be them
 2002	        2002-06-24	    200	    He got me
 
+The interesting thing here is that there are 3 possible primary keys:
+
+-- release_year + sales
+-- release_date + sales
+-- name
+
 */
