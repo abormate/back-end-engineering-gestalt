@@ -41,3 +41,8 @@ The same exact rule of thumb applies to the second and third normal forms.
 !important! --> Optimize for data integrity and data de-duplication first by adhering to 3NF. If you have speed issues, de-normalize accordingly.
 
 */
+
+------------------------- //
+-- Assignment -- Practice
+------------------------- //
+
