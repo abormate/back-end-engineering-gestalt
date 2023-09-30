@@ -29,7 +29,7 @@ table_a that have matching records in table_b as demonstrated by the following V
 --------------------------- //
 
 /*
-
-
+In order to perform a join, we need to tell the database which fields should be "matched up". The ON clause is used to specify these columns to join.
 
 */
+
