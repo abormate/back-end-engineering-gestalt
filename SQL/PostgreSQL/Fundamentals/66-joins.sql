@@ -33,3 +33,7 @@ In order to perform a join, we need to tell the database which fields should be 
 
 */
 
+SELECT *
+FROM employees
+INNER JOIN departments 
+ON employees.department_id = departments.id;
