@@ -43,3 +43,8 @@ The query above returns all the fields from both tables. The INNER keyword doesn
 the number of rows returned.
 
 */
+
+--------------------------- //
+-- Assignment -- Practice
+--------------------------- //
+
