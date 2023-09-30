@@ -20,3 +20,4 @@ The simplest and most common type of join in SQL is the INNER JOIN. By default, 
 table_a that have matching records in table_b as demonstrated by the following Venn diagram.
 
 */
+
