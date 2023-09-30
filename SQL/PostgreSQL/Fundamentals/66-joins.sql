@@ -10,3 +10,8 @@ In short, joins allow us to query multiple tables at the same time.
 
 */
 
+
+---------------------------- //
+-- Inner Join
+---------------------------- //
+
