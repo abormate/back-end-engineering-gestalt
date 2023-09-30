@@ -37,3 +37,9 @@ SELECT *
 FROM employees
 INNER JOIN departments 
 ON employees.department_id = departments.id;
+
+/*
+The query above returns all the fields from both tables. The INNER keyword doesn't have anything to do with the number of columns returned - it only affects 
+the number of rows returned.
+
+*/
