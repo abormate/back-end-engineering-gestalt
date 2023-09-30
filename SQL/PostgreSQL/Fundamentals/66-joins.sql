@@ -58,3 +58,7 @@ Let's start by writing a simple join between the users table and countries table
 
 */
 
+SELECT *
+FROM users
+INNER JOIN countries
+ON users.country_code = countries.country_code;
