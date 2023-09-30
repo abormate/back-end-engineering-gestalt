@@ -21,3 +21,5 @@ table_a that have matching records in table_b as demonstrated by the following V
 
 */
 
+-- diagram image --> https://prnt.sc/9IDg0W9y25IS
+
