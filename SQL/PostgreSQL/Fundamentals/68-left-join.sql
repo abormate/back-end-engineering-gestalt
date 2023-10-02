@@ -34,3 +34,13 @@ meaning of.
 -- Assignment -- Practice
 -------------------------- //
 
+/*
+The CashPal team needs a report on all the transactions a user has made. Join the users and transactions tables on users.id and transactions.user_id.
+
+Your query should return 3 fields:
+
+A user's name as name
+The sum of all of their transaction amounts as sum
+The count of all of their transactions as count
+
+*/
