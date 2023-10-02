@@ -43,4 +43,11 @@ A user's name as name
 The sum of all of their transaction amounts as sum
 The count of all of their transactions as count
 
+--
+
+Be sure to group the data by the user's id.
+Be sure to order the data by the sum field in descending order.
+Be sure to still return user records of users who have no transactions.
+
 */
+
