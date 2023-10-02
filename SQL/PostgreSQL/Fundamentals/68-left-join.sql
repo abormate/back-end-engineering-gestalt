@@ -12,3 +12,7 @@ matching records from table_b. Here is a Venn diagram to help visualize the effe
 
 -- diagram image --> https://prnt.sc/zlJEzWPBG1kM 
 
+/*
+A small trick you can do to make writing the SQL query easier is define an alias for each table. Here's an example:
+
+*/
