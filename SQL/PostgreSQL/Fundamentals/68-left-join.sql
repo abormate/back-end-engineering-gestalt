@@ -16,3 +16,8 @@ matching records from table_b. Here is a Venn diagram to help visualize the effe
 A small trick you can do to make writing the SQL query easier is define an alias for each table. Here's an example:
 
 */
+
+SELECT e.name, d.name
+FROM employees e
+LEFT JOIN departments d
+ON e.department_id = d.id;
