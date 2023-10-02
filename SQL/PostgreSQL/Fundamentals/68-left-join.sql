@@ -21,3 +21,11 @@ SELECT e.name, d.name
 FROM employees e
 LEFT JOIN departments d
 ON e.department_id = d.id;
+
+/*
+Notice the simple alias declarations e and d for employees and departments respectively.
+
+Some developers do this to make their queries less verbose. That said, I personally hate it because single-letter variables are harder to understand the 
+meaning of.
+
+*/
