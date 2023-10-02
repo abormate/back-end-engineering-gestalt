@@ -29,3 +29,7 @@ Return the name field from the countries table and rename it to country_name.
 Sort by the country_name in ascending order.
 
 */
+
+SELECT *
+FROM users
+INNER JOIN countries on countries.country_code = users.country_code;
