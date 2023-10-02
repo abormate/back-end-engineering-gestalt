@@ -29,3 +29,8 @@ Some developers do this to make their queries less verbose. That said, I persona
 meaning of.
 
 */
+
+-------------------------- //
+-- Assignment -- Practice
+-------------------------- //
+
