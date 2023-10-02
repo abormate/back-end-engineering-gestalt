@@ -10,4 +10,5 @@ matching records from table_b. Here is a Venn diagram to help visualize the effe
 
 */
 
--- diagram image --> 
+-- diagram image --> https://prnt.sc/zlJEzWPBG1kM 
+
