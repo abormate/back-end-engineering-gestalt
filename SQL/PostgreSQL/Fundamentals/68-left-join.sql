@@ -181,3 +181,9 @@ VALUES (6, 14, "not sure how much lunch was, heres 20", 20.00, true);
 
 INSERT INTO transactions (user_id, recipient_id, note, amount, was_successful)
 VALUES (2, 13, "Happy birthday, sis! Lets get lunch soon.", 100.00, true);
+
+
+------------------------ //
+-- Answer to Practice Question
+------------------------ //
+
