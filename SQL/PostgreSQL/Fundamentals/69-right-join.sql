@@ -9,3 +9,6 @@ A RIGHT JOIN is, as you may expect, the opposite of a LEFT JOIN. It returns all 
 between the two tables.
 
 */
+
+-- image diagram  --> https://prnt.sc/rfVa6rxSFcRX
+
