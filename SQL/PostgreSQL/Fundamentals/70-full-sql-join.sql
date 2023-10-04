@@ -26,3 +26,9 @@ Like RIGHT JOINs, SQLite doesn't support FULL JOINs but they are still important
 -- Select the best scenario to use a FULL JOIN?
 -------------------------- //
 
+-- Answer --
+/*
+When you need every single row from two tables, whether or not they're related
+
+*/
+
