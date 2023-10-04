@@ -21,3 +21,8 @@ whether or not they have matches.
 Like RIGHT JOINs, SQLite doesn't support FULL JOINs but they are still important to know!
 
 */
+
+-------------------------- //
+-- Select the best scenario to use a FULL JOIN?
+-------------------------- //
+
