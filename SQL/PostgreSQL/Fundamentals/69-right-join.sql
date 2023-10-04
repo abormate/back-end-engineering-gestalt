@@ -18,3 +18,8 @@ switched, so it's not a big deal that SQLite doesn't support the syntax.
 
 */
 
+----------------------------- //
+-- Assignment -- Practice
+----------------------------- //
+
+
