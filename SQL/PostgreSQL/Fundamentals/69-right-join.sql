@@ -26,3 +26,9 @@ switched, so it's not a big deal that SQLite doesn't support the syntax.
 We can retrieve the same records with a RIGHT JOIN and a LEFT JOIN by...
 
 */
+
+-- ANSWER 
+/*
+Flipping the position of the tables in the join statement 
+
+*/
