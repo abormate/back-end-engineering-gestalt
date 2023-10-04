@@ -22,4 +22,7 @@ switched, so it's not a big deal that SQLite doesn't support the syntax.
 -- Assignment -- Practice
 ----------------------------- //
 
+/*
+We can retrieve the same records with a RIGHT JOIN and a LEFT JOIN by...
 
+*/
