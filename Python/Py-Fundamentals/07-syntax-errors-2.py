@@ -11,3 +11,11 @@ the following would be considered correct syntax:
 """
 
 print("hello world")
+
+
+"""
+While in a different programming language, like Go, the correct syntax would be:
+
+"""
+
+fmt.Println("hello world")
