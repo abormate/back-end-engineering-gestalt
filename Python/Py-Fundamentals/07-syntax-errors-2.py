@@ -1,6 +1,6 @@
 # -------------------------------------- #
 #
-# Python Programming -- Backend StudySpace --
+# Python Syntax Errors -- Backend StudySpace --
 #
 # -------------------------------------- #
 
