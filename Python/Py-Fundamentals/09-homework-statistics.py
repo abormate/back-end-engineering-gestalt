@@ -17,3 +17,10 @@ Debug the code so that it correctly prints the solution to the math problem.
 # -- Old Code -- Buggy Code --
 # -------------------------- #
 
+print("(250 + 241 + 244 + 255) / 4")
+
+# -------------------------- #
+# -- Fixed Code -- Repaired --
+# -------------------------- #
+
+print((250 + 241 + 244 + 255) / 4)
