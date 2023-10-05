@@ -10,3 +10,4 @@ the following would be considered correct syntax:
 
 """
 
+print("hello world")
