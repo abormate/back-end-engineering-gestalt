@@ -18,7 +18,7 @@ While in a different programming language, like Go, the correct syntax would be:
 
 """
 
-fmt.Println("hello world")
+# fmt.Println("hello world")
 
 
 """
