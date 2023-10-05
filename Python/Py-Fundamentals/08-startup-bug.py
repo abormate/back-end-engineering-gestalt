@@ -22,3 +22,6 @@ prnt("local server is listening on port 8080")
 # ---------------------------- #
 # -- New Code -- Repaired -- 
 # ---------------------------- #
+
+print("Starting up server...")
+print("local server is listening on port 8080")
