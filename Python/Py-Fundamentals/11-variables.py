@@ -33,3 +33,6 @@ On the first line of code, create a new variable named player_health and set it 
 
 """
 
+player_health = 1000
+
+print(player_health)
