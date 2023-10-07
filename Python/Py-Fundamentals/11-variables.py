@@ -20,3 +20,6 @@ I could also define a variable called my_name and set it equal to "Lane".
 
 # To create a new variable in Python we use the following syntax:
 
+my_new_variable_two = 2
+this_can_be_called_anything = 3
+
