@@ -37,8 +37,8 @@ total_cost = items_in_cart * cost_of_each_item
 
 # Don't Touch Above This line
 
-print "Thank you for shopping at Bootmart!"
-print ""
+# print "Thank you for shopping at Bootmart!"
+# print ""
 
 # Don't Touch Below This Line
 
