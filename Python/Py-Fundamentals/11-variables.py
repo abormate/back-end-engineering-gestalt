@@ -14,3 +14,7 @@ I could also define a variable called my_name and set it equal to "Lane".
 
 """
 
+# -------------------------- #
+# -- Creating Variables --
+# -------------------------- #
+
