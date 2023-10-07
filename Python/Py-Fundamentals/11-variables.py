@@ -18,3 +18,5 @@ I could also define a variable called my_name and set it equal to "Lane".
 # -- Creating Variables --
 # -------------------------- #
 
+# To create a new variable in Python we use the following syntax:
+
