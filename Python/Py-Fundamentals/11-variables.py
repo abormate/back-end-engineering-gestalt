@@ -28,3 +28,8 @@ this_can_be_called_anything = 3
 # -- Assignment -- Practice --
 # ------------------------- #
 
+"""
+On the first line of code, create a new variable named player_health and set it equal to 1000.
+
+"""
+
