@@ -20,3 +20,8 @@ quotient = a / b
 # -- Assignment -- Practice --
 # ---------------------------- #
 
+"""
+Create a new variable called armored_health on line 4 and set it equal to player_health * armor_multiplier
+
+"""
+
