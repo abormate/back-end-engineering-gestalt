@@ -16,3 +16,8 @@ my_negative_num = -1
 # -- Assignment -- Practice -- 
 # -------------------------- #
 
+"""
+When our hero walks through poison, their health should be reduced. Change the poison_damage variable to be negative.
+
+"""
+
