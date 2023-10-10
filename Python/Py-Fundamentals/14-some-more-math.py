@@ -9,3 +9,5 @@ Creating negative numbers in Python works the way you probably expect, just add 
 
 """
 
+my_negative_num = -1
+
