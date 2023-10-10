@@ -16,3 +16,7 @@ difference = a - b
 product = a * b
 quotient = a / b
 
+# ---------------------------- #
+# -- Assignment -- Practice --
+# ---------------------------- #
+
