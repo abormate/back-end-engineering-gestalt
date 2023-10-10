@@ -21,3 +21,9 @@ When our hero walks through poison, their health should be reduced. Change the p
 
 """
 
+player_health = 6783424367754
+poison_damage = -89743873
+
+player_poison_health = player_health + poison_damage
+
+print(player_poison_health)
