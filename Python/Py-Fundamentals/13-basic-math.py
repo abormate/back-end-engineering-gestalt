@@ -4,3 +4,9 @@
 #
 # -------------------------------------- #
 
+"""
+Now that we know how to store and change the value of variables let's do some math!
+
+Here are some examples of common mathematical operators in Python syntax.
+
+"""
