@@ -4,3 +4,8 @@
 #
 # -------------------------------------- #
 
+"""
+Creating negative numbers in Python works the way you probably expect, just add a minus sign in front of a number.
+
+"""
+
