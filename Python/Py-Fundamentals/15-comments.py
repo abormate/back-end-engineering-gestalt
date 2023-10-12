@@ -24,3 +24,9 @@ speed = 2
 
 # You can use triple quotes to start and end multi-line comments as well:
 
+"""
+    the code found below 
+    will print 'Hello, World!' to the console
+"""
+print('Hello, World!')
+
