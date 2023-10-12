@@ -14,3 +14,6 @@ explaining what a piece of code does in plain English.
 # -- Single Line Comment --
 # --------------------------- #
 
+# speed is a variable describing how fast your player moves
+speed = 2
+
