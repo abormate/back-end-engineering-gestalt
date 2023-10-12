@@ -41,3 +41,8 @@ This is useful if you don't want to add the # to the start of each line when wri
 # -- Assignment -- Practice --
 # --------------------------- #
 
+"""
+Line #1 in the code was meant to be a comment, but the developer forgot to use the right syntax (#). Fix the bug by commenting out the first line of code.
+
+"""
+
