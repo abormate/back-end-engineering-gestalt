@@ -12,3 +12,17 @@ In Python you should use "snake_case" when creating variable names - it's become
 
 """
 
+# ------------------------- #
+# -- Casing Examples --
+# ------------------------- #
+
+# No Casing (Not Recommended)
+somevariablehere = 10
+
+# Camel Case
+someVariableHere = 10
+
+# Snake Case
+some_variable_here = 10
+
+
