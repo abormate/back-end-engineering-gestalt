@@ -10,3 +10,7 @@ explaining what a piece of code does in plain English.
 
 """
 
+# --------------------------- #
+# -- Single Line Comment --
+# --------------------------- #
+
