@@ -46,3 +46,7 @@ Line #1 in the code was meant to be a comment, but the developer forgot to use t
 
 """
 
+# the best_sword variable holds the value of the best sword in the game
+best_sword = "scimitar"
+print(best_sword)
+
