@@ -44,8 +44,11 @@ y = -5.2
 # -- Boolean Type --
 # -------------------------- #
 
+"""
 0 = False
 1 = True
+
+"""
 
 is_tall = True
 
