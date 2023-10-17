@@ -19,3 +19,7 @@ using single quotes or double quotes. That said, for consistency's sake, we pref
 name_with_single_quotes = 'boot.dev'
 name_with_double_quotes = "boot.dev"
 
+# -------------------------- #
+# -- Numeric Types --
+# -------------------------- #
+
