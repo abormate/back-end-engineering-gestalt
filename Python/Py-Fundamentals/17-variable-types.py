@@ -25,3 +25,10 @@ name_with_double_quotes = "boot.dev"
 
 # Numbers aren't surrounded by quotes when created, but they can have decimals and negative signs.
 
+
+# -------------------------- #
+# -- Integers are numbers without decimals --
+# -------------------------- #
+
+x = 5
+y = -5
