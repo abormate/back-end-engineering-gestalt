@@ -32,3 +32,11 @@ name_with_double_quotes = "boot.dev"
 
 x = 5
 y = -5
+
+# -------------------------- #
+# -- A "float" is a number with a decimal --
+# -------------------------- #
+
+x = 5.2
+y = -5.2
+
