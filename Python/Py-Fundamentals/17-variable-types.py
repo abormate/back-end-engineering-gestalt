@@ -23,3 +23,5 @@ name_with_double_quotes = "boot.dev"
 # -- Numeric Types --
 # -------------------------- #
 
+# Numbers aren't surrounded by quotes when created, but they can have decimals and negative signs.
+
