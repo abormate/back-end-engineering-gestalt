@@ -28,3 +28,8 @@ In almost all circumstances, it's a bad idea to change the type of a variable. T
 speed = 5
 speed_description = "five"
 
+
+# --------------------------- #
+# -- What if it weren't dynamically typed?
+# --------------------------- #
+
