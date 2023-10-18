@@ -20,3 +20,11 @@ speed = "five"
 # -- Just because you can -- doesn't mean you should --
 # --------------------------- #
 
+"""
+In almost all circumstances, it's a bad idea to change the type of a variable. The "proper" thing to do is to just create a new one. For example:
+
+"""
+
+speed = 5
+speed_description = "five"
+
