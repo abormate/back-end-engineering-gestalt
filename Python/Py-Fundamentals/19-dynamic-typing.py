@@ -33,3 +33,12 @@ speed_description = "five"
 # -- What if it weren't dynamically typed?
 # --------------------------- #
 
+"""
+Statically typed languages like Go (which you'll learn in a later course) are statically typed instead of dynamically typed. In a statically typed language, 
+if you try to assign a value to a variable of the wrong type, an error would crash the program.
+
+If Python were statically-typed, the first example from before would crash on the second line, speed = "five". The computer would give an error along 
+the lines of you can't assign a string value ("five") to a number variable (speed)
+
+"""
+
