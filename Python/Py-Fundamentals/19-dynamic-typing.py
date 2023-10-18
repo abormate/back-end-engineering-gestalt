@@ -15,3 +15,8 @@ This is valid:
 
 speed = 5
 speed = "five"
+
+# --------------------------- #
+# -- Just because you can -- doesn't mean you should --
+# --------------------------- #
+
