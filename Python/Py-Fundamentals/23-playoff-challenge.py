@@ -24,7 +24,7 @@ game_seven_score = 104
 
 # Don't touch above this line
 
-average_score = # ?
+# average_score = # ?
 
 # Don't touch below this line
 
