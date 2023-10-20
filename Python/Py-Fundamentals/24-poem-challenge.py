@@ -21,3 +21,23 @@ line_two should include part 3 and 4
 
 """
 
+# ------------------------ #
+# -- Buggy Code --
+# ------------------------ #
+
+part_one = "Roses are red, "
+part_two = "violets are blue."
+part_three = "Python is cool, "
+part_four = "and so are you!"
+
+# Don't touch above this line
+
+line_one = # ?
+line_two = # ?
+
+# Don't touch below this line
+
+print(line_one)
+print(line_two)
+
+
