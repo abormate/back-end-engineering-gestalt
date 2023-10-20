@@ -29,3 +29,9 @@ average_score = # ?
 # Don't touch below this line
 
 print(round(average_score))
+
+
+# -------------------------- #
+# -- Fixed Debugged Code -- 
+# -------------------------- #
+
