@@ -37,3 +37,12 @@ Let's declare a new function called area_of_circle. Notice that the def keyword 
 def area_of_circle(r):
     return 3.14 * r * r
 
+
+"""
+The area_of_circle function takes one input (which can also be called a "parameter" or "argument") and returns a single output. We give our function the radius of a circle 
+and we get back the area of that circle!
+
+To use or "call" the function we can pass in any number as the input, and capture the output into a new variable:
+
+"""
+
