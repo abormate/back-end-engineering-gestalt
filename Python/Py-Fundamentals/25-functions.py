@@ -46,3 +46,6 @@ To use or "call" the function we can pass in any number as the input, and captur
 
 """
 
+radius = 5
+area = area_of_circle(radius)
+print(area)
