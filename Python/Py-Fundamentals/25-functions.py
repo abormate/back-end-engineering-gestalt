@@ -16,3 +16,13 @@ area = 3.14 * r * r
 This works great! The problem arises when multiple places in our code need to get the area of a circle.
 
 """
+
+r = 5
+area1 = 3.14 * r * r
+
+r2 = 7
+area2 = 3.14 * r2 * r2
+
+r3 = 11
+area3 = 3.14 * r3 * r3
+
