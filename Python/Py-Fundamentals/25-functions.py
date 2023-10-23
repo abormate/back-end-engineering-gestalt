@@ -64,3 +64,7 @@ The built-in print function prints the value of area to the console, which is 78
 
 """
 
+# ---------------------------- #
+# -- Assignment -- Practice --
+# ---------------------------- #
+
