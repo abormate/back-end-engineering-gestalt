@@ -89,3 +89,9 @@ player1_area = area_of_circle(1)
 
 print(f"Player 1 has an attack area of {player1_area} square meters")
 print(f"Player 2 has an attack area of {player2_area} square meters")
+
+
+# --------------------------- #
+# -- Fixed Code -- 
+# --------------------------- #
+
