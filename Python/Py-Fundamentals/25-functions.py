@@ -26,3 +26,11 @@ area2 = 3.14 * r2 * r2
 r3 = 11
 area3 = 3.14 * r3 * r3
 
+
+"""
+We want to use the same code, why repeat the work?
+
+Let's declare a new function called area_of_circle. Notice that the def keyword is written before the function name, and tells the computer that we're defining a new function.
+
+"""
+
