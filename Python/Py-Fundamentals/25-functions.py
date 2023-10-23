@@ -34,3 +34,6 @@ Let's declare a new function called area_of_circle. Notice that the def keyword 
 
 """
 
+def area_of_circle(r):
+    return 3.14 * r * r
+
