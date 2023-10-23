@@ -9,3 +9,5 @@ Functions allow us to reuse and organize code. For example, let's pretend we nee
 
 """
 
+r = 5
+area = 3.14 * r * r
