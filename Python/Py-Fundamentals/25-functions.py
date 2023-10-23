@@ -49,3 +49,18 @@ To use or "call" the function we can pass in any number as the input, and captur
 radius = 5
 area = area_of_circle(radius)
 print(area)
+# 78.5
+
+"""
+Let's talk through this code example step by step.
+
+The radius variable is created with a value of 5.
+The area_of_circle function is called with a single argument: radius
+The area_of_circle function is executed, with r being equal to 5
+The result of 3.14 * r * r is returned from area_of_circle, which... bangs on calculator... happens to be 78.5
+The area_of_circle(radius) evaluates to the returned value of 78.5
+The area variable is created and set to a value of 78.5
+The built-in print function prints the value of area to the console, which is 78.5
+
+"""
+
