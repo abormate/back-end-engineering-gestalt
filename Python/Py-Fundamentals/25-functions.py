@@ -68,3 +68,11 @@ The built-in print function prints the value of area to the console, which is 78
 # -- Assignment -- Practice --
 # ---------------------------- #
 
+"""
+We need to calculate the size of the area around a player that's within their "attack range". With a 1-meter sword for example, they should only be able to attack enemies 
+within the area of a circle with a 1-meter radius.
+
+On line 8 add a second function call to area_of_circle() that passes .5 in as the radius. Capture the result into a new variable called player2_area
+
+"""
+
