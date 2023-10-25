@@ -16,3 +16,8 @@ def subtract(a, b):
 result = subtract(5, 3)
 print(result)
 # 2
+
+# ------------------------- #
+# -- Assignment -- Practice --
+# ------------------------- #
+
