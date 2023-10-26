@@ -31,3 +31,5 @@ at the end of the entire program we ensure that all of our functions are defined
 # -- Assignment -- Practice 
 # -------------------------- #
 
+# There is a bug in our program! Fix it.
+
