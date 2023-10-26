@@ -41,4 +41,14 @@ main()
 
 
 def main():
-    print("Fantasy Side Quest is booting up...")
+    print("Side Quest is booting up...")
+
+
+# -------------------------- #
+# -- Fixed Code --
+# -------------------------- #
+
+def main():
+    print("Side Quest is booting up...")
+
+main()
