@@ -31,8 +31,8 @@ parameters and returns the result of adding them all together.
 # -- Buggy Code --
 # ------------------------ #
 
-def calculate_damage(enemy_one_dmg, enemy_two_dmg, enemy_three_dmg):
-    # ?
+# def calculate_damage(enemy_one_dmg, enemy_two_dmg, enemy_three_dmg):
+    
 
 
 # Don't touch below this line
