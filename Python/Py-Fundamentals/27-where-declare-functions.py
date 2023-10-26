@@ -37,3 +37,8 @@ at the end of the entire program we ensure that all of our functions are defined
 # -- Buggy Code --
 # -------------------------- #
 
+main()
+
+
+def main():
+    print("Fantasy Side Quest is booting up...")
