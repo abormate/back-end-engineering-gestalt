@@ -14,3 +14,15 @@ As it turns out, most Python developers solve this problem by simply defining al
 If you do that, then the order of the function definitions doesn't matter. The entrypoint function is conventionally called "main".
 
 """
+
+def main():
+    func2()
+
+def func2():
+    func3()
+
+def func3():
+    print("I'm function 3")
+
+# call entrypoint last
+main()
