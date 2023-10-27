@@ -26,3 +26,9 @@ def func3():
 
 # call entrypoint last
 main()
+
+# ------------------------- #
+# -- Assignment -- Practice
+# ------------------------- #
+
+# Write a function called to_celsius that converts a temperature in Fahrenheit to Celsius
