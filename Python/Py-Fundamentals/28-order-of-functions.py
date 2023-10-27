@@ -4,3 +4,4 @@
 #
 # -------------------------------------- #
 
+# All functions must be defined before they're used.
