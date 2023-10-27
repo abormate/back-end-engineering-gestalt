@@ -37,7 +37,7 @@ at the end of the entire program we ensure that all of our functions are defined
 # -- Buggy Code --
 # -------------------------- #
 
-main()
+# main()
 
 
 def main():
