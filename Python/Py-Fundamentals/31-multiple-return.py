@@ -10,3 +10,11 @@ we need to capture all the returned values in individual variables.
 
 """
 
+# returns email, age, and status of the user
+def get_user():
+    return "name@domain.com", 21, "active"
+
+# sets email, age, and status to values returned from get_user() function
+email, age, status = get_user()
+print(email, age, status)
+# name@domain.com 21 active
