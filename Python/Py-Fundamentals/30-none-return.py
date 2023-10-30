@@ -10,3 +10,6 @@ it will return None. The following code snippets all return exactly the same thi
 
 """
 
+def my_func():
+    print("I do nothing")
+    return None
