@@ -17,3 +17,6 @@ def my_func():
 def my_func():
     print("I do nothing")
     return
+
+def my_func():
+    print("I do nothing")
