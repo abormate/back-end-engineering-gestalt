@@ -18,3 +18,8 @@ def get_user():
 email, age, status = get_user()
 print(email, age, status)
 # name@domain.com 21 active
+
+# -------------------------- #
+# Assignment -- Practice --
+# -------------------------- #
+
