@@ -23,3 +23,20 @@ print(email, age, status)
 # Assignment -- Practice --
 # -------------------------- #
 
+"""
+Complete the become_warrior function. It accepts 3 inputs:
+
+first_name: A string
+last_name: A string
+power: An integer
+
+
+It should return 2 values:
+
+First, a string of this format: "first_name last_name the warrior"
+Second, the power input after adding 1 to it.
+
+
+For example:
+
+"""
