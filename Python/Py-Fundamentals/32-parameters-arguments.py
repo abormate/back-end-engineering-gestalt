@@ -19,5 +19,5 @@ parameters used interchangeably.
 def add(a, b):
     return a + b
 
-# 5 and 6 are arguments
+# 5 and 7 are arguments
 sum = add(5, 7)
