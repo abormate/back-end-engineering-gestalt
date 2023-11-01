@@ -12,3 +12,14 @@ A default value is created by using the assignment (=) operator in the function 
 
 """
 
+def get_greeting(email, name="there"):
+    return f"Hello {name}, welcome! You've registered your email: {email}"
+
+# case 01
+msg = get_greeting("lane@example.com", "Lane")
+# Hello Lane, welcome! You've registered your email: lane@example.com
+
+# case 02
+msg = get_greeting("lane@example.com")
+# Hello there, welcome! You've registered your email: lane@example.com
+
