@@ -15,3 +15,9 @@ parameters used interchangeably.
 
 """
 
+# a and b are parameters
+def add(a, b)
+    return a + b
+
+# 5 and 6 are arguments
+sum = add(5, 7)
