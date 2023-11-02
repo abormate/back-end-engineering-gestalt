@@ -76,11 +76,11 @@ def get_slashed(health, armor):
     print(f"Health after punch: {get_punched(health)}")
     print("=====================================")
 
-
+"""
 test(400, 5)
 test(300, 3)
 test(200, 1)
-
+"""
 
 # --------------------------------- #
 # -- Fixed Code --
