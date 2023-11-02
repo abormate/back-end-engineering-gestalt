@@ -33,3 +33,16 @@ have defaults specified come after all the required arguments.
 # -- Assignment -- Practice --
 # ----------------------------- #
 
+"""
+Complete both the get_punched and get_slashed functions. They should each take 2 arguments:
+
+health: An integer
+armor: An integer
+
+They should each return a single integer: the new health value after the attack has been applied. Getting punched should result in 50 - armor health being lost. 
+Getting slashed should result in 100 - armor health being lost. In other words, getting slashed should do around twice as much damage as getting punched.
+
+
+However, if no armor is passed into the function the armor should default to 0.
+
+"""
