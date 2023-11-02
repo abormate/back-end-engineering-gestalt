@@ -86,12 +86,14 @@ test(200, 1)
 # -- Fixed Code --
 # --------------------------------- #
 
-1f get_punched(health, armor):
-    # ?
+def get_punched(health, armor=0):
+    health -= 50 - armor
+    return health
 
 
-def get_slashed(health, armor):
-    # ?
+def get_slashed(health, armor=0):
+    health -= 100 - armor
+    return health
 
 
 # Don't touch below this line
@@ -115,4 +117,5 @@ def test(health, armor):
 test(400, 5)
 test(300, 3)
 test(200, 1)
+
 
