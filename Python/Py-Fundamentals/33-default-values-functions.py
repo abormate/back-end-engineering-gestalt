@@ -23,3 +23,9 @@ msg = get_greeting("lane@example.com", "Lane")
 msg = get_greeting("lane@example.com")
 # Hello there, welcome! You've registered your email: lane@example.com
 
+"""
+If the second parameter is omitted, the default "there" value will be used in its place. As you may have guessed, for this structure to work, optional arguments that 
+have defaults specified come after all the required arguments.
+
+"""
+
