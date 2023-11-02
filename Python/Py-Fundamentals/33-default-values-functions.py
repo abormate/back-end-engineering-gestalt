@@ -46,3 +46,73 @@ Getting slashed should result in 100 - armor health being lost. In other words, 
 However, if no armor is passed into the function the armor should default to 0.
 
 """
+
+# ---------------------------- #
+# -- Buggy Code --
+# ---------------------------- #
+
+# 1f get_punched(health, armor):
+    # ?
+
+
+def get_slashed(health, armor):
+    # ?
+
+
+# Don't touch below this line
+
+
+# def test(health, armor):
+    print(f"Health: {health}, Armor: {armor}")
+    print(f"Health after punch: {get_punched(health, armor)}")
+    print("=====================================")
+    print(f"Health: {health}, Armor: {armor}")
+    print(f"Health after slash: {get_slashed(health, armor)}\n")
+    print("=====================================")
+    print(f"Health: {health}, Armor: no armor!")
+    print(f"Health after slash: {get_slashed(health)}\n")
+    print("=====================================")
+    print(f"Health: {health}, Armor: no armor!")
+    print(f"Health after punch: {get_punched(health)}")
+    print("=====================================")
+
+
+test(400, 5)
+test(300, 3)
+test(200, 1)
+
+
+# --------------------------------- #
+# -- Fixed Code --
+# --------------------------------- #
+
+1f get_punched(health, armor):
+    # ?
+
+
+def get_slashed(health, armor):
+    # ?
+
+
+# Don't touch below this line
+
+
+def test(health, armor):
+    print(f"Health: {health}, Armor: {armor}")
+    print(f"Health after punch: {get_punched(health, armor)}")
+    print("=====================================")
+    print(f"Health: {health}, Armor: {armor}")
+    print(f"Health after slash: {get_slashed(health, armor)}\n")
+    print("=====================================")
+    print(f"Health: {health}, Armor: no armor!")
+    print(f"Health after slash: {get_slashed(health)}\n")
+    print("=====================================")
+    print(f"Health: {health}, Armor: no armor!")
+    print(f"Health after punch: {get_punched(health)}")
+    print("=====================================")
+
+
+test(400, 5)
+test(300, 3)
+test(200, 1)
+
