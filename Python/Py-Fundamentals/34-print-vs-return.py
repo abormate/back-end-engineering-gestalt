@@ -43,3 +43,29 @@ and return it to the caller. Instead it's barbarically printing the value to the
 Fix the function so that it returns the title value instead of printing it.
 
 """
+
+# ------------------------- #
+# -- Buggy Code --
+# ------------------------- #
+
+def get_title(first_name, last_name, job):
+    title = first_name + " " + last_name + " the " + job
+    print(title)
+
+
+# Don't touch below this line
+
+
+def test(first_name, last_name, job):
+    title = get_title(first_name, last_name, job)
+    print(f"First name: {first_name}")
+    print(f"Last name: {last_name}")
+    print(f"Job: {job}")
+    print(f"Title: {title}")
+    print("=====================================")
+
+
+test("Frodo", "Baggins", "warrior")
+test("Bilbo", "Baggins", "thief")
+test("Gandalf", "The Grey", "wizard")
+test("Aragon", "Son of Arathorn", "ranger")
