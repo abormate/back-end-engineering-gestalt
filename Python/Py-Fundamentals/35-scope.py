@@ -13,3 +13,8 @@ For example:
 
 """
 
+def subtract(x, y):
+    return x - y
+result = subtract(5, 3)
+print(x)
+# ERROR! "name 'x' is not defined"
