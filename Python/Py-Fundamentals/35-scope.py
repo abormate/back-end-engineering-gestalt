@@ -18,3 +18,11 @@ def subtract(x, y):
 result = subtract(5, 3)
 print(x)
 # ERROR! "name 'x' is not defined"
+
+"""
+When the subtract function is called, we assign the variable x to 5, but x only exists in the code 
+within the subtract function. If we try to print x outside of that function, then we won't get a 
+result. In fact, we'll get a big fat error.
+
+"""
+
