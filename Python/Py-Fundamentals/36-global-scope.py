@@ -24,3 +24,8 @@ Because pi was declared in the parent "global" scope, it is usable within the
 get_area_of_circle() function.
 
 """
+
+# ------------------------------------ #
+# -- Assignment -- Practice
+# ------------------------------------ #
+
