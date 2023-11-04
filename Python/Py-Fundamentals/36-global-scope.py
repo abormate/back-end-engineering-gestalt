@@ -13,3 +13,14 @@ For example:
 
 """
 
+pi = 3.14
+
+def get_area_of_circle(radius):
+    return pi * radius * radius
+
+
+"""
+Because pi was declared in the parent "global" scope, it is usable within the 
+get_area_of_circle() function.
+
+"""
