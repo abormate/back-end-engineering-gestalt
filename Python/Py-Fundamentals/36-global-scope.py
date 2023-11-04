@@ -29,3 +29,12 @@ get_area_of_circle() function.
 # -- Assignment -- Practice
 # ------------------------------------ #
 
+"""
+Let's change how we are calculating our player's stats! The only thing we should 
+need to define globally is the character level and then let our functions do the 
+rest!
+
+Declare the variable player_level at the top of the global scope and set it to 4
+
+"""
+
