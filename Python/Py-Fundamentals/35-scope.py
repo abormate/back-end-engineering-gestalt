@@ -16,7 +16,7 @@ For example:
 def subtract(x, y):
     return x - y
 result = subtract(5, 3)
-print(x)
+# print(x)
 # ERROR! "name 'x' is not defined"
 
 """
@@ -45,11 +45,11 @@ my_level = 10
 
 ## don't touch above this line
 
-max_health = get_max_health(modifier, level)
+# max_health = get_max_health(modifier, level)
 
 # don't touch below this line
 
-print(f"max_health is: {max_health}")
+# print(f"max_health is: {max_health}")
 
 # ------------------------------ #
 # -- Fixed Code --
