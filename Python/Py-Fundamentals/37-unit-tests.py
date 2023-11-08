@@ -48,4 +48,10 @@ Complete the level_up function. It accepts two integers as input:
 -- level
 -- xp_to_add
 
+It should convert the xp to levels, then add the levels to the level argument and return the player's new level. There are 100 xp per level. So, for example:
+
+If a player is level 1 and gains 100 xp they become level 2.
+If a player is level 2 and gains 250 xp they become level 4.
+If a player is level 170 and gains 90 xp they are still level 170.
+
 """
