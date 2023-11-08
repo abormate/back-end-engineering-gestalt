@@ -37,3 +37,8 @@ There are two reasons for this change:
 -- You can run and debug your code with print statements, and leave those print statements in when you submit. Unlike the output-based lessons, you won't have to remove your print statements to pass.
 
 """
+
+# ------------------------------ #
+# -- Assignment -- Practice 
+# ------------------------------ #
+
