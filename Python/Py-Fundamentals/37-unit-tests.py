@@ -48,10 +48,29 @@ Complete the level_up function. It accepts two integers as input:
 -- level
 -- xp_to_add
 
-It should convert the xp to levels, then add the levels to the level argument and return the player's new level. There are 100 xp per level. So, for example:
+It should convert the xp to levels, then add the levels to the level argument and return the player's 
+new level. There are 100 xp per level. So, for example:
 
 If a player is level 1 and gains 100 xp they become level 2.
 If a player is level 2 and gains 250 xp they become level 4.
 If a player is level 170 and gains 90 xp they are still level 170.
 
+// Tips
+
+The pass keyword is a way to tell Python to do nothing. You'll need to replace it with your own code.
+
+Use floor division to convert the xp to levels. Remember, 250 xp is 2 levels, not 2.5 levels. 
+Floor division will round down to the nearest whole number.
+
+Take a look at the new tests file at the top of your editor. You can read the tests but you can't edit 
+them.
+
+
 """
+
+# --------------------- #
+# -- Buggy Code --
+# --------------------- #
+
+def level_up(level, xp_to_add):
+    pass
