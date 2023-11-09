@@ -29,6 +29,10 @@ code to make sure it's doing what you think it's doing at different points in th
 -- Did it print what you expected? If not, fix it
 -- Repeat
 
+You will never lose XP or be penalized on Boot.dev for using the run button. However, there are 
+consequences for submitting broken code, just like there are career consequences for pushing broken 
+code to your users!
+
 
 """
 
