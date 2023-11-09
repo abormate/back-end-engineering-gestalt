@@ -23,5 +23,16 @@ At Boot.dev, the Run button is for debugging. The Submit button is like shipping
 You should be debugging your code using the Run button. You should be adding print() statements to your 
 code to make sure it's doing what you think it's doing at different points in the code.
 
+-- Write a line to calculate a value
+-- print() the value you calculated
+-- Run the code
+-- Did it print what you expected? If not, fix it
+-- Repeat
+
+
 """
 
+"""
+
+
+"""
