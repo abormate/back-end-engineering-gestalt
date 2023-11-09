@@ -13,3 +13,15 @@ That first part of the process is called debugging. You write some code, run it,
 
 """
 
+# ------------------------------- #
+# -- Run vs Debug (Submit)
+# ------------------------------- #
+
+"""
+At Boot.dev, the Run button is for debugging. The Submit button is like shipping your code to production.
+
+You should be debugging your code using the Run button. You should be adding print() statements to your 
+code to make sure it's doing what you think it's doing at different points in the code.
+
+"""
+
