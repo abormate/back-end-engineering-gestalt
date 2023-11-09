@@ -74,3 +74,8 @@ them.
 
 def level_up(level, xp_to_add):
     pass
+
+# --------------------- #
+# -- Fixed Code --
+# --------------------- #
+
