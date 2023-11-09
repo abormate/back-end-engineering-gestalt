@@ -46,3 +46,8 @@ additional tests that you're not able to debug against. That's what keeps it fun
 hard to know what your users will do with your code!).
 
 """
+
+# ------------------------------- #
+# -- Assignment -- Practice --
+# ------------------------------- #
+
