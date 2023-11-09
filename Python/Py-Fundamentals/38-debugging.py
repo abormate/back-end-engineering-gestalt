@@ -36,7 +36,13 @@ code to your users!
 
 """
 
-"""
+# ------------------------------- #
+# -- Submit button will run more tests
+# ------------------------------- #
 
+"""
+When you use the Run button, a few tests will run against your code. However, the Submit button will run 
+additional tests that you're not able to debug against. That's what keeps it fun and realistic (it's so
+hard to know what your users will do with your code!).
 
 """
