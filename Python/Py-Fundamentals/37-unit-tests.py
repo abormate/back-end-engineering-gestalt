@@ -79,3 +79,7 @@ def level_up(level, xp_to_add):
 # -- Fixed Code --
 # --------------------- #
 
+def level_up(level, xp_to_add):
+    levels_to_add = xp_to_add // 100
+    level = level + levels_to_add
+    return level
