@@ -72,3 +72,8 @@ First, calculate the total maximum damage to be inflicted by multiplying the spe
 def take_magic_damage(health, resist, amp, spell_power):
     pass
 
+
+# -------------------------------- #
+# -- Run this -- Unit Test for Assignment Code
+# -------------------------------- #
+
