@@ -74,7 +74,7 @@ def take_magic_damage(health, resist, amp, spell_power):
 
 
 # -------------------------------- #
-# -- Run this -- Unit Test for Assignment Code
+# -- Unit Test for Assignment Code
 # -------------------------------- #
 
 from main import *
