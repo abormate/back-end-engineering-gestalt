@@ -12,3 +12,8 @@ But it's not, and to succeed without getting stuck and frustrated you need to le
 how to learn.
 
 """
+
+# -------------------------------- #
+# -- Process for Solving Hard Coding Problems
+# -------------------------------- #
+
