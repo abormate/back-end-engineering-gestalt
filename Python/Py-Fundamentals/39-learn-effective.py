@@ -40,3 +40,24 @@ submitting.
 at the solution after you have successfully completed the assignment.
 
 """
+
+# ----------------------------- #
+# -- Boots Tips --
+# ----------------------------- #
+
+"""
+Try to use Boots before peeking the solution. Boots is quite good at giving you 
+pointed hints to help you solve the problem on your own.
+
+It's okay to peek at the solution when you're completely stuck every once in a 
+while, but don't make it a habit. If you find that you're always stuck, you 
+should restart the chapter or course to make sure you understand the material.
+
+You can reset your code for an assignment with the "reset" button. For example, 
+maybe you forgot which modifications you made vs which code was left by the 
+instructor.
+
+You can reset all your cached code from the settings page. This is useful if you 
+want to restart a course or chapter.
+
+"""
