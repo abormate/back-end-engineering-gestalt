@@ -68,3 +68,7 @@ First, calculate the total maximum damage to be inflicted by multiplying the spe
 # -------------------------------- #
 # -- Buggy Code --
 # -------------------------------- #
+
+def take_magic_damage(health, resist, amp, spell_power):
+    pass
+
