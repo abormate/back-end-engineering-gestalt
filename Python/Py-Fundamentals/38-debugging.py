@@ -131,3 +131,6 @@ main()
 # -- Repaired Code -- New Code
 # ------------------------------- #
 
+def take_magic_damage(health, resist, amp, spell_power):
+    health = ((health + resist) - (spell_power * amp))
+    return health
