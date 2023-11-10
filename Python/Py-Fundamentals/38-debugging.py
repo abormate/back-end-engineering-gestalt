@@ -64,3 +64,7 @@ magic-type damage the player takes. Here is a description of the arguments:
 First, calculate the total maximum damage to be inflicted by multiplying the spell_power by the amp. Then, subtract the resist from the total damage to get the actual damage dealt. Apply that damage to the player's health and return the new health.
 
 """
+
+# -------------------------------- #
+# -- Buggy Code --
+# -------------------------------- #
