@@ -25,3 +25,7 @@ Arithmetic can be performed as you might expect:
 2 * 2
 # 4
 
+# Division
+3 / 2
+# 1.5 (a float)
+
