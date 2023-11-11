@@ -29,3 +29,10 @@ Arithmetic can be performed as you might expect:
 3 / 2
 # 1.5 (a float)
 
+"""
+This one is actually a bit different - division on two integers will actually 
+produce a float. A float is, as you may have guessed, the number type that allows 
+for decimal values.
+
+"""
+
