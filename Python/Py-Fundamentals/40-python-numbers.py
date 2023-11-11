@@ -21,3 +21,7 @@ Arithmetic can be performed as you might expect:
 2 - 1
 # 1
 
+# Multiplication
+2 * 2
+# 4
+
