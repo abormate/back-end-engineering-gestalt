@@ -9,3 +9,7 @@
 player_score = 4
 player_score = player_score + 1
 # player_score now equals 5
+
+player_score = 4
+player_score = player_score - 1
+# player_score now equals 3
