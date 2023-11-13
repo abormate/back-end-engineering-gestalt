@@ -29,3 +29,9 @@ It's valid because the way the expression should be read in English is:
 # -- Assignment -- Practice --
 # ----------------------------- #
 
+"""
+Complete the update_player_score function. It should add increment to 
+current_score and then return the new current_score.
+
+"""
+
