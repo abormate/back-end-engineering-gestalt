@@ -25,3 +25,7 @@ It's valid because the way the expression should be read in English is:
 # Assign to player_score the old value of player_score minus 1
 
 
+# ----------------------------- #
+# -- Assignment -- Practice --
+# ----------------------------- #
+
