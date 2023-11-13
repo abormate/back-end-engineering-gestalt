@@ -96,3 +96,11 @@ if "__RUN__" in globals():
     test_cases = run_cases
 
 main()
+
+# ------------------------------ #
+# -- Repaired & completed Code --
+# ------------------------------ #
+
+def update_player_score(current_score, increment):
+    current_score += increment
+    return current_score
