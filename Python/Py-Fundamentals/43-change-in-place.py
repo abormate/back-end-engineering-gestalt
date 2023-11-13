@@ -35,3 +35,13 @@ current_score and then return the new current_score.
 
 """
 
+# ----------------------------- #
+# -- Code incomplete -- or Buggy
+# ----------------------------- #
+
+def update_player_score(current_score, increment):
+    pass
+
+# ----------------------------- #
+#
+# ----------------------------- #
