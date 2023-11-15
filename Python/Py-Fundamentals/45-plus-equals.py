@@ -21,3 +21,14 @@ star_rating += 1
 
 # The following operations work similarly
 
+star_rating = 4
+star_rating -= 1
+# star_rating is now 3
+
+star_rating = 4
+star_rating *= 2
+# star_rating is now 8
+
+star_rating = 4
+star_rating /= 2
+# star_rating is now 2
