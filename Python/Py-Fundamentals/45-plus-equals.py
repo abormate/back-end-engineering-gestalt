@@ -43,3 +43,10 @@ from current_health and then return the new current_health.
 
 """
 
+# TIP
+"""
+You cannot use -= in a return statement. Set the variable first, and then return 
+it after!
+
+"""
+
