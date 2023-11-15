@@ -37,3 +37,9 @@ star_rating /= 2
 # -- Assignment -- Practice --
 # ------------------------------- #
 
+"""
+Complete the get_hurt function. It should use the -= operator to subtract damage 
+from current_health and then return the new current_health.
+
+"""
+
