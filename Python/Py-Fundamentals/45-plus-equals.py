@@ -32,3 +32,8 @@ star_rating *= 2
 star_rating = 4
 star_rating /= 2
 # star_rating is now 2
+
+# ------------------------------- #
+# -- Assignment -- Practice --
+# ------------------------------- #
+
