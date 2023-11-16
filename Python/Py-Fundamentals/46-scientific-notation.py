@@ -32,5 +32,16 @@ decimal to the right for a positive number, or to the left for a negative number
 # Underscores for Readability
 # --------------------------- #
 
+"""
+Python also allows you to represent large numbers in the decimal format using 
+underscores instead of commas to make it easier to read.
 
+"""
 
+num = 16_000
+print(num)
+# Prints 16000
+
+num = 16_000_000
+print(num)
+# Prints 16000000
