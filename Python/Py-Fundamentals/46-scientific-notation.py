@@ -13,3 +13,8 @@ specify that you're using scientific notation.
 
 """
 
+print(16e3)
+# Prints 16000.0
+
+print(7.1e-2)
+# Prints 0.071
