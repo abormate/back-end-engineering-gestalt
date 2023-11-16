@@ -118,3 +118,13 @@ if "__RUN__" in globals():
     test_cases = run_cases
 
 main()
+
+# ------------------------------ #
+# Repaired Code -- after debug
+# ------------------------------ #
+
+def max_players_on_server():
+    small = 1.024e18
+    med = 1.024e19
+    large = 1.024e20
+    return small, med, large
