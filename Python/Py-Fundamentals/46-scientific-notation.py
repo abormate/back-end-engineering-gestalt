@@ -18,3 +18,13 @@ print(16e3)
 
 print(7.1e-2)
 # Prints 0.071
+
+"""
+If you're not familiar with scientific notation, it's a way of expressing numbers 
+that are too large or too small to conveniently write normally.
+
+In a nutshell, the number following the e specifies how many places to move the 
+decimal to the right for a positive number, or to the left for a negative number.
+
+"""
+
