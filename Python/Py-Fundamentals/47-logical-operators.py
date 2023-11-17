@@ -35,3 +35,7 @@ print(True and True)
 print(True or False)
 # prints True
 
+# ------------------------- #
+# Nest with Parenthesis
+# ------------------------- #
+
