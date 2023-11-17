@@ -25,6 +25,10 @@ False OR False is False
 
 """
 
+# -------------------------- #
+# Python Syntax
+# -------------------------- #
+
 print(True and True)
 # prints True
 
