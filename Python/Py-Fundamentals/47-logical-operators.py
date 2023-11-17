@@ -41,3 +41,5 @@ print(True or False)
 
 # We can nest logical expressions using parentheses.
 
+print((True or False) and False)
+
