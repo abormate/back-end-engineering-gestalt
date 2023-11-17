@@ -15,5 +15,13 @@ True.
 
 For example:
 
+True AND True is True
+True AND False is False
+False AND False is False
+
+True OR True is True
+True OR False is True
+False OR False is False
+
 """
 
