@@ -25,3 +25,9 @@ False OR False is False
 
 """
 
+print(True and True)
+# prints True
+
+print(True or False)
+# prints True
+
