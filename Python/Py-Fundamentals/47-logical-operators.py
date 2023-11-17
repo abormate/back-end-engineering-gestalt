@@ -39,3 +39,5 @@ print(True or False)
 # Nest with Parenthesis
 # ------------------------- #
 
+# We can nest logical expressions using parentheses.
+
