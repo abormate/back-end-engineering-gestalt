@@ -48,5 +48,13 @@ strings.
 Let's think we have 4 permissions related to "guilds" in Fantasy Quest ("guild" 
 is just a fancy videogame word for "team"):
 
+can_create_guild - Leftmost bit (0b1000)
+can_review_guild - Second to leftmost bit (0b0100)
+can_delete_guild - Second to rightmost bit (0b0010)
+can_edit_guild - Rightmost bit (0b0001)
+
+
+
+
 """
 
