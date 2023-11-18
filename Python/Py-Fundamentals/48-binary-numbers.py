@@ -15,5 +15,14 @@ one's place.
 Similar to how in decimal you would have the thousandth's place, the hundredth's 
 place, the ten's place, and the one's place.
 
+0001 = 1
+0010 = 2
+0011 = 3
+0100 = 4
+0101 = 5
+0110 = 6
+0111 = 7
+1000 = 8
+
 """
 
