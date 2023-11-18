@@ -24,5 +24,7 @@ place, the ten's place, and the one's place.
 0111 = 7
 1000 = 8
 
+binary scale --> https://prnt.sc/v7DLcdTSs26d
+
 """
 
