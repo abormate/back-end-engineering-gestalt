@@ -67,5 +67,55 @@ If the result is 0b0100 again, we know they have that specific permission!
 
 """
 
+# ------------------------ #
+# Assignment -- Practice
+# ------------------------ #
+
+"""
+Complete each of the can_x_bits functions. They should each return the result of a
+bitwise AND operation on the user's permission bits and the bits for the 
+permission in question.
+
+Use the appropriate one of the four provided permission values at the top of the 
+code:
+
+can_create_guild
+can_review_guild
+can_delete_guild
+can_edit_guild
+
+
+
+Your functions should return the result of the bitwise AND the operation on the 
+user's permission. You'll notice that the test code will compare the result to 
+the original permission value to see if it matches!
+
+"""
+
+# ------------------------ #
+# Not complete Code -- Buggy Code
+# ------------------------ #
+
+can_create_guild = 0b1000
+can_review_guild = 0b0100
+can_delete_guild = 0b0010
+can_edit_guild = 0b0001
+
+
+def can_create_bits(user_permissions):
+    pass
+
+
+def can_review_bits(user_permissions):
+    pass
+
+
+def can_delete_bits(user_permissions):
+    pass
+
+
+def can_edit_bits(user_permissions):
+    pass
+
 
 
