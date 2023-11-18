@@ -53,8 +53,19 @@ can_review_guild - Second to leftmost bit (0b0100)
 can_delete_guild - Second to rightmost bit (0b0010)
 can_edit_guild - Rightmost bit (0b0001)
 
+If a user has no permissions, their binary permissions would be 0b0000.
 
+If a user only has the can_create_guild permission, their binary permissions 
+would be 0b1000, but a user with can_review_guild and can_edit_guild permissions 
+would be 0b0101.
+
+To check for, say, the can_review_guild permission, we can perform a bitwise AND 
+operation on the user's permissions and the enabled can_review_guild bit (0b0100).
+
+If the result is 0b0100 again, we know they have that specific permission!
 
 
 """
+
+
 
