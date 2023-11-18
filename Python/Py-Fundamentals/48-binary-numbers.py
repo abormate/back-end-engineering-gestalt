@@ -8,6 +8,12 @@
 Binary numbers are just "base 2" numbers. They work the same way as "normal" 
 base 10 numbers, but with 2 symbols instead of 10.
 
+Each 1 in a binary number represents a greater multiple of 2. In a 4-digit number, 
+that means you have the eight's place, the four's place, the two's place, and the 
+one's place. 
 
+Similar to how in decimal you would have the thousandth's place, the hundredth's 
+place, the ten's place, and the one's place.
 
 """
+
