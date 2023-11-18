@@ -33,3 +33,20 @@ Example
 0000 = 0
 
 """
+
+# -------------------------- #
+# Guild Permissions
+# -------------------------- #
+
+"""
+It sometimes is the case that applications store user permissions as binary values. 
+Think about it, if I have 4 different permissions a user can have, then I can 
+store that as a 4-digit binary number, and if a certain bit is present, I know 
+the permission is enabled. This can be a lot more efficient than storing entire 
+strings.
+
+Let's think we have 4 permissions related to "guilds" in Fantasy Quest ("guild" 
+is just a fancy videogame word for "team"):
+
+"""
+
