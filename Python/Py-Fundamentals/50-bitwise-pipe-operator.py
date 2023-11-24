@@ -22,3 +22,11 @@ Example operations
 
 """
 
+"""
+A 1 in binary is the same as True, while 0 is False. So a bitwise operation is 
+just a bunch of logical operations that are completed in tandem. When two binary 
+numbers are "OR'ed" together, the result has a 1 in any place where either of 
+the input numbers has a 1 in that place.
+
+"""
+
