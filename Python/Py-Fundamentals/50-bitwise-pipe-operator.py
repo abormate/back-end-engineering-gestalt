@@ -28,5 +28,13 @@ just a bunch of logical operations that are completed in tandem. When two binary
 numbers are "OR'ed" together, the result has a 1 in any place where either of 
 the input numbers has a 1 in that place.
 
+| is the bitwise OR operator in Python. 5 | 7 = 7 and 5 | 2 = 7 as well!
+
+0101 = 5
+|
+0010 = 2
+=
+0111 = 7
+
 """
 
