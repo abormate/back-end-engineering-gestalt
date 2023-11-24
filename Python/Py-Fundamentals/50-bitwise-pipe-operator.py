@@ -38,3 +38,23 @@ the input numbers has a 1 in that place.
 
 """
 
+
+# --------------------------- #
+# How Permissions Work with Parties and Guilds
+# --------------------------- #
+
+"""
+A "party" is a team of 2-4 players who are online at the same time and fighting 
+together. A "guild" is a larger group of players, sometimes 50 or 60, who share 
+a common purpose.
+
+We've been asked to add some more functionality to the "guild permissions" 
+system. When players from a guild are in a party together, they should all 
+gain all of the guild permissions of all the other members of the party!
+
+For example, if Jack has the "create" permission, and Jill has the "delete" 
+permission, then when they are in a party together, Jack and Jill should both 
+have the "create" and "delete" permissions.
+
+"""
+
