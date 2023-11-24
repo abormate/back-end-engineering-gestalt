@@ -10,3 +10,8 @@ result. It returns False if the input was True and vice-versa.
 
 """
 
+print(not True)
+# Prints: False
+
+print(not False)
+# Prints: True
