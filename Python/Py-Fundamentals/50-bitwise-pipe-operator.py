@@ -70,3 +70,7 @@ Galadriel, Elendil and Elrond).
 Use bitwise OR operations to calculate the superset of all the permissions.
 
 """
+
+def calculate_party_perms(glorfindel, galadriel, elendil, elrond):
+    return glorfindel | galadriel | elendil | elrond
+
