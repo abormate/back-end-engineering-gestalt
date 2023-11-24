@@ -12,5 +12,13 @@ bitwise "or" operator "ORs" the bits together. Here's an example:
 0101 is 5
 0111 is 7
 
+Example operations
+
+0101
+|     
+0111
+=
+0111
+
 """
 
