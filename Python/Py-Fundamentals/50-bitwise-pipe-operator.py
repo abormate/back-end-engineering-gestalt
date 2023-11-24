@@ -58,3 +58,15 @@ have the "create" and "delete" permissions.
 
 """
 
+# -------------------------- #
+# Assignment -- Practice 
+# -------------------------- #
+
+"""
+Complete the calculate_party_perms function. It should return a binary number 
+that represents the permissions of all the members of the party (Glorfindel, 
+Galadriel, Elendil and Elrond).
+
+Use bitwise OR operations to calculate the superset of all the permissions.
+
+"""
