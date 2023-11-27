@@ -31,4 +31,17 @@ print(arms)
 print(fingers)
 # 6
 
+# TIP
+"""
+The built-in int function can convert a binary string to an integer. It takes a 
+second argument that specifies the base of the number (binary is base 2). 
 
+For example:
+
+"""
+
+# this is a binary string
+binary_string = "100"
+
+# convert binary string to integer
+num = int(binary_string, 2)
