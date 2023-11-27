@@ -31,3 +31,5 @@ name for these kinds of comparison operations that always result in True or Fals
 def player_1_wins(player_1_score, player_2_score):
     pass
 
+def player_1_wins(player_1_score, player_2_score):
+    return player_1_score > player_2_score
