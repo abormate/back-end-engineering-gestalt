@@ -22,3 +22,13 @@ interpreted as binary.
 For example:
 
 """
+body_parts = []
+heads, arms, fingers = body_parts("100", "101", "110")
+print(heads)
+# 4
+print(arms)
+# 5
+print(fingers)
+# 6
+
+
