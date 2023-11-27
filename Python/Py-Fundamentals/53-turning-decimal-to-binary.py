@@ -45,3 +45,11 @@ binary_string = "100"
 
 # convert binary string to integer
 num = int(binary_string, 2)
+
+
+# -------------------------------- #
+# -- Assignment -- Practice -- 
+# -------------------------------- #
+
+def body_parts(num_heads, num_arms, num_fingers):
+    pass
