@@ -52,4 +52,7 @@ def compare_heights(elon_height, sara_height, jill_height, bob_height):
 # --------------------- #
 
 def compare_heights(elon_height, sara_height, jill_height, bob_height):
-    return
+    bob_as_tall_as_elon = bob_height == elon_height
+    sara_as_tall_as_elon = sara_height == elon_height
+    jill_as_tall_as_sara = jill_height == sara_height
+    return bob_as_tall_as_elon, sara_as_tall_as_elon, jill_as_tall_as_sara
