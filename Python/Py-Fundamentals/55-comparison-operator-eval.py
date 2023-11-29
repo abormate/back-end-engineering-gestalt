@@ -12,3 +12,6 @@ Take the following two examples:
 
 """
 
+is_bigger = 5 > 4
+
+is_bigger = True
