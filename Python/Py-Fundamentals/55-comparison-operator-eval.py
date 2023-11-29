@@ -24,3 +24,7 @@ Because 5 is greater than 4, is_bigger is assigned the value of True.
 
 """
 
+# ----------------------- #
+# -- Assignment -- Practice --
+# ----------------------- #
+
