@@ -28,3 +28,28 @@ Because 5 is greater than 4, is_bigger is assigned the value of True.
 # -- Assignment -- Practice --
 # ----------------------- #
 
+"""
+Use comparison operators to calculate and return the following values:
+
+bob_as_tall_as_elon
+sara_as_tall_as_elon
+jill_as_tall_as_sara
+
+
+Note: We are trying to calculate if these individuals are the exact same height.
+
+"""
+
+# --------------------- #
+# -- Buggy Code --
+# --------------------- #
+
+def compare_heights(elon_height, sara_height, jill_height, bob_height):
+    pass
+
+# --------------------- #
+# -- Repaired Code --
+# --------------------- #
+
+def compare_heights(elon_height, sara_height, jill_height, bob_height):
+    return
