@@ -20,4 +20,14 @@ else:
     print('Better luck next time')
 
 
+-------------------------------------------
+
+First the if statement is evaluated. If it is True then the if statement's body is 
+executed and all the other elses are ignored.
+
+If the first if is false then the next elif is evaluated. Likewise, if it is True 
+then its body is executed and the rest are ignored.
+
+
+
 """
