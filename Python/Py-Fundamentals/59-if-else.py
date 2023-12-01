@@ -32,3 +32,8 @@ If none of the if statements evaluate to True then the final else statement will
 the only body executed.
 
 """
+
+# -------------------------- #
+# -- Assignment -- Practice --
+# -------------------------- #
+
