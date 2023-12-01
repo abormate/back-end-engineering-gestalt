@@ -19,4 +19,6 @@ if bob_score > bill_score:
 
 print("Game Complete")
 
+if bob_score is greater than bill_score, then this will be printed:
+
 """
