@@ -28,6 +28,7 @@ executed and all the other elses are ignored.
 If the first if is false then the next elif is evaluated. Likewise, if it is True 
 then its body is executed and the rest are ignored.
 
-
+If none of the if statements evaluate to True then the final else statement will be 
+the only body executed.
 
 """
