@@ -38,3 +38,11 @@ Game Complete
 # -- Assignment -- Practice --
 # --------------------- #
 
+"""
+Complete the print_status function.
+
+-- If player_health is 0, print the text dead to the console.
+-- Afterwards, whether or not the player is dead, print the text status check 
+complete to the console.
+
+"""
