@@ -52,5 +52,12 @@ Otherwise, return the string:
 healthy
 
 
-
 """
+
+# -------------------------- #
+# -- Buggy Code --
+# -------------------------- #
+
+def player_status(health):
+    pass
+
