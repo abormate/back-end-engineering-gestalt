@@ -52,7 +52,9 @@ complete to the console.
 # -------------------- #
 
 def print_status(player_health):
-    # ?
+    if player_health < 1:
+        print("dead")
+    print("status check complete")
 
 
 # Don't edit below this line
