@@ -24,3 +24,13 @@ same = 6 == 6
 # -- Assignment -- Practice --
 # ------------------------------- #
 
+"""
+There is a bug in the check_high_score function! Add the proper conditional 
+statement to fix the bug. 
+
+If the names match, "You are the highest scoring player!" 
+should be returned. Otherwise, "You are not the highest scoring player!" should be 
+returned.
+
+"""
+
