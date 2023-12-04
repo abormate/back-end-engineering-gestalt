@@ -14,3 +14,8 @@ Remember, to check if two values are the same use the == operator.
 
 """
 
+same = 5 == 6
+# same is false
+
+same = 6 == 6
+# same is true
