@@ -23,5 +23,8 @@ name, return the string:
 -- High
 
 
+Otherwise, if it's the low scorer, return the string:
+
+-- Low
 
 """
