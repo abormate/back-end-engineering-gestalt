@@ -16,3 +16,10 @@ Here are some basic rules with if/else blocks.
 # Assignment -- Practice
 # --------------------------- #
 
+"""
+Complete the check_high_score function. If the player_name matches the high score 
+name, return the string:
+
+
+
+"""
