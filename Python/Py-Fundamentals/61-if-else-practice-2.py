@@ -27,4 +27,8 @@ Otherwise, if it's the low scorer, return the string:
 
 -- Low
 
+Otherwise, return the string:
+
+-- Neither
+
 """
