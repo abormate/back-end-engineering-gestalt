@@ -11,3 +11,8 @@ Here are some basic rules with if/else blocks.
 -- You can have an else without an elif
 
 """
+
+# --------------------------- #
+# Assignment -- Practice
+# --------------------------- #
+
