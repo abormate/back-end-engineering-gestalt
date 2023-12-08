@@ -17,3 +17,8 @@ be true)
 # -- Logical Operators Review --
 # ----------------------------- #
 
+"""
+As we discussed earlier, the logical operators and and or can be used to perform 
+boolean logic.
+
+"""
