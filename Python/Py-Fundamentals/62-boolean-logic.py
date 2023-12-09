@@ -27,3 +27,9 @@ boolean logic.
 # -- AND Review --
 # ---------------------------- #
 
+"""
+The and operator returns True if both of the conditions on either side evaluates to 
+True:
+
+"""
+
