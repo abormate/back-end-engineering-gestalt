@@ -40,5 +40,11 @@ def is_dog(num_legs, weight):
 Let's go over how this function evaluates given the parameters num_legs=4 and 
 weight=99:
 
-"""
 
+return 4 == 4 and 99 < 100
+
+return True and True
+
+return True
+
+"""
