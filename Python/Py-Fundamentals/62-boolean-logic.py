@@ -22,3 +22,8 @@ As we discussed earlier, the logical operators and and or can be used to perform
 boolean logic.
 
 """
+
+# ---------------------------- #
+# -- AND Review --
+# ---------------------------- #
+
