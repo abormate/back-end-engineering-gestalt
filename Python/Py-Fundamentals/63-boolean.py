@@ -25,3 +25,6 @@ If any of these conditions are not met the function should return False.
 # -- Practice --
 # ------------------------ #
 
+def should_serve_customer(customer_age, on_break, time):
+    pass
+
