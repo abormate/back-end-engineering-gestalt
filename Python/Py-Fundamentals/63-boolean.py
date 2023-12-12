@@ -20,3 +20,8 @@ The customer's age is 21 or older.
 If any of these conditions are not met the function should return False.
 
 """
+
+# ------------------------ #
+# -- Practice --
+# ------------------------ #
+
