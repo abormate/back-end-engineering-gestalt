@@ -28,3 +28,8 @@ If any of these conditions are not met the function should return False.
 def should_serve_customer(customer_age, on_break, time):
     pass
 
+def should_serve_customer(customer_age, on_break, time):
+    if customer_age >= 21 and on_break == False and time <= 10 and time >= 5:
+        return True
+    else:
+        return False
