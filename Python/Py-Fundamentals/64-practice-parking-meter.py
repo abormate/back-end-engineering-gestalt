@@ -20,4 +20,9 @@ The parking agency has tasked you with fixing the code for the meters.
 
 Create a check_parking_meter function. It takes two inputs:
 
+>> time_parked - the amount of time the car has been parked in minutes
+>> time_purchased - the amount of time the driver purchased on the meter in minutes
+
+
+
 """
