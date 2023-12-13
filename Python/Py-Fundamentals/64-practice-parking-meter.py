@@ -23,6 +23,7 @@ Create a check_parking_meter function. It takes two inputs:
 >> time_parked - the amount of time the car has been parked in minutes
 >> time_purchased - the amount of time the driver purchased on the meter in minutes
 
-
+If time_parked meets or exceeds time_purchased return the string "overtime charged"
+Otherwise, return the string "no charges yet"
 
 """
