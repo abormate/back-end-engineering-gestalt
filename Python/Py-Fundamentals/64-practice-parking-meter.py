@@ -10,3 +10,7 @@ on Main Street. He determined that the meters were giving tickets to cars whose
 parking duration had not yet expired.
 
 """
+
+# --------------------------- #
+# -- Challenge Practice --
+# --------------------------- #
