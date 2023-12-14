@@ -26,3 +26,9 @@ gallons_needed variable, and False otherwise.
 
 """
 
+def has_enough_gas(gallons_in_car, miles_to_work, miles_per_gallon):
+    gallons_needed = (2 * miles_to_work) / miles_per_gallon
+    if gallons_in_car >= gallons_needed:
+        return True
+    else:
+        return False
