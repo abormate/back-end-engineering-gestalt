@@ -28,3 +28,10 @@ For example, if the player's power is greater than the enemy's defense, advantag
 should be set to True. etc.
 
 """
+
+def combat_evaluation(player_power, enemy_defense):
+    advantage, disadvantage, evenly_matched = False, False, False
+
+    # your code here
+
+    return advantage, disadvantage, evenly_matched
