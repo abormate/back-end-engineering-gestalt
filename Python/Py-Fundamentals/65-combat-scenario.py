@@ -35,3 +35,8 @@ def combat_evaluation(player_power, enemy_defense):
     # your code here
 
     return advantage, disadvantage, evenly_matched
+
+# ------------------------------ #
+# -- Unit Test --
+# ------------------------------ #
+
