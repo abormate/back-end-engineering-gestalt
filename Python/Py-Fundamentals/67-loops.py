@@ -23,3 +23,11 @@ print(7)
 print(8)
 print(9)
 
+"""
+Even so, it would save me a lot of time typing to use a loop. Especially if I 
+wanted to do the same thing one thousand or one million times.
+
+A "for loop" in Python is written like this:
+
+"""
+
