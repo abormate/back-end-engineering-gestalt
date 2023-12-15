@@ -47,4 +47,57 @@ In English, the code says:
 
 # The result is that the numbers 0-9 are logged to the console in order.
 
+# ----------------------------------- #
+# -- Assignment -- Practice --
+# ----------------------------------- #
 
+"""
+Complete the missing sections of the for-loop in the print_numbers function so that 
+it prints the numbers 0-99 to the console.
+
+"""
+
+# ------------------------- #
+# -- Buggy Code -- Incomplete
+# ------------------------- #
+
+"""
+def print_numbers():
+     for :
+        print(i)
+"""
+
+
+def test():
+    print("Printing numbers from 0 to 99:")
+    print_numbers()
+    print("=====================================")
+
+
+def main():
+    test()
+
+
+main()
+
+
+# -------------------------- #
+# -- Repaired Code --
+# -------------------------- #
+
+def print_numbers():
+    for i in range(0, 101):
+        print(i)
+
+
+def test():
+    print("Printing numbers from 0 to 99:")
+    print_numbers()
+    print("=====================================")
+
+
+def main():
+    test()
+
+
+main()
