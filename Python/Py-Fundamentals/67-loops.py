@@ -45,3 +45,6 @@ In English, the code says:
 
 """
 
+# The result is that the numbers 0-9 are logged to the console in order.
+
+
