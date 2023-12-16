@@ -25,3 +25,14 @@ WHITESPACE MATTERS IN PYTHON!
 The body of a for-loop must be indented; otherwise, you'll get a syntax error.
 
 """
+
+# -------------------------- #
+# -- Assignment -- Practice --
+# -------------------------- #
+
+"""
+In the print_numbers function, write a for-loop from scratch that logs the 
+numbers 0-199 to the console.
+
+"""
+
