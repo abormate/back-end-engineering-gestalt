@@ -44,7 +44,7 @@ counting down from start to (but not including) end in order.
 """
 
 def count_down(start, end):
-    for i in range(start, end):
+    for i in range(start, end, -1):
         print(i)
 
 
@@ -62,5 +62,7 @@ def main():
     test(20, 10)
     test(15, 11)
 
+
+main()
 
 main()
