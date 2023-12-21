@@ -19,3 +19,8 @@ The opening quotes need to be preceded by an f, then any variables within curly
 brackets have their values "interpolated" (injected) into the string.
 
 """
+
+# ------------------------- #
+# -- Assignment -- Practice -- 
+# ------------------------- #
+
