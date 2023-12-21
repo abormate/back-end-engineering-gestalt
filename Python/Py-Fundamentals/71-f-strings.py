@@ -10,3 +10,6 @@ beautiful syntax that I wish more programming languages used.
 
 """
 
+num_bananas = 10
+print(f"You have {num_bananas} bananas")
+# You have 10 bananas
