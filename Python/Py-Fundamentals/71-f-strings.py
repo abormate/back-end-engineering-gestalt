@@ -53,3 +53,29 @@ You qualify for retirement. You are AGE years old.
 
 # If neither of those conditions is true, don't do anything for that iteration of the loop.
 
+# -------------------------------- #
+# -- Code -- Buggy --
+# -------------------------------- #
+
+def check_for_meals_and_retirement(starting_age, ending_age):
+    for age in range(starting_age, ending_age):
+        # ?
+
+
+# Don't edit below this line
+
+
+def test(starting_age, ending_age):
+    print(f"Checking from ages {starting_age} up to {ending_age}:")
+    check_for_meals_and_retirement(starting_age, ending_age)
+    print("=====================================")
+
+
+def main():
+    test(6, 10)
+    test(63, 67)
+    test(0, 76)
+
+
+main()
+
