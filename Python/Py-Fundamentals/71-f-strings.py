@@ -24,3 +24,14 @@ brackets have their values "interpolated" (injected) into the string.
 # -- Assignment -- Practice -- 
 # ------------------------- #
 
+"""
+At the hometown tavern in Fantasy Quest, the innkeeper offers free meals and 
+retirement plans based on the age of his patrons. 
+
+I wrote a function called 
+check_for_meals_and_retirement that contains a loop that increments the age 
+from a given starting_age to an ending_age exclusive. So we can leave the for 
+loop's range as is.
+
+"""
+
