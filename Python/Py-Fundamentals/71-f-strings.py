@@ -42,3 +42,10 @@ You qualify for free meals. You are AGE years old.
 
 """
 
+# Otherwise, if age is greater than 65 you should print:
+
+"""
+You qualify for retirement. You are AGE years old.
+
+"""
+
