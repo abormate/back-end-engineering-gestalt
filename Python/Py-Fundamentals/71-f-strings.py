@@ -49,3 +49,7 @@ You qualify for retirement. You are AGE years old.
 
 """
 
+# Where AGE is the current value of the age variable.
+
+# If neither of those conditions is true, don't do anything for that iteration of the loop.
+
