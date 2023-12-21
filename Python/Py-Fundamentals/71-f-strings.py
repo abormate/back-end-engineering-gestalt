@@ -35,3 +35,10 @@ loop's range as is.
 
 """
 
+# In the body of the for loop, if age is less than 8 your code should print:
+
+"""
+You qualify for free meals. You are AGE years old.
+
+"""
+
