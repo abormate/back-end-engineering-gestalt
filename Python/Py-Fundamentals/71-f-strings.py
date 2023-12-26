@@ -83,3 +83,29 @@ def check_for_meals_and_retirement(starting_age, ending_age):
 # -- Code Repaired --
 # ------------------------------ #
 
+def check_for_meals_and_retirement(starting_age, ending_age):
+    for age in range(starting_age, ending_age):
+        if age < 8:
+            print(f"You qualify for free meals. You are {age} years old.")
+        elif age > 65:
+            print(f"You qualify for retirement. You are {age} years old.")
+        else:
+            pass
+
+
+# Don't edit below this line
+
+
+def test(starting_age, ending_age):
+    print(f"Checking from ages {starting_age} up to {ending_age}:")
+    check_for_meals_and_retirement(starting_age, ending_age)
+    print("=====================================")
+
+
+def main():
+    test(6, 10)
+    test(63, 67)
+    test(0, 76)
+
+
+main()
