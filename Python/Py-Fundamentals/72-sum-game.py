@@ -18,3 +18,8 @@ number_of_apples = 10
 number_of_apples -= 2
 # result is 8
 
+
+# ----------------------------- #
+# -- Assignment -- Practice --
+# ----------------------------- #
+
