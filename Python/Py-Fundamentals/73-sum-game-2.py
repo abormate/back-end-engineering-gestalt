@@ -10,3 +10,9 @@ odd numbers starting at 1 up to (but not including) the given end number and
 return the result.
 
 """
+
+def sum_of_odd_numbers(end):
+    total = 0
+    for i in range(0, end):
+        total += i
+    return total
