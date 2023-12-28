@@ -37,3 +37,4 @@ should print:
 
 # 100 squared = 10000
 
+# Note that the end is exclusive and will not be included in the printed output.
