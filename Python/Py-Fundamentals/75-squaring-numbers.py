@@ -13,3 +13,7 @@ The square of a number is just the number multiplied by itself.
 
 """
 
+# ---------------------------- #
+# -- Assignment -- Practice --
+# ---------------------------- #
+
