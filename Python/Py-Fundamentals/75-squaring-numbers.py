@@ -27,3 +27,11 @@ Use the following format to print each line:
 
 # NUM squared = SQUARE
 
+"""
+Where NUM is the number, and SQUARE is its square.
+
+For example, the first iteration of the loop in calculate_squares(100, 110) 
+should print:
+
+"""
+
