@@ -35,3 +35,5 @@ should print:
 
 """
 
+# 100 squared = 10000
+
