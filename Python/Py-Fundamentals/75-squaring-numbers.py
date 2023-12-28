@@ -17,3 +17,11 @@ The square of a number is just the number multiplied by itself.
 # -- Assignment -- Practice --
 # ---------------------------- #
 
+"""
+In the calculate_squares function, write a loop that calculates and prints the 
+squares of the numbers from the start parameter up to the given end parameter.
+
+Use the following format to print each line:
+
+"""
+
