@@ -25,3 +25,5 @@ Use the following format to print each line:
 
 """
 
+# NUM squared = SQUARE
+
