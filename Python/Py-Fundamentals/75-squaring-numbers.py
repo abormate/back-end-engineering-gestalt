@@ -38,3 +38,30 @@ should print:
 # 100 squared = 10000
 
 # Note that the end is exclusive and will not be included in the printed output.
+
+# ---------------------------- #
+# -- Buggy Old Code --
+# ---------------------------- #
+
+'''
+def calculate_squares(start, end):
+    # ?
+
+
+# Don't edit below this line
+
+
+     def test(start, end):
+          print(f"Calculating squares from {start} to {end - 1}:")
+          calculate_squares(start, end)
+          print("=====================================")
+
+
+def main():
+    test(100, 105)
+    test(1, 3)
+    test(11, 14)
+
+
+main()
+'''
