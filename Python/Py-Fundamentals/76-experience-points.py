@@ -31,3 +31,12 @@ with 0 XP.
 
 """
 
+    #   0xp -> lvl 1 (O * 5)
+    #  +5xp -> lvl 2 (1 * 5)
+    # +10xp -> lvl 3 (2 * 5)
+    # +15xp -> lvl 4 (3 * 5)
+    #------
+    #  30xp
+
+    # calculate_experience_points(4)
+    # returns 30
