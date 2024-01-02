@@ -46,6 +46,13 @@ with 0 XP.
 # ------------------------- #
 
 """
+The formula:
+
+(The XP needed for all previous levels) + (the current level multiplied by 5)
+
+Remember that we are only calculating the XP needed to reach the level that was 
+passed in. That means we need to calculate the XP for all levels up to, but not 
+including, the given level parameter.
 
 
 """
