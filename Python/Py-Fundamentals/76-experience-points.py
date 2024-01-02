@@ -61,3 +61,6 @@ including, the given level parameter.
 # -- Buggy Code --
 # ----------------------- #
 
+def calculate_experience_points(level):
+    pass
+
