@@ -64,3 +64,7 @@ including, the given level parameter.
 def calculate_experience_points(level):
     pass
 
+# ----------------------- #
+# -- Unit Test Cases --
+# ----------------------- #
+
