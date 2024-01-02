@@ -121,3 +121,13 @@ if "__RUN__" in globals():
 
 main()
 
+# ------------------------ #
+# -- Repaired Code --
+# ------------------------ #
+
+def calculate_experience_points(level):
+    exp = 0
+    for i in range(1, level):
+        exp += i * 5
+
+    return exp
