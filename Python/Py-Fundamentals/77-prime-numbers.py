@@ -29,3 +29,12 @@ and 9 are not.
 # -- Tip --
 # ------------------------ #
 
+"""
+0 and 1 are not prime numbers! And don't forget to catch all negative numbers!
+
+We'll talk more about it next chapter, but you can use the modulo operator % to 
+find a remainder. For example, 7 modulo 2 would be 1, because 2 can be multiplied 
+evenly into 7 at most 3 times.
+
+"""
+
