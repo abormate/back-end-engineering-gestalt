@@ -38,3 +38,8 @@ evenly into 7 at most 3 times.
 
 """
 
+remainder = 8 % 3
+# remainder = 2
+
+remainder = 9 % 3
+# remainder = 0
