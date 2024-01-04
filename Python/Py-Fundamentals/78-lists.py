@@ -17,3 +17,7 @@ The state of a chess game is a list of moves
 This list is a list of things that are lists
 
 """
+
+# Lists in Python are declared using square brackets, with commas separating each item:
+
+inventory = ["Iron Breastplate", "Healing Potion", "Leather Scraps"]
