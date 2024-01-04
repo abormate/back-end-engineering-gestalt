@@ -21,3 +21,9 @@ This list is a list of things that are lists
 # Lists in Python are declared using square brackets, with commas separating each item:
 
 inventory = ["Iron Breastplate", "Healing Potion", "Leather Scraps"]
+
+"""
+Lists can contain items of any data type, in our example above we have a List 
+of strings.
+
+"""
