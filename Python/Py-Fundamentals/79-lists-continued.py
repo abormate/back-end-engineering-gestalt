@@ -24,3 +24,4 @@ player_ages = [
     42
 ]
 
+# All types of data types can be stored in a list 
