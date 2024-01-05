@@ -27,3 +27,8 @@ Lists can contain items of any data type, in our example above we have a List
 of strings.
 
 """
+
+# ------------------------------ #
+# -- Assignment -- Practice --
+# ------------------------------ #
+
