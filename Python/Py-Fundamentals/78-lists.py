@@ -39,3 +39,27 @@ carrying in a list!
 Fix our get_inventory function by adding Shortsword to the end of the list.
 
 """
+
+# ------------------------------ #
+# -- Broken Code --
+# ------------------------------ #
+
+def get_inventory():
+    return ["Healing Potion", "Leather Scraps", "Iron Helmet"]
+
+
+# Don't edit below this line
+
+
+def test():
+    inventory = get_inventory()
+    print(f"Inventory contains: {inventory}")
+    print("=====================================")
+
+
+def main():
+    test()
+
+
+main()
+
