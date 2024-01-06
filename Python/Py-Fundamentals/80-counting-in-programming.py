@@ -23,3 +23,11 @@ Take the following list as an example:
 """
 
 names = ["Bob", "Lane", "Alice", "Breanna"]
+
+"""
+Index 0: Bob
+Index 1: Lane
+Index 2: Alice
+Index 3: Breanna
+
+"""
