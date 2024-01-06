@@ -22,3 +22,4 @@ Take the following list as an example:
 
 """
 
+names = ["Bob", "Lane", "Alice", "Breanna"]
