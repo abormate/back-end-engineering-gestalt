@@ -94,3 +94,9 @@ if "__RUN__" in globals():
 
 main()
 
+# -------------------------- #
+# -- Repaired Code --
+# -------------------------- #
+
+def get_last_index(lst):
+    return len(lst) - 1
