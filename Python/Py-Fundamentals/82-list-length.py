@@ -16,3 +16,8 @@ by the fact that the length is not equal to the index of the last element, in
 fact, it will always be one greater.
 
 """
+
+# ------------------------ #
+# -- Assignment -- Practice --
+# ------------------------ #
+
