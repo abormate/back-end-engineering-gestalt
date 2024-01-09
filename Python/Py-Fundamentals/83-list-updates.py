@@ -31,3 +31,28 @@ On line 7, update the Iron Ore element in the list to be an Iron Bar.
 # -- Buggy Code --
 # --------------------------- #
 
+def smelt_ore():
+    inventory = ["Healing Potion", "Iron Ore", "Bread", "Shortsword"]
+    print(f"Inventory: {inventory}")
+
+    # don't touch above this line
+
+    # ?
+
+    # don't touch below this line
+
+    return inventory
+
+
+def test():
+    inventory = smelt_ore()
+    print(f"Smelting ore: {inventory}")
+    print("=====================================")
+
+
+def main():
+    test()
+
+
+main()
+
