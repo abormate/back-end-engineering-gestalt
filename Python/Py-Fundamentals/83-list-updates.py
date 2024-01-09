@@ -27,3 +27,7 @@ On line 7, update the Iron Ore element in the list to be an Iron Bar.
 
 """
 
+# --------------------------- #
+# -- Buggy Code --
+# --------------------------- #
+
