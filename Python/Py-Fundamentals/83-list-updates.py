@@ -15,3 +15,7 @@ inventory[0] = "Leather Armor"
 # inventory: ['Leather Armor', 'Healing Potion', 'Iron Ore']
 
 
+# --------------------------- #
+# -- Assignment -- 
+# --------------------------- #
+
