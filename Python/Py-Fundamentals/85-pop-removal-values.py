@@ -9,3 +9,9 @@
 returns it for use. For example:
 
 """
+
+vegetables = ["broccoli", "cabbage", "kale", "tomato"];
+last_vegetable = vegetables.pop()
+# vegetables = ['broccoli', 'cabbage', 'kale']
+# last_vegetable = 'tomato'
+
