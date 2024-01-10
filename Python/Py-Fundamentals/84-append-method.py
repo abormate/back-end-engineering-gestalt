@@ -20,3 +20,12 @@ cards.append("amd")
 # -- Assignment -- Practice --
 # -------------------------------- #
 
+"""
+We need to generate a unique user ID for each player in the game. An ID is just a 
+unique number that identifies a user.
+
+Let's finish the generate_user_list function. Use the body of the loop to add the 
+unique ID's to the player_ids list.
+
+"""
+
