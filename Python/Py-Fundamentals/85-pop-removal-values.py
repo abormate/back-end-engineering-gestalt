@@ -87,7 +87,7 @@ def clear_inventory():
         # ?
 
         # don't touch below this line
-        print(f"Selling: {item}")
+       # print(f"Selling: {item}")
         print(f"inventory: {inventory}")
 
 
