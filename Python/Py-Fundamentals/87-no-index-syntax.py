@@ -18,3 +18,12 @@ for tree in trees:
 # oak
 # pine
 # maple
+    
+
+"""
+tree, the variable declared using the in keyword, directly accesses the value in 
+the list rather than the index of the value. If we don't need to update the item 
+and only need to access its value then this is a more clean way to write the code.
+
+"""
+
