@@ -27,3 +27,9 @@ and only need to access its value then this is a more clean way to write the cod
 
 """
 
+# When should we use the no-index syntax? 
+
+"""
+When we don't need to know the index, just the value
+
+"""
