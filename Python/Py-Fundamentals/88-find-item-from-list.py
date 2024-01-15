@@ -38,4 +38,8 @@ def contains_leather_scraps(items):
 
     return found
 
+# --------------------------- #
+# -- Unit Tester --
+# --------------------------- #
+
 
