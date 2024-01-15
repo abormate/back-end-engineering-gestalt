@@ -8,3 +8,8 @@
 
 for fruit in fruits:
     print(fruit)
+
+# --------------------------- #
+# -- Assignment -- Practice --
+# --------------------------- #
+    
