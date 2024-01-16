@@ -18,3 +18,6 @@ Fill in the loop with code that prints the indexes where the items in the lists
 differ. For example, if the lists are:
 
 """
+
+old_character_levels = [2, 5, 3, 7, 5]
+new_character_levels = [2, 5, 19, 7, 8]
