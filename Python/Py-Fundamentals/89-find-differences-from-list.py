@@ -21,3 +21,9 @@ differ. For example, if the lists are:
 
 old_character_levels = [2, 5, 3, 7, 5]
 new_character_levels = [2, 5, 19, 7, 8]
+
+# Then your code should print these indexes 
+
+2
+4
+
