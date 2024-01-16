@@ -31,6 +31,7 @@ new_character_levels = [2, 5, 19, 7, 8]
 # -- Buggy Code -- Unfinished
 # ---------------------------------- #
 
+"""
 def check_character_levels():
     old_character_levels = [1, 42, 43, 53, 12, 3, 32, 34, 54, 32, 43]
     new_character_levels = [1, 42, 45, 54, 12, 3, 32, 38, 54, 32, 43]
@@ -55,4 +56,4 @@ def main():
 
 
 main()
-
+"""
