@@ -14,6 +14,7 @@ The existing code in the loop you've been given loops over all of the indexes in
 old_character_levels. Because old_character_levels and new_character_levels are 
 the same lengths, you can reuse i to index into both.
 
-
+Fill in the loop with code that prints the indexes where the items in the lists 
+differ. For example, if the lists are:
 
 """
