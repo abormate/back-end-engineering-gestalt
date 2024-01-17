@@ -29,3 +29,5 @@ infinity.
 
 """
 
+find_max([100, 10, 22])
+# returns 100
