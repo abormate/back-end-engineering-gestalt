@@ -15,3 +15,7 @@ finding the max value. I've added it for you as a starting point.
 negative_infinity = float('-inf')
 positive_infinity = float('inf')
 
+# ------------------------ #
+# -- Assignment --
+# ------------------------ #
+
