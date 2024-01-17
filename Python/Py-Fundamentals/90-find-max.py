@@ -19,3 +19,13 @@ positive_infinity = float('inf')
 # -- Assignment --
 # ------------------------ #
 
+"""
+Our players want a way to see their strongest attack from their last combat. 
+Let's add another function to analyze data from our combat log.
+
+Complete the find_max function that looks at each number in the nums list and 
+returns the maximum value. If no maximum is found it just returns negative 
+infinity.
+
+"""
+
