@@ -65,3 +65,5 @@ the last item in the list, numbers[-2] gives the second last item, and so on.
 
 """
 
+numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+numbers[-3:] # Gives [7, 8, 9]
