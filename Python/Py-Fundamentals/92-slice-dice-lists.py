@@ -27,3 +27,9 @@ scores = [50, 70, 30, 20, 90, 10, 50]
 print(scores[1:5:2])
 # Prints [70, 20]
 
+"""
+The above reads as "give me a slice of the scores list from index 1, up to but 
+not including 5, skipping every 2nd value. All of the sections are optional.
+
+"""
+
