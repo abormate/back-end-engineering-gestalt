@@ -44,3 +44,7 @@ numbers[3:] means "get all items from index 3 to the end".
 
 """
 
+numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+numbers[:3] # Gives [0, 1, 2]
+numbers[3:] # Gives [3, 4, 5, 6, 7, 8, 9]
+
