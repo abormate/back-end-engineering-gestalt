@@ -15,4 +15,15 @@ list.
 
 The syntax is as follows:
 
+my_list[ start : stop : step ]
+
 """
+
+# For example --
+
+scores = [50, 70, 30, 20, 90, 10, 50]
+# Display list
+
+print(scores[1:5:2])
+# Prints [70, 20]
+
