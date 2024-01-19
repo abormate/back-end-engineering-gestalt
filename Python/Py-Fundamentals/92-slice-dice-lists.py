@@ -59,3 +59,9 @@ numbers[::2] # Gives [0, 2, 4, 6, 8]
 # -- Negative Indices --
 # -------------------------- #
 
+"""
+Negative indices count from the end of the list. For example, numbers[-1] gives 
+the last item in the list, numbers[-2] gives the second last item, and so on.
+
+"""
+
