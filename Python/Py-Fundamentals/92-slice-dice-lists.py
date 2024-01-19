@@ -90,3 +90,10 @@ even numbered indexes.
 # Remember, you can return multiple values from a function by separating them with commas:
 # return value1, value2, value3
 
+# ------------------------- #
+# -- Buggy Code --
+# ------------------------- #
+
+def get_champion_slices(champions):
+    pass
+
