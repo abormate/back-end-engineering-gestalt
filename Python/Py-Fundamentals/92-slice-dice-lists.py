@@ -33,3 +33,14 @@ not including 5, skipping every 2nd value. All of the sections are optional.
 
 """
 
+# --------------------------- #
+# -- Omitting Sections --
+# --------------------------- #
+
+"""
+You can also omit various sections ("start", "stop", or "step"). For example, 
+numbers[:3] means "get all items from the start up to (but not including) index 3". 
+numbers[3:] means "get all items from index 3 to the end".
+
+"""
+
