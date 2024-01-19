@@ -86,3 +86,7 @@ Last, return a slice of the champions list that only includes the champions in
 even numbered indexes.
 
 """
+
+# Remember, you can return multiple values from a function by separating them with commas:
+# return value1, value2, value3
+
