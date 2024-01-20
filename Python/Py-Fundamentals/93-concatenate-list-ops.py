@@ -104,3 +104,11 @@ if "__RUN__" in globals():
 
 main()
 
+# ---------------------------- #
+# -- Worked on Code -- Fixed --
+# ---------------------------- #
+
+def concatenate_favorites(favorite_weapons, favorite_armor, favorite_items):
+    armory = favorite_weapons + favorite_armor + favorite_items
+    list = armory
+    return list
