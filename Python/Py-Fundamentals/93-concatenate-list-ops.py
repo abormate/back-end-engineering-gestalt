@@ -37,3 +37,7 @@ Return the list containing the combined favorites.
 def concatenate_favorites(favorite_weapons, favorite_armor, favorite_items):
     pass
 
+# ----------------------------- #
+# -- Unit Test Cases --
+# ----------------------------- #
+
