@@ -45,3 +45,8 @@ def is_top_weapon(weapon):
     # don't touch above this line
 
     pass
+
+# ---------------------------------- #
+# -- Unit Test --
+# ---------------------------------- #
+
