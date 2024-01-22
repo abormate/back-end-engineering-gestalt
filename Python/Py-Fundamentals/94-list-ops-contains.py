@@ -13,3 +13,8 @@ the in keyword.
 fruits = ["apple", "orange", "banana"]
 print("apple" in fruits)
 # Prints: True
+
+# ----------------------------------- #
+# -- Assignment -- Practice --
+# ----------------------------------- #
+
