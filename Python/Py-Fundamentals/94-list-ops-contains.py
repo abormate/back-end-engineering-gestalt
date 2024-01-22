@@ -26,3 +26,8 @@ Complete the is_top_weapon function. It should return True if the weapon is in
 the top_weapons list, otherwise it should return False.
 
 """
+
+# ----------------------------------- #
+# -- Buggy Code --
+# ----------------------------------- #
+
