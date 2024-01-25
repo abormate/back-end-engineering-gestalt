@@ -39,3 +39,11 @@ comma so Python knows it's a tuple and not regular parentheses.
 """
 
 dog = ("Fido",)
+
+"""
+Because Tuples hold their data, multiple tuples can be stored within a list. 
+Similar to storing other data in lists, each tuple within the list is separated 
+by a comma. When accessing tuples the first index relates to which tuple you want 
+to access, the second relates to the values within that tuple.
+
+"""
