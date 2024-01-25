@@ -30,3 +30,10 @@ example, you might use a tuple to store a dog's name and age.
 
 dog = ("Fido", 4)
 
+"""
+NOTE
+
+Note: There is a special case for creating single-item tuples. You must include a 
+comma so Python knows it's a tuple and not regular parentheses.
+
+"""
