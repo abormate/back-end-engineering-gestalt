@@ -23,4 +23,7 @@ While it's typically considered bad practice to store items of different types i
 a List it's not a problem with Tuples. Because they have a fixed size, it's easy
 to keep track of which indexes store which types of data.
 
+Tuples are often used to store very small groups (like 2 or 3 items) of data. For 
+example, you might use a tuple to store a dog's name and age.
+
 """
