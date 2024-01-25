@@ -37,3 +37,5 @@ Note: There is a special case for creating single-item tuples. You must include 
 comma so Python knows it's a tuple and not regular parentheses.
 
 """
+
+dog = ("Fido",)
