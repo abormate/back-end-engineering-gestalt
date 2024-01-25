@@ -17,3 +17,10 @@ print(my_tuple[1])
 # 45
 print(my_tuple[2])
 # True
+
+"""
+While it's typically considered bad practice to store items of different types in 
+a List it's not a problem with Tuples. Because they have a fixed size, it's easy
+to keep track of which indexes store which types of data.
+
+"""
