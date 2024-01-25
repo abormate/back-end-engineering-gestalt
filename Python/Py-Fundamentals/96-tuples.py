@@ -27,3 +27,6 @@ Tuples are often used to store very small groups (like 2 or 3 items) of data. Fo
 example, you might use a tuple to store a dog's name and age.
 
 """
+
+dog = ("Fido", 4)
+
