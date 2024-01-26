@@ -68,3 +68,8 @@ Change the heroes list declaration from its current state to a list of tuples.
 Use the same data for each hero, and order it in the same way.
 
 """
+
+# --------------------------------- #
+# -- Buggy Code --
+# --------------------------------- #
+
