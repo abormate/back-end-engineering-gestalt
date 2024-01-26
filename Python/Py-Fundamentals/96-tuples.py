@@ -58,3 +58,12 @@ print(my_tuples[1][2]) # False
 # -- Assignment -- Practice --
 # ----------------------------------- #
 
+"""
+The "Fantasy Quest" character system needs a list of "heroes" to be able to run 
+the game properly. Someone wrote some pretty nasty code, and the code in question 
+creates a heroes list where every 3rd index defines a new hero. First their name, 
+then their age, then whether or not they're an "elf".
+
+
+
+"""
