@@ -64,6 +64,7 @@ the game properly. Someone wrote some pretty nasty code, and the code in questio
 creates a heroes list where every 3rd index defines a new hero. First their name, 
 then their age, then whether or not they're an "elf".
 
-
+Change the heroes list declaration from its current state to a list of tuples. 
+Use the same data for each hero, and order it in the same way.
 
 """
