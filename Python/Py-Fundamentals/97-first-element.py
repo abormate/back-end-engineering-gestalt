@@ -10,3 +10,8 @@ the first element from a list. If the list is empty then return the string ERROR
 instead.
 
 """
+
+# ------------------------------ #
+# -- Buggy Code --
+# ------------------------------ #
+
