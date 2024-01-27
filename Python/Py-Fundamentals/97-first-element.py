@@ -15,3 +15,6 @@ instead.
 # -- Buggy Code --
 # ------------------------------ #
 
+def get_first_item(items):
+    pass
+
