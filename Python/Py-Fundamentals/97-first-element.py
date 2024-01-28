@@ -75,3 +75,5 @@ main()
 # -- Worked on Code -- 
 # ------------------------------- #
 
+def get_first_item(items):
+    pass
