@@ -76,4 +76,7 @@ main()
 # ------------------------------- #
 
 def get_first_item(items):
-    pass
+    if items == []:
+        return "ERROR"
+    else:
+        return items[0]
