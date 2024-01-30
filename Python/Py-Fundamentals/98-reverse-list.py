@@ -17,9 +17,20 @@ For example:
 
 """
 
+# ------- #
 # TIP! 
-"""
+# ------- #
 
+"""
+The Python range function is very useful when working with lists. Alternately, 
+you may want to use list slicing.
+
+-- Where should you start your loop from?
+
+-- Where should you end your loop?
+
+-- What should the step be? In other words, how should you increment i in each 
+iteration of the loop?
 
 
 """
