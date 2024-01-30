@@ -39,3 +39,6 @@ iteration of the loop?
 # -- Buggy Code --
 # ---------------------------- #
 
+def reverse_array(items):
+    pass
+
