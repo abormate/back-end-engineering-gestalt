@@ -42,3 +42,7 @@ iteration of the loop?
 def reverse_array(items):
     pass
 
+# ---------------------------- #
+# -- Unit Test --
+# ---------------------------- #
+
