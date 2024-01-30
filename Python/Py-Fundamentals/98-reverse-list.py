@@ -12,5 +12,8 @@ except all the items are in reverse order.
 
 For example:
 
+[1, 2, 3] -> [3, 2, 1]
+['a', 'b', 'c', 'd'] -> ['d', 'c', 'b', 'a']
+
 """
 
