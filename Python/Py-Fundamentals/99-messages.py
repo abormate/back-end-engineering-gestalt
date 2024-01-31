@@ -1,6 +1,6 @@
 # ------------------------------------ #
 #
-# -- Filters -- Python StudySpace --
+# -- Filter Messages -- Python StudySpace --
 #
 # ------------------------------------ #
 
