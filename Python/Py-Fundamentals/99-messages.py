@@ -12,5 +12,10 @@ way inwards. Add extra print() statements and run your code often to make sure
 it's doing what you expect. Just make sure to remove the extra print() 
 statements before submitting your code.
 
+Running your code often to make sure each line is doing what you expect is called 
+"debugging". All programmers, even seasoned professionals, break large problems 
+down into small ones that they can debug line by line.
+
 
 """
+
