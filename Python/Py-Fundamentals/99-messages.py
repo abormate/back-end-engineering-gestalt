@@ -52,5 +52,9 @@ Here are the steps for you to follow:
 -- -- Append the count of bad words removed to its list
 -- -- Return the filtered messages first, then the counters
 
-
 """
+
+# --------------------------- #
+# -- Tips for Solving Problem --
+# --------------------------- #
+
