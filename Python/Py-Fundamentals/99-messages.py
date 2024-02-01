@@ -47,5 +47,10 @@ Here are the steps for you to follow:
 -- -- -- If the word is dang, increment the counter
 -- -- -- If it is not dang, add the word to the non-bad word list you created
 
+-- -- Join the list of non-bad words into a single string using the .join() method (see below for help)
+-- -- Append the new clean message to the final list of filtered messages
+-- -- Append the count of bad words removed to its list
+-- -- Return the filtered messages first, then the counters
+
 
 """
