@@ -58,3 +58,9 @@ Here are the steps for you to follow:
 # -- Tips for Solving Problem --
 # --------------------------- #
 
+"""
+The .split() method is called on a string. If you don't pass it any arguments, it 
+will just split the words in the string on the whitespace.
+
+"""
+
