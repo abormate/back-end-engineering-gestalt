@@ -32,3 +32,20 @@ new lists:
 
 messages = ["dang it bobby!", "look at it go"]
 # filter_messages(messages) # returns ["it bobby!", "look at it go"], [1, 0]
+
+"""
+Here are the steps for you to follow:
+
+1. Create the 2 empty lists that you'll return at the end. One for the filtered messages, and one for counts of words removed.
+2. For each message in the input list:
+
+-- -- Split the message into a list of words using the .split() string method (see below for help).
+-- -- Create a new empty list for all the non-bad words for this message.
+-- -- Create a counter variable and set it to 0. We'll increment this when we remove words from this message.
+-- -- For each word in the message:
+
+-- -- -- If the word is dang, increment the counter
+-- -- -- If it is not dang, add the word to the non-bad word list you created
+
+
+"""
