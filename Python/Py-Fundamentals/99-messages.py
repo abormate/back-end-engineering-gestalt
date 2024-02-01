@@ -29,3 +29,6 @@ filter_messages function. It takes a list of chat messages as input and returns 
 new lists:
 
 """
+
+messages = ["dang it bobby!", "look at it go"]
+# filter_messages(messages) # returns ["it bobby!", "look at it go"], [1, 0]
