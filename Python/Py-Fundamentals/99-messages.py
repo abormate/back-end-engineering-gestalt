@@ -68,3 +68,14 @@ message = "hello there sam"
 words = message.split()
 print(words)
 # Prints: ["hello", "there", "sam"]
+
+"""
+The .join() method is called on a delimiter (what goes between all the words in 
+the list), and takes a list of strings as input.
+
+"""
+
+list_of_words = ["hello", "there", "sam"]
+sentence = " ".join(list_of_words)
+print(sentence)
+# Prints: "hello there sam"
