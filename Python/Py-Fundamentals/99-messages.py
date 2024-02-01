@@ -64,3 +64,7 @@ will just split the words in the string on the whitespace.
 
 """
 
+message = "hello there sam"
+words = message.split()
+print(words)
+# Prints: ["hello", "there", "sam"]
