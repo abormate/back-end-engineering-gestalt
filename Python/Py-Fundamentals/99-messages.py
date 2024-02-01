@@ -23,3 +23,9 @@ down into small ones that they can debug line by line.
 # -- Assignment --
 # --------------------- #
 
+"""
+We need to filter the profanity out of our game's live chat feature! Complete the 
+filter_messages function. It takes a list of chat messages as input and returns 2 
+new lists:
+
+"""
