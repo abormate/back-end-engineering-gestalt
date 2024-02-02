@@ -18,5 +18,9 @@ numbers exist in a list.
 Write the get_odds_and_evens function to loop through the numbers list and check 
 if each number in the list is either odd or even.
 
+Increment the num_evens counter if even, and the num_odds counter if it's odd. 
+Lastly, return the two values num_odds and num_evens in that order.
+
+
 
 """
