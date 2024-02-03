@@ -23,5 +23,25 @@ create two new lists from the players list:
 -- even_team should have the players with even-numbered indexes.
 -- odd_team should have the players with odd-numbered indexes.
 
+Return even_team and odd_team in that order.
 
 """
+
+# --------------------------- #
+# -- Tip --
+# --------------------------- #
+
+"""
+You might want to use a slice with a "step" value:
+
+my_list[ start : stop : step ]
+
+"""
+
+# -------------------------- #
+# -- Buggy Code --
+# -------------------------- #
+
+def split_players_into_teams(players):
+    pass
+
