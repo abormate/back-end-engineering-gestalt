@@ -20,6 +20,8 @@ players into even teams.
 Complete the split_players_into_teams function. Use a slice with a "step" to 
 create two new lists from the players list:
 
+-- even_team should have the players with even-numbered indexes.
+-- odd_team should have the players with odd-numbered indexes.
 
 
 """
