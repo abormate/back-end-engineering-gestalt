@@ -100,3 +100,12 @@ main()
 # ------------------------------- #
 # -- Worked on Code --
 # ------------------------------- #
+
+def get_odds_and_evens(numbers):
+    num_evens = 0
+    num_odds = 0
+
+    # Don't touch above this line
+
+    pass
+
