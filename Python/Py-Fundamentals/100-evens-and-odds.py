@@ -107,6 +107,5 @@ def get_odds_and_evens(numbers):
 
     # Don't touch above this line
 
-    pass
-    pass
+    
 
