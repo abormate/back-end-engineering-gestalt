@@ -16,3 +16,10 @@ players into even teams.
 # -- Assignment -- 
 # --------------------------- #
 
+"""
+Complete the split_players_into_teams function. Use a slice with a "step" to 
+create two new lists from the players list:
+
+
+
+"""
