@@ -24,3 +24,6 @@ student_answers lists. Calculate and return the student's score.
 For example, if these were the lists:
 
 """
+
+answer_sheet = ["A", "A", "C", "D"]
+student_answers = ["A", "B", "C", "D"]
