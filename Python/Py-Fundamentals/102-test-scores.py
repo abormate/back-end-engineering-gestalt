@@ -27,3 +27,9 @@ For example, if these were the lists:
 
 answer_sheet = ["A", "A", "C", "D"]
 student_answers = ["A", "B", "C", "D"]
+
+"""
+Then the percentage would be 75.00. The percentage should be a float, 
+not an integer.
+
+"""
