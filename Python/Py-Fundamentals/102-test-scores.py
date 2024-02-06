@@ -33,3 +33,11 @@ Then the percentage would be 75.00. The percentage should be a float,
 not an integer.
 
 """
+
+# -------------------------- #
+# -- Buggy Code --
+# -------------------------- #
+
+def get_test_score(answer_sheet, student_answers):
+    pass
+
