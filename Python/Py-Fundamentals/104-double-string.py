@@ -18,3 +18,10 @@ Their English: HHeelllloo tthheerree
 # -- Assignment --
 # ---------------------------- #
 
+"""
+Complete the double_string function. It takes a string as input and returns a 
+"doubled" version, including spaces!
+
+Example output
+
+"""
