@@ -36,3 +36,7 @@ print(double_string(sentence)) # "hhii  iimm  aann  aalliieenn"
 
 # You can iterate over a string as if it were a list of individual characters.
 
+# ------------------------------ #
+# -- Buggy Code --
+# ------------------------------ #
+
