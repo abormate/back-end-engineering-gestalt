@@ -42,3 +42,8 @@ print(double_string(sentence)) # "hhii  iimm  aann  aalliieenn"
 
 def double_string(string):
     pass
+
+# ------------------------------ #
+# -- Unit Test Cases --
+# ------------------------------ #
+
