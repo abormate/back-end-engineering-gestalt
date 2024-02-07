@@ -24,4 +24,15 @@ Complete the double_string function. It takes a string as input and returns a
 
 Example output
 
+sentence = "hi im an alien"
+print(double_string(sentence)) # "hhii  iimm  aann  aalliieenn"
+
+
 """
+
+# ---------
+# -- TIP --
+# ---------
+
+# You can iterate over a string as if it were a list of individual characters.
+
