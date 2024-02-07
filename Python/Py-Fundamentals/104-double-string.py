@@ -40,3 +40,5 @@ print(double_string(sentence)) # "hhii  iimm  aann  aalliieenn"
 # -- Buggy Code --
 # ------------------------------ #
 
+def double_string(string):
+    pass
