@@ -10,3 +10,7 @@ it for her to grade her student's tests that she wants to take this further! She
 wants a more flexible program that can grade all of her student's tests.
 
 """
+
+# ----------------------------- #
+# -- Assignment --
+# ----------------------------- #
