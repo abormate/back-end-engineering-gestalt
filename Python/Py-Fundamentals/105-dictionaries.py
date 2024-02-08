@@ -46,3 +46,15 @@ Then the id field should be set to bloodwarrior123#server1. I recommend using an
 f-string to create the id field.
 
 """
+
+# -------------------------- #
+# -- Buggy Code -- 
+# -------------------------- #
+
+def get_character_record(name, server, level, rank):
+    pass
+
+# -------------------------- #
+#
+# -------------------------- #
+
