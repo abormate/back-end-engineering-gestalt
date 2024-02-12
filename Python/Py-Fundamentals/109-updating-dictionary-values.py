@@ -26,3 +26,17 @@ print(names_dict)
 #   'jack': 'denver',
 #   'james': 'mcarty'
 # }
+
+# In this example, "denver" overwrote "bronson" as the value for the key "jack".
+
+# ---------------------------- #
+# -- Assignment --
+# ---------------------------- #
+
+"""
+What happens if you assign a new value to an existing key?
+
+"""
+
+# The value updates
+
