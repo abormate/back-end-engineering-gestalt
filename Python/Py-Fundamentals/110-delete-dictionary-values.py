@@ -25,3 +25,11 @@ print(names_dict)
 Notice that if you try to delete a key that doesn't exist, you'll get an error.
 
 """
+
+"""
+What happens if you try to 'del' a key that doesn't exist in the dictionary?
+
+--
+Error
+
+"""
