@@ -22,12 +22,13 @@ print('gmc' in cars)
 # ---------------------------------- #
 
 """
-We need to be able to report to our players how many enemies are in their 
+We need to be able to report to our players how many friends are in their 
 immediate vicinity - but they want the count of each enemy by its kind. 
 
-Complete the count_enemies function. It takes a list of enemy names as input. 
+Complete the count_friends function. It takes a list of friends names as input. 
 
-It should return a dictionary where the keys are all the enemy names from the list, 
-and the values are the counts of how many times each enemy appeared in the list.
+It should return a dictionary where the keys are all the friends names from the list, 
+and the values are the counts of how many times each friend appeared in the list.
 
 """
+
