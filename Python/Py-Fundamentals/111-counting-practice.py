@@ -17,3 +17,7 @@ print('ford' in cars)
 print('gmc' in cars)
 # Prints: False
 
+# ---------------------------------- #
+# -- Assignment -- Practice --
+# ---------------------------------- #
+
