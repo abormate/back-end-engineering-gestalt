@@ -32,3 +32,14 @@ and the values are the counts of how many times each friend appeared in the list
 
 """
 
+# ----------------------------------- #
+# -- Buggy Code --
+# ----------------------------------- #
+
+def count_friends(friend_names):
+    pass
+
+# ----------------------------------- #
+# -- Worked on Code --
+# ----------------------------------- #
+
