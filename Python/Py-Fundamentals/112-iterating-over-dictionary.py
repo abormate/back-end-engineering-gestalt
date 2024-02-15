@@ -17,3 +17,8 @@ for name in fruit_sizes:
 # name: apple, size: small
 # name: banana, size: large
 # name: grape, size: tiny
+    
+# ----------------------------- #
+# -- Assignment -- Practice --
+# ----------------------------- #
+    
