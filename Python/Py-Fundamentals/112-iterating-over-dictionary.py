@@ -53,3 +53,10 @@ I would set the default for that variable to None.
 
 """
 
+# ------------------------------- #
+# -- Buggy Code --
+# ------------------------------- #
+
+def get_most_common_enemy(enemies_dict):
+    pass
+
