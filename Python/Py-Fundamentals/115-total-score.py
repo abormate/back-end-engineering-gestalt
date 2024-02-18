@@ -32,6 +32,8 @@ look at the test suite near the top of the file for the names of keys to expect.
 
 If no points were scored, the function should return 0.
 
-
+Don't forget: you can always add print() statements to your code so that you can 
+debug your code before submitting! Print out values of variables to see what's 
+going on, and question your assumptions about what you think is happening.
 
 """
