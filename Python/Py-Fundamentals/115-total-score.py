@@ -22,6 +22,10 @@ that calculates the total score.
 """
 Complete the merge and total_score functions.
 
+The merge function accepts two score dictionaries as input and returns a single 
+merged dictionary that contains all of the keys and values from the input 
+dictionaries.
+
 
 
 """
