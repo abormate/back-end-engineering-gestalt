@@ -14,3 +14,8 @@ help them write a program that merges the two dictionaries and another function
 that calculates the total score.
 
 """
+
+# ------------------------------ #
+# -- Assignment -- Practice --
+# ------------------------------ #
+
