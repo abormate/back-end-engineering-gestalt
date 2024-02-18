@@ -19,3 +19,9 @@ that calculates the total score.
 # -- Assignment -- Practice --
 # ------------------------------ #
 
+"""
+Complete the merge and total_score functions.
+
+
+
+"""
