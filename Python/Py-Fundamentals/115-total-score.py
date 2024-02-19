@@ -37,3 +37,8 @@ debug your code before submitting! Print out values of variables to see what's
 going on, and question your assumptions about what you think is happening.
 
 """
+
+# ----------------------------- # 
+# -- Debugging with Print Statements --
+# ----------------------------- #
+
