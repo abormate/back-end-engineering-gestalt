@@ -42,3 +42,7 @@ going on, and question your assumptions about what you think is happening.
 # -- Debugging with Print Statements --
 # ----------------------------- #
 
+def total_score(score_dict):
+    print(f"score_dict: {score_dict}")
+    for key in score_dict:
+        print(f"key: {key}")
