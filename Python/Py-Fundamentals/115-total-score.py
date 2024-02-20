@@ -165,3 +165,6 @@ def merge(dict1, dict2):
     for k in dict2:
         merged_dict[k] = dict2[k]
     return merged_dict
+
+def total_score(score_dict):
+    pass
