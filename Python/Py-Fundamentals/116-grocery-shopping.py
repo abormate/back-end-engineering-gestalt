@@ -14,3 +14,7 @@ help her manage her finances when she's grocery shopping.
 # -- Assignment -- Practice --
 # -------------------------------- #
 
+"""
+Complete the calculate_total function.
+
+"""
