@@ -25,3 +25,10 @@ fruits = {'apple', 'banana', 'grape'}
 fruits.add('pear')
 print(fruits)
 # Prints: {'banana', 'grape', 'pear', 'apple'}
+
+# Note: No error will be raised if you add an item already in the set.
+
+# ------------------------------- #
+# -- Empty Set --
+# ------------------------------- #
+
