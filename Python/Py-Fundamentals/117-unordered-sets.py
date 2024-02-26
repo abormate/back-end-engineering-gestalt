@@ -138,3 +138,15 @@ if "__RUN__" in globals():
 
 main()
 
+# ------------------------------------- #
+# -- Worked on Code --
+# ------------------------------------- #
+
+def remove_duplicates(spells):
+    spells_set = set()
+    for spell in spells:
+        spells_set.add(spell)
+    deduped_spells = []
+    for deduped_spell in spells_set:
+        deduped_spells.append(deduped_spell)
+    return deduped_spells
