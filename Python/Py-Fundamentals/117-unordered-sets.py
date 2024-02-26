@@ -32,3 +32,8 @@ print(fruits)
 # -- Empty Set --
 # ------------------------------- #
 
+"""
+Because the empty bracket {} syntax creates an empty dictionary, to create an 
+empty set, you need to use the set() function.
+
+"""
