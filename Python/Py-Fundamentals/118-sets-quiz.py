@@ -21,3 +21,8 @@ print(fruits)
 # -- Value Add --
 # --------------------------------------- #
 
+fruits = {'apple', 'banana', 'grape'}
+fruits.add('pear')
+print(fruits)
+# Prints: {'banana', 'grape', 'pear', 'apple'}
+
