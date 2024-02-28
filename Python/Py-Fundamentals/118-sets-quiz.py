@@ -26,3 +26,17 @@ fruits.add('pear')
 print(fruits)
 # Prints: {'banana', 'grape', 'pear', 'apple'}
 
+# --------------------------------------- #
+# -- Empty Set --
+# --------------------------------------- #
+
+"""
+Because the {} syntax creates an empty dictionary, to create an empty set, just 
+use the set() function.
+
+"""
+
+fruits = set()
+fruits.add('pear')
+print(fruits)
+# Prints: {'pear'}
