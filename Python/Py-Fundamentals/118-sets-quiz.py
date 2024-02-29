@@ -59,3 +59,8 @@ for fruit in fruits:
 # -- Removing Values --
 # ------------------------------------- #
     
+fruits = {'apple', 'banana', 'grape'}
+fruits.remove('apple')
+print(fruits)
+# Prints: {'banana', 'grape'}
+
