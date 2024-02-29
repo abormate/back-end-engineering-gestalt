@@ -40,3 +40,8 @@ fruits = set()
 fruits.add('pear')
 print(fruits)
 # Prints: {'pear'}
+
+# -------------------------------------- # 
+# -- Iterate over values in a Set --
+# -------------------------------------- #
+
