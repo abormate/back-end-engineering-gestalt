@@ -45,3 +45,10 @@ print(fruits)
 # -- Iterate over values in a Set --
 # -------------------------------------- #
 
+fruits = {'apple', 'banana', 'grape'}
+for fruit in fruits:
+    print(fruit)
+    # Prints:
+    # banana
+    # grape
+    # apple
