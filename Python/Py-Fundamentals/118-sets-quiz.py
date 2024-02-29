@@ -45,6 +45,8 @@ print(fruits)
 # -- Iterate over values in a Set --
 # -------------------------------------- #
 
+# !! NOTE !! -- Order is not guaranteed
+
 fruits = {'apple', 'banana', 'grape'}
 for fruit in fruits:
     print(fruit)
@@ -52,3 +54,4 @@ for fruit in fruits:
     # banana
     # grape
     # apple
+
