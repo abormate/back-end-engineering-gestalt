@@ -166,3 +166,5 @@ main()
 # -- Worked on Code --
 # ----------------------------------------- #
 
+def remove_duplicates(lst):
+    return set(lst)
