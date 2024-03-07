@@ -30,3 +30,7 @@ separate. For example, "A" and "a" are not the same.
 def count_vowels(text):
     pass
 
+# ------------------------------ #
+# -- Unit Test Cases --
+# ------------------------------ #
+
