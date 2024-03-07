@@ -24,5 +24,9 @@ separate. For example, "A" and "a" are not the same.
 """
 
 # ------------------------------ #
-# 
+#  -- Buggy Code --
 # ------------------------------ #
+
+def count_vowels(text):
+    pass
+
