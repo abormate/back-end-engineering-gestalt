@@ -26,3 +26,15 @@ Keep in mind, there may be duplicate ids in these lists, the gym workers aren't
 exactly concerned about data integrity. Make sure to remove any duplicates.
 
 """
+
+# --------- #
+# -- Tip --
+# --------- #
+
+"""
+You can convert a List to a Set using the set() function.
+You can convert a Set to a List using the list() function.
+You can subtract the elements in one Set from another Set using the - operator.
+
+"""
+
