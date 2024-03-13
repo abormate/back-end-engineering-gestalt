@@ -18,3 +18,11 @@ back-end servers.
 # -- Activity -- Practice --
 # --------------------------- #
 
+"""
+Complete the find_missing_ids function. It accepts two lists as input, and 
+returns a new list of all the ids present in the first list but not the second.
+
+Keep in mind, there may be duplicate ids in these lists, the gym workers aren't 
+exactly concerned about data integrity. Make sure to remove any duplicates.
+
+"""
