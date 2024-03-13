@@ -12,5 +12,9 @@ second gym. Luckily, the IDs from the 2 gyms match up because they used the same
 back-end servers.
 
 
-
 """
+
+# --------------------------- #
+# -- Activity -- Practice --
+# --------------------------- #
+
