@@ -64,3 +64,11 @@ handle the exception gracefully without crashing.
 # -- Assignment --
 # ---------------------------- #
 
+"""
+One of the calls to get_player_record is throwing a player 
+id not found exception. Change the code in the main 
+function to safely make all four calls within one 
+try-except block. If an exception is raised, print the 
+exception instead.
+
+"""
