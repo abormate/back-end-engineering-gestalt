@@ -72,3 +72,8 @@ try-except block. If an exception is raised, print the
 exception instead.
 
 """
+
+# --------------------------- #
+# -- Buggy Code --
+# --------------------------- #
+
