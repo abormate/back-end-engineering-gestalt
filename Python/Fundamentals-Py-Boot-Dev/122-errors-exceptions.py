@@ -59,3 +59,8 @@ exception as data (e in our case) so that the program can
 handle the exception gracefully without crashing.
 
 """
+
+# ---------------------------- #
+# -- Assignment --
+# ---------------------------- #
+
