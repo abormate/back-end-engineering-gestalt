@@ -14,7 +14,7 @@ print("Breakfast:")
 print(meal)
 
 # Now update meal to be lunch!
-meal = ""
+meal = "lunch"
 
 # Printing out lunch
 print("Lunch:")
