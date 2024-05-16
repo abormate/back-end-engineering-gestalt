@@ -33,7 +33,13 @@ a_float = 2.1
 print(an_int + 3)
 # Output: 5
 
+Above we defined an integer and a float as the variables an_int and 
+a_float. We printed out the sum of the variable an_int with the number 3. 
+We call the number 3 here a literal, meaning it’s actually the number 3 
+and not a variable with the number 3 assigned to it.
 
+Floating-point numbers can behave in some unexpected ways due to how 
+computers store them.
 
 
 """
