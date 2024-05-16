@@ -18,5 +18,8 @@ throw errors that we didnt expect to encounter we call those errors
 bugs. Programmers call the process of updating the program so that 
 it no longer produces unexpected errors debugging.
 
+Two common errors that we encounter while writing Python are SyntaxError 
+and NameError.
+
 
 """
