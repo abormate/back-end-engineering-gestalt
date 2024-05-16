@@ -1,8 +1,8 @@
-# -------------------------------------- #
+# --------------------------------------------------- #
 #
-# -- Python LearnSpace -- Errors and Mistakes --
+# -- Python LearnSpace -- Errors, bugs and mistakes --
 #
-# -------------------------------------- #
+# --------------------------------------------------- #
 
 # Codecademy -- Python 3 -- Learning Course
 
@@ -14,7 +14,7 @@ programs.
 
 Python refers to these mistakes as errors and will point to the 
 location where an error occurred with a ^ character. When programs 
-throw errors that we didn’t expect to encounter we call those errors 
+throw errors that we didnt expect to encounter we call those errors 
 bugs. Programmers call the process of updating the program so that 
 it no longer produces unexpected errors debugging.
 
