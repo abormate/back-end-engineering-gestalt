@@ -18,5 +18,13 @@ counterparts and the number 0. If you were counting the number of people
 in a room, the number of jellybeans in a jar, or the number of keys on a 
 keyboard you would likely use an integer.
 
+A floating-point number, or a float, is a decimal number. It can be used 
+to represent fractional quantities as well as precise measurements. If 
+you were measuring the length of your bedroom wall, calculating the 
+average test score of a seventh-grade class, or storing a baseball 
+players batting average for the 1998 season you would likely use a 
+float.
+
+
 
 """
