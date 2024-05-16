@@ -31,3 +31,39 @@ was never defined will throw a NameError.
 
 
 """
+
+# ------------------------- #
+# -- Buggy Code --
+# ------------------------- #
+
+"""
+
+print('This message has mismatched quote marks!")
+print(Abracadabra)
+
+-------------------------------------------------
+
+You might encounter a SyntaxError if you open a string with a 
+single quote and end it with double quotes. Update the string 
+so that it starts and ends with the same punctuation.
+
+You might encounter a NameError if you try to print a single 
+word string but fail to put any quotes around it. Python expects 
+the word of your string to be defined elsewhere but cant find 
+where its defined. Add quotes to either side of the string to 
+squash this bug.
+
+Update the malformed strings in the workspace to all be strings.
+
+-------------------------------------------------
+
+"""
+
+# ------------------------- #
+# -- Code Fixes --
+# ------------------------- #
+
+print("message print here")
+print("Abracadabra")
+
+
