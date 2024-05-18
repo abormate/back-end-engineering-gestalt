@@ -43,3 +43,5 @@ computers store them.
 
 
 """
+
+var_python_00 = 12.34 # defined with floating number
