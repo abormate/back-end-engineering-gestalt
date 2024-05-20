@@ -45,3 +45,10 @@ computers store them.
 """
 
 var_python_00 = 12.34 # defined with floating number
+
+# Define the release and runtime integer variables below:
+release_year = 2024
+runtime = 122
+
+# Define the rating_out_of_10 float variable below: 
+rating_out_of_10 = 9.33
