@@ -19,6 +19,15 @@ print(25 * 2)
 # Prints "2.0"
 print(10 / 5)
 
+Notice that when we perform division, the result has a decimal place. This is
+because Python converts all ints to floats before performing division. In older 
+versions of Python (2.7 and earlier) this conversion did not happen, and integer 
+division would always round down to the nearest integer.
 
+Division can throw its own special error: ZeroDivisionError. Python will raise 
+this error when attempting to divide by 0.
+
+Mathematical operations in Python follow the standard mathematical order of 
+operations.
 
 """
