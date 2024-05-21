@@ -43,3 +43,10 @@ values for the variable!
 
 
 """
+
+oranges = 5
+apples = 9
+bananas = 3
+grapes = 1
+
+print(str(oranges + apples + bananas + grapes) + " fruits in the basket.")
