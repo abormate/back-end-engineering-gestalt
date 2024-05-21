@@ -32,3 +32,4 @@ operations.
 
 """
 
+print(25 + 79 + 13 / 28)
