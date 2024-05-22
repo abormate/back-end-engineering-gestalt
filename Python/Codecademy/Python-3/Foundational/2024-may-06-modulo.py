@@ -38,3 +38,18 @@ print(5 % 3) # Prints 2
 print(6 % 3) # Prints 0
 print(7 % 3) # Prints 1
 
+"""
+In each of these modulo operations, 3 is the divisor. Since 3 / 3 equals 1 
+with no remainder, the result of the first modulo operation is 0. Note that as 
+the dividend increases by 1, the remainder also increases by 1, until we reach 
+the next number that is evenly divisible by 3 — this creates a pattern that 
+repeats contiuously as the dividend increases by 1!
+
+Because of this, the modulo operator is useful in programming when we want to 
+perform an action every nth time something occurs. Imagine you own a small café 
+and would like for every 7th customer to receive a survey. If every customer 
+transaction is numbered in the order they occur, you can determine which 
+customers should receive the survey by calculating <transaction number> % 7 — 
+if the result is 0, hand out the survey!
+
+"""
