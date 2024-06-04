@@ -53,3 +53,13 @@ customers should receive the survey by calculating <transaction number> % 7 —
 if the result is 0, hand out the survey!
 
 """
+
+order_300_r = 300 % 11
+print(order_300_r)
+
+order_300_coupon = "no"
+
+order_301_r = 301 % 11
+print(order_301_r)
+
+order_301_coupon = "yes"
