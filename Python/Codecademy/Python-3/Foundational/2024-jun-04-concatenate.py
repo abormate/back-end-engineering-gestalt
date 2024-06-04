@@ -19,3 +19,17 @@ full_text = greeting_text + question_text
 
 # Prints "Hey there!How are you doing?"
 print(full_text)
+
+"""
+In this sample of code, we create two variables that hold strings 
+and then concatenate them. But we notice that the result was 
+missing a space between the two, lets add the space in-between 
+using the same concatenation operator!
+
+"""
+
+full_text = greeting_text + " " + question_text
+
+# Prints "Hey there! How are you doing?"
+print(full_text)
+
