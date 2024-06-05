@@ -33,3 +33,15 @@ full_text = greeting_text + " " + question_text
 # Prints "Hey there! How are you doing?"
 print(full_text)
 
+
+"""
+Now the code prints the message we expected.
+
+If you want to concatenate a string with a number you will need 
+to make the number a string first, using the str() function. If 
+youre trying to print() a numeric variable you can use commas to 
+pass it as a different argument rather than converting it to a 
+string.
+
+"""
+
