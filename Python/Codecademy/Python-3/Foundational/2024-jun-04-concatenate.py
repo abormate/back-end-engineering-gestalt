@@ -5,11 +5,11 @@
 # ------------------------------------------ #
 
 """
-The + operator doesn’t just add two numbers, it can also “add” two 
+The + operator doesnt just add two numbers, it can also “add” two 
 strings! The process of combining two strings is called string 
 concatenation. Performing string concatenation creates a brand 
-new string comprised of the first string’s contents followed by 
-the second string’s contents (without any added space in-between).
+new string comprised of the first strings contents followed by 
+the second strings contents (without any added space in-between).
 
 """
 
