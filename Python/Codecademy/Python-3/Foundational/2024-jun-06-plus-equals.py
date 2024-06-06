@@ -23,4 +23,13 @@ number_of_miles_hiked += 2
 print(number_of_miles_hiked)
 # Prints 14
 
+"""
+Above, we keep a running count of the number of miles a person has 
+gone hiking over time. Instead of recalculating from the start, we 
+keep a grand total and update it when we’ve gone hiking further.
+
+The plus-equals operator also can be used for string concatenation, 
+like so:
+
+"""
 
