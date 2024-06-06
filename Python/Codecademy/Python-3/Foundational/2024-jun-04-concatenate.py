@@ -53,6 +53,6 @@ statement.
 
 
 
-message = string1 + string 2 + str(num) + string 3
+message = string1 + string2 + str(num) + string3
 
 print("message")
