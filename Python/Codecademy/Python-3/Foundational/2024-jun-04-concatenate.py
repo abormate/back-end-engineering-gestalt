@@ -51,4 +51,6 @@ statement.
 
 """
 
+message = string1 + string 2 + str(num) + string 3
+
 print("")
