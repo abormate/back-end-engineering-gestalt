@@ -43,4 +43,11 @@ youre trying to print() a numeric variable you can use commas to
 pass it as a different argument rather than converting it to a 
 string.
 
+Using str() we can convert variables that are not strings to 
+strings and then concatenate them. But we dont need to convert 
+a number to a string for it to be an argument to a print 
+statement.
+
+
 """
+
