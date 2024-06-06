@@ -33,3 +33,15 @@ like so:
 
 """
 
+hike_caption = "What an amazing time to walk through nature!"
+
+# Almost forgot the hashtags!
+hike_caption += " #nofilter"
+hike_caption += " #blessed"
+
+"""
+We create the social media caption for the photograph of nature we 
+took on our hike, but then update the caption to include important 
+social media tags we almost forgot.
+
+"""
