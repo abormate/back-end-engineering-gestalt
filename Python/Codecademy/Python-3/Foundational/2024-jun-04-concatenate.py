@@ -53,7 +53,9 @@ statement.
 
 string1 = "codecademy"
 
-string2 = 
+string2 = "app"
+
+string3 = ""
 
 message = string1 + string2 + str(num) + string3
 
