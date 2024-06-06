@@ -55,7 +55,7 @@ string1 = "codecademy"
 
 string2 = "app"
 
-string3 = ""
+string3 = "apples and oranges"
 
 num = 743
 
