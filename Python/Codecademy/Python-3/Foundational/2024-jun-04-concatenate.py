@@ -57,6 +57,8 @@ string2 = "app"
 
 string3 = ""
 
+num = 743
+
 message = string1 + string2 + str(num) + string3
 
 print("message")
