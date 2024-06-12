@@ -51,6 +51,14 @@ social media tags we almost forgot.
 # -------------------------------------- #
 
 """
+Were doing a little bit of online shopping and find a pair of new 
+sneakers. Right before we check out, we spot a nice sweater and 
+some fun books we also want to purchase!
 
+Use the += operator to update the total_price to include the 
+prices of nice_sweater and fun_books.
+
+The prices (also included in the workspace) are:
 
 """
+
