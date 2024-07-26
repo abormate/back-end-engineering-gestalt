@@ -26,3 +26,10 @@ My initials are S and L, so my initials.py program should output:
 
 """
 
+print(" SSS   L")
+print("S   S  L")
+print("S      L")
+print(" SSS   L")
+print("    S  L")
+print("S   S  L")
+print(" SSS   LLLLL")
