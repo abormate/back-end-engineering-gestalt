@@ -14,3 +14,8 @@ name in block letters as shown and dip your toes into ASCII art.
 
 """
 
+# Task 00
+"""
+
+
+"""
