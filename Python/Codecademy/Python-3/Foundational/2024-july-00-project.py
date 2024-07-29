@@ -67,3 +67,14 @@ print("   A A    ")
 print("  A   A   ")
 print(" AAAAAAA  ")
 print("A       A ")
+
+
+# -------------- #
+# -- Task 03 --
+# -------------- #
+
+"""
+Output your second initial as a block letter by adding to the print() 
+statements.
+
+"""
