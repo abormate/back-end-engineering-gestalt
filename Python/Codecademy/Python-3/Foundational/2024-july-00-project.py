@@ -44,3 +44,7 @@ print(" SSS   LLLLL")
 # Abraham Bormate
 # Works as an engineer who loves food and with being a big kid. :D 
 
+# ------------- #
+# -- Task 02 --
+# ------------- #
+
