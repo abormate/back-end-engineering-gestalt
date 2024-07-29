@@ -48,3 +48,9 @@ print(" SSS   LLLLL")
 # -- Task 02 --
 # ------------- #
 
+"""
+Output your first initial as a block letter. 
+There are a few ways to do this!
+
+"""
+
