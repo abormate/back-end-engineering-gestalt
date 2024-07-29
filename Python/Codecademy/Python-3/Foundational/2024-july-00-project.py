@@ -33,3 +33,9 @@ print(" SSS   L")
 print("    S  L")
 print("S   S  L")
 print(" SSS   LLLLL")
+
+
+# ------------- #
+# -- Task 01 --
+# ------------- #
+
