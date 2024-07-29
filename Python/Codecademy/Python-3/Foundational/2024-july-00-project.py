@@ -54,3 +54,16 @@ There are a few ways to do this!
 
 """
 
+print(" SSS   L")
+print("S   S  L")
+print("S      L")
+print(" SSS   L")
+print("    S  L")
+print("S   S  L")
+print(" SSS   LLLLL")
+
+print("    A     ")
+print("   A A    ")
+print("  A   A   ")
+print(" AAAAAAA  ")
+print("A       A ")
