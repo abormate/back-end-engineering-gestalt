@@ -78,3 +78,8 @@ Output your second initial as a block letter by adding to the print()
 statements.
 
 """
+
+print("BBB")
+print("B  B")
+print("B  B")
+print("BBB")
