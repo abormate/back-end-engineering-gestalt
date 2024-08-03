@@ -83,3 +83,5 @@ luxurious_lamp_description and assign it the following:
 
 """
 
+luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade."
+
