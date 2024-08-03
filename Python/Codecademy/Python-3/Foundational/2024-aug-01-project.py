@@ -62,3 +62,10 @@ stylish_settee_description = "Stylish Settee. Faux leather on birch. 29.50 inche
 # -- Task 03 --
 # ---------------- #
 
+"""
+Now let’s set the price for our Stylish Settee. Create a 
+variable stylish_settee_price and assign it the value of 
+180.50.
+
+"""
+
