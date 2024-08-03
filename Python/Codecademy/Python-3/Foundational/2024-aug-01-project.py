@@ -94,3 +94,5 @@ Lets set the price for this item. Create a variable called
 luxurious_lamp_price and set it equal to 52.15.
 
 """
+
+luxurious_lamp_price = 52.15
