@@ -76,3 +76,10 @@ stylish_settee_price = 180.50
 # -- Task 04 --
 # --------------- #
 
+"""
+Fantastic, we just need one more item before were ready for 
+business. Create a new variable called 
+luxurious_lamp_description and assign it the following:
+
+"""
+
