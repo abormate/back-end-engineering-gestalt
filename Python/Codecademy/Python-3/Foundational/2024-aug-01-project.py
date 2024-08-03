@@ -37,5 +37,10 @@ lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 
 # -- Task 01 --
 # ---------------- #
 
+"""
+Great, now lets create a price for the loveseat. Create a variable lovely_loveseat_price and set it equal to 254.00.
+
+"""
 
 lovely_loveseat_price = 254.00
+
