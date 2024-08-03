@@ -72,3 +72,7 @@ variable stylish_settee_price and assign it the value of
 stylish_settee_price = 180.50
 
 
+# --------------- #
+# -- Task 04 --
+# --------------- #
+
