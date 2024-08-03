@@ -58,3 +58,7 @@ string:
 
 stylish_settee_description = "Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wide x 28 inches deep. Black."
 
+# ---------------- #
+# -- Task 03 --
+# ---------------- #
+
