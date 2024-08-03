@@ -85,3 +85,12 @@ luxurious_lamp_description and assign it the following:
 
 luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade."
 
+# -------------- #
+# -- Task 05 --
+# -------------- #
+
+"""
+Lets set the price for this item. Create a variable called 
+luxurious_lamp_price and set it equal to 52.15.
+
+"""
