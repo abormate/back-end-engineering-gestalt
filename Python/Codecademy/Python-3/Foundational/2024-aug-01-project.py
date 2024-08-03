@@ -48,3 +48,11 @@ lovely_loveseat_price = 254.00
 # -- Task 02 --
 # ---------------- #
 
+"""
+Lets extend our inventory with another characteristic 
+piece of furniture! Create a variable called 
+stylish_settee_description and assign to it the following 
+string:
+
+"""
+
