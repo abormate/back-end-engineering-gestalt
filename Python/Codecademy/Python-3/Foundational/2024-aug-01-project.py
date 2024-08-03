@@ -24,6 +24,10 @@ the output terminal.
 # ----------------- #
 
 """
-
+Lets add in our first item, the Lovely Loveseat that is the 
+stores namesake. Create a variable called 
+lovely_loveseat_description and assign to it the following 
+string:
 
 """
+
