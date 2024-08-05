@@ -101,3 +101,11 @@ luxurious_lamp_price = 52.15
 # -- Task 06 --
 # --------------- #
 
+"""
+In order to be a business, we should also be calculating 
+sales tax. Let’s store that in a variable as well.
+
+Define the variable sales_tax and set it equal to .088. 
+Thats 8.8%.
+
+"""
