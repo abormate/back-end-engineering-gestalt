@@ -96,3 +96,8 @@ luxurious_lamp_price and set it equal to 52.15.
 """
 
 luxurious_lamp_price = 52.15
+
+# --------------- #
+# -- Task 06 --
+# --------------- #
+
