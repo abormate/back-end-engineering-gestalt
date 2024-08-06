@@ -125,3 +125,7 @@ lets set that variable equal to 0 for now.
 """
 
 customer_one_total = 0
+
+# --------------- #
+# -- Task 08 --
+# --------------- #
