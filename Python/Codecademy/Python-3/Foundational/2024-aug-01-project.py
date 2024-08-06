@@ -117,6 +117,10 @@ sales = 0.088
 # --------------- #
 
 """
-Our first customer is making their purchase! Let’s keep a running tally of their expenses by defining a variable called customer_one_total. Since they haven’t purchased anything yet, let’s set that variable equal to 0 for now.
+Our first customer is making their purchase! Lets keep a 
+running tally of their expenses by defining a variable called
+customer_one_total. Since they havent purchased anything yet, 
+lets set that variable equal to 0 for now.
 
 """
+
