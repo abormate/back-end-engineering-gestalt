@@ -139,3 +139,5 @@ make their purchases.
 
 """
 
+customer_one_itemization = ""
+
