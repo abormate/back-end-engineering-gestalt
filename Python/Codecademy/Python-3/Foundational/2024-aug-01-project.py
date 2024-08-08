@@ -129,3 +129,8 @@ customer_one_total = 0
 # --------------- #
 # -- Task 08 --
 # --------------- #
+
+"""
+We should also keep a list of the descriptions of things they’re purchasing. Create a variable called customer_one_itemization and set that equal to the empty string "". We’ll tack on the descriptions to this as they make their purchases.
+
+"""
