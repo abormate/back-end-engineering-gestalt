@@ -146,6 +146,6 @@ customer_one_itemization = ""
 # -------------- #
 
 """
-
+Our customer has decided they are going to purchase our Lovely Loveseat! Add the price to customer_one_total.
 
 """
