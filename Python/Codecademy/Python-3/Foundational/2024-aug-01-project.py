@@ -164,3 +164,4 @@ customer_one_itemization.
 
 """
 
+customer_one_itemization = lovely_loveseat_description
