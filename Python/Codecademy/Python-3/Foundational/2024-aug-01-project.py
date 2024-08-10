@@ -153,3 +153,7 @@ Lovely Loveseat! Add the price to customer_one_total.
 
 customer_one_total = 254.00
 
+# ------------- #
+# -- Task 10 --
+# ------------- #
+
