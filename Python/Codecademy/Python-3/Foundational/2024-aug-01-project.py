@@ -157,3 +157,10 @@ customer_one_total = 254.00
 # -- Task 10 --
 # ------------- #
 
+"""
+Lets start keeping track of the items our customer purchased. 
+Add the description of the Lovely Loveseat to 
+customer_one_itemization.
+
+"""
+
