@@ -176,5 +176,6 @@ Lets add the price to the customers total.
 
 """
 
-customer_one_total = "luxurious_lamp_price"
+customer_one_total = luxurious_lamp_price
 
+customer_one_itemization += luxurious_lamp_description
