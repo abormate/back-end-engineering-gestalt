@@ -170,3 +170,11 @@ customer_one_itemization = lovely_loveseat_description
 # -- Task 11 --
 # ------------ #
 
+"""
+Our customer has also decided to purchase the Luxurious Lamp! 
+Lets add the price to the customers total.
+
+"""
+
+customer_one_total = "luxurious_lamp_price"
+
