@@ -110,7 +110,7 @@ Thats 8.8%.
 
 """
 
-sales = 0.088
+sales_tax = 0.088
 
 # --------------- #
 # -- Task 07 --
@@ -191,3 +191,4 @@ equal to customer_one_total times sales_tax
 
 """
 
+customer_one_tax = customer_one_total * sales_tax
