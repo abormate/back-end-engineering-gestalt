@@ -185,6 +185,9 @@ customer_one_itemization += luxurious_lamp_description
 # ----------- #
 
 """
-
+Theyre ready to check out! Lets begin by calculating sales 
+tax. Create a variable called customer_one_tax and set it 
+equal to customer_one_total times sales_tax
 
 """
+
