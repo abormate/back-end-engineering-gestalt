@@ -192,3 +192,14 @@ equal to customer_one_total times sales_tax
 """
 
 customer_one_tax = customer_one_total * sales_tax
+
+# ---------- #
+# -- Task 13 --
+# ---------- #
+
+"""
+Add the sales tax to the customers total cost.
+
+"""
+
+customer_one_total += customer_one_tax
