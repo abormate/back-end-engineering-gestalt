@@ -203,3 +203,15 @@ Add the sales tax to the customers total cost.
 """
 
 customer_one_total += customer_one_tax
+
+# -------------- #
+# -- Task 014 --
+# -------------- #
+
+"""
+Lets start printing up their receipt! Begin by printing out 
+the heading for their itemization. Print the phrase 
+"Customer One Items:".
+
+"""
+
