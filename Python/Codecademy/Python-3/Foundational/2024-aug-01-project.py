@@ -215,3 +215,16 @@ the heading for their itemization. Print the phrase
 
 """
 
+print("Customer One Items: ")
+
+# ----------------- #
+# -- Task 015 --
+# ----------------- #
+
+"""
+Print customer_one_itemization.
+
+"""
+
+print(customer_one_itemization)
+
