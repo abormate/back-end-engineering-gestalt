@@ -251,3 +251,4 @@ receipt for the things they purchased.
 """
 
 print(customer_one_total)
+
