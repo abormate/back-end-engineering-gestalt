@@ -233,6 +233,7 @@ print(customer_one_itemization)
 # ------------------ #
 
 """
-Now add a heading for their total cost: Print out "Customer One Total:"
+Now add a heading for their total cost: Print out 
+"Customer One Total:"
 
 """
