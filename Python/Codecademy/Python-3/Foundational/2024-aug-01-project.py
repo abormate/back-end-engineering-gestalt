@@ -252,4 +252,4 @@ receipt for the things they purchased.
 
 print(customer_one_total)
 
-print("thank you...")
+print("thank you... keep well.")
