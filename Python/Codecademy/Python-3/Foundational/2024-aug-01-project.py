@@ -253,5 +253,3 @@ receipt for the things they purchased.
 
 
 
-
-
