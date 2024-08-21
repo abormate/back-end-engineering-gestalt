@@ -245,6 +245,7 @@ print("Customer One Total: ")
 # ------------------ #
 
 """
-Now print out their total! Our first customer now has a receipt for the things they purchased.
+Now print out their total! Our first customer now has a 
+receipt for the things they purchased.
 
 """
