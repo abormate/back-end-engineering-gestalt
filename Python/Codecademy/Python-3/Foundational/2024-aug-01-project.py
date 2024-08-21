@@ -240,3 +240,7 @@ Now add a heading for their total cost: Print out
 
 print("Customer One Total: ")
 
+# ------------------ #
+# -- Task 017 --
+# ------------------ #
+
