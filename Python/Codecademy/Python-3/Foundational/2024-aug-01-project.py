@@ -237,3 +237,6 @@ Now add a heading for their total cost: Print out
 "Customer One Total:"
 
 """
+
+print("Customer One Total: ")
+
