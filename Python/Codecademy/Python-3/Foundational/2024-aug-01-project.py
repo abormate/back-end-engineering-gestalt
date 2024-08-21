@@ -232,3 +232,7 @@ print(customer_one_itemization)
 # -- Task 016 --
 # ------------------ #
 
+"""
+Now add a heading for their total cost: Print out "Customer One Total:"
+
+"""
