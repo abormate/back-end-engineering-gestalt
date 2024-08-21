@@ -244,3 +244,7 @@ print("Customer One Total: ")
 # -- Task 017 --
 # ------------------ #
 
+"""
+Now print out their total! Our first customer now has a receipt for the things they purchased.
+
+"""
