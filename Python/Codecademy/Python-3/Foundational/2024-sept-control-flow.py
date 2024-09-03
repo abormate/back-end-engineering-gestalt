@@ -48,4 +48,8 @@ or false. The statement must be answered by true or false
 only, and it must be verifiable with evidence. It cannot 
 rely on interpretation or opinion.
 
+To understand this, lets go back to the waking up example. 
+The first question, “Is today a weekday?” can be written as 
+a Boolean expression shown below:
+
 """
