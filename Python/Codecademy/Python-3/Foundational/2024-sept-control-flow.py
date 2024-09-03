@@ -38,3 +38,7 @@ then run this function.
 # -- Boolean Module -- 
 # ---------------------- #
 
+"""
+To build control flow in our program, we need to be able to check whether a condition is true or not. For this, we use Boolean expressions.
+
+"""
