@@ -23,6 +23,6 @@ program will run (wake up) and start moving through its
 checklists, is this condition met, is that condition met, 
 okay lets execute this code and return that value.
 
-
+This is the control flow of your program. In Python, your script will execute from the top down, until there is nothing left to run. It is your job to include gateways, known as conditional statements, to tell the computer when it should execute certain blocks of code. If these conditions are met, then run this function.
 
 """
