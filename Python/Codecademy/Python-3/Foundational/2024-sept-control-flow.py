@@ -30,8 +30,11 @@ conditional statements, to tell the computer when it should
 execute certain blocks of code. If these conditions are met, 
 then run this function.
 
-
-
 """
 
 # flow chart sample --> https://prnt.sc/DSYdwc7muUKw
+
+# ---------------------- #
+# -- Boolean Module -- 
+# ---------------------- #
+
