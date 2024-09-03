@@ -43,6 +43,9 @@ To build control flow in our program, we need to be able to
 check whether a condition is true or not. For this, we use 
 Boolean expressions.
 
-A Boolean expression is a statement that can either be true or false. The statement must be answered by true or false only, and it must be verifiable with evidence. It cannot rely on interpretation or opinion.
+A Boolean expression is a statement that can either be true 
+or false. The statement must be answered by true or false 
+only, and it must be verifiable with evidence. It cannot 
+rely on interpretation or opinion.
 
 """
