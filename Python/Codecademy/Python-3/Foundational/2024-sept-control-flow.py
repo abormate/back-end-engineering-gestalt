@@ -81,3 +81,8 @@ first question, “Is today a weekday?” can be written as a
 Boolean expression shown below:
 
 """
+
+"""
+This expression can be true - if today is Tuesday, for example - or false if it’s a weekend. There are no other options, we know the answer is verifiable, and it does not rely on an opinion.
+
+"""
