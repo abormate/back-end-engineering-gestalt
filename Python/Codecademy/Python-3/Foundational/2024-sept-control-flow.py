@@ -83,6 +83,11 @@ Boolean expression shown below:
 """
 
 """
+Today is a weekday.
+
+"""
+
+"""
 This expression can be true - if today is Tuesday, for 
 example - or false if its a weekend. There are no other 
 options, we know the answer is verifiable, and it does not 
