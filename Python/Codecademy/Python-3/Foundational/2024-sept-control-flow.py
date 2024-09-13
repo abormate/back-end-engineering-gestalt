@@ -68,7 +68,10 @@ Boolean expressions.
 """
 
 """
-Boolean expression is a statement that can either be true or false. The statement must be answered by true or false only, and it must be verifiable with evidence. It cannot rely on interpretation or opinion.
+Boolean expression is a statement that can either be true or 
+false. The statement must be answered by true or false only, 
+and it must be verifiable with evidence. It cannot rely on 
+interpretation or opinion.
 
 """
 
