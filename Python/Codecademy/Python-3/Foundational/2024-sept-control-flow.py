@@ -76,6 +76,8 @@ interpretation or opinion.
 """
 
 """
-To understand this, let’s go back to the ‘waking up’ example. The first question, “Is today a weekday?” can be written as a Boolean expression shown below:
+To understand this, lets go back to the waking up example. The 
+first question, “Is today a weekday?” can be written as a 
+Boolean expression shown below:
 
 """
