@@ -93,4 +93,7 @@ example - or false if its a weekend. There are no other
 options, we know the answer is verifiable, and it does not 
 rely on an opinion.
 
+Now, consider the following phrase:
+
 """
+
