@@ -96,4 +96,9 @@ rely on an opinion.
 Now, consider the following phrase:
 
 """
+"""
+Friday is the best day of the week.
+
+"""
+
 
