@@ -109,5 +109,7 @@ might say that “Wednesday is the best day.” and their
 statement would be no less true or false than the one 
 above.
 
+How about the following phrase:
+
 """
 
