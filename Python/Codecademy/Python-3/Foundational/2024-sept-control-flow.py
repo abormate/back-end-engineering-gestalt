@@ -101,4 +101,9 @@ Friday is the best day of the week.
 
 """
 
+"""
+Is this a Boolean expression?
 
+No, this statement is an opinion and is subjective. Someone might say that “Wednesday is the best day.” and their statement would be no less true or false than the one above.
+
+"""
