@@ -119,6 +119,6 @@ Sunday starts with the letter 'C.'
 """
 
 """
-Yes, this is a Boolean expression since the answer can only be true or false and it is verifiable. Even though the statement itself is false (Sunday starts with the letter ‘S’ and not ‘C’), it is still a Boolean expression.
+Yes, this is a Boolean expression since the answer can only be true or false and it is verifiable. Even though the statement itself is false (Sunday starts with the letter S and not C), it is still a Boolean expression.
 
 """
