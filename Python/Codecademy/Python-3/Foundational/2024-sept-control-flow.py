@@ -125,5 +125,3 @@ statement itself is false (Sunday starts with the letter S
 and not C), it is still a Boolean expression.
 
 """
-
-
