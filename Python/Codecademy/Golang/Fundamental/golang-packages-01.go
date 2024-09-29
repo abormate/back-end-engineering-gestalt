@@ -39,6 +39,12 @@ We use the func keyword to declare the Go function main:
 -- After the name there follows a pair of parentheses () and a set of curly braces {}.
 -- The function code is written inside the set of curly braces.
 
+------------------------------
+-- Function Code --
+------------------------------
+
+
+
 */
 
 package main
