@@ -51,6 +51,10 @@ earlier) to print the message "Hello World".
 -- Invoking Functions --
 ------------------------------
 
+Normally when we write functions, you need to write code to 
+invoke them, otherwise they are unused. However, the main 
+function is different if it resides in the main package.
+
 
 
 ------------------------------
