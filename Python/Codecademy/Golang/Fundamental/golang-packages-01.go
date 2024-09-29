@@ -43,8 +43,17 @@ We use the func keyword to declare the Go function main:
 -- Function Code --
 ------------------------------
 
-The code inside a function is indented. The code here invokes the Println function in the fmt package (that we imported earlier) to print the message "Hello World".
+The code inside a function is indented. The code here invokes 
+the Println function in the fmt package (that we imported 
+earlier) to print the message "Hello World".
 
+------------------------------
+-- Invoking Functions --
+------------------------------
+
+
+
+------------------------------
 */
 
 package main
