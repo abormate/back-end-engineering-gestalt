@@ -71,3 +71,7 @@ import "fmt"
 func main () {
   fmt.Println("Peace be with you, my brothers and sisters. God bless you!")
 }
+
+// ----------------------------
+// -- shell input --> go run main.go
+// ----------------------------
